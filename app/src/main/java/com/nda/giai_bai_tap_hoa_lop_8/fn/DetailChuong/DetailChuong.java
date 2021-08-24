@@ -11,6 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.nda.giai_bai_tap_hoa_lop_8.MainActivity;
 import com.nda.giai_bai_tap_hoa_lop_8.R;
 
 import java.io.BufferedReader;
@@ -62,7 +63,8 @@ public class DetailChuong extends AppCompatActivity {
         imgBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                finish();
+                chuongList.clear();
+                startActivity(new Intent(DetailChuong.this, MainActivity.class));
             }
         });
 
@@ -143,6 +145,12 @@ public class DetailChuong extends AppCompatActivity {
         }
 
 
+    }
+
+    @Override
+    public void onBackPressed() {
+        chuongList.clear();
+        startActivity(new Intent(DetailChuong.this, MainActivity.class));
     }
 
     private void mapting() {

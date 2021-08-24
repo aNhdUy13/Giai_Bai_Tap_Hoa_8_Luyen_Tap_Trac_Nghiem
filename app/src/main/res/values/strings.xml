@@ -731,8 +731,6 @@
         \n\nC. KCl2; CaCl2.
         \n\nD. KCl; CaCl
 
-
-
     </string>
     <string name="c1_10_result">
         *Bài 1 (Trang 37 SGK Hóa 8):
@@ -921,7 +919,1188 @@
         \n\nPhân tử khối : 27.2 + (32 + 16 x 4).3 = 342 đvC
 
     </string>
+
+
+
     <!--
-            (END) Chương 1
+        Chương 2
     -->
+    <string name="c2_1_question">
+        *Bài 1 ( Trang 47 SGK Hóa 8 ): Dấu hiệu nào là chính để phân biệt hiện tượng hóa học với hiện tượng vật lí?
+
+        \n\n\n*Bài 2 ( Trang 47 SGK Hóa 8 ): Trong số những quá trình kể dưới đây, cho biết đều là hiện tượng hóa học, đâu là hiện tượng vật lí. Giải thích.
+        \n\na) Lưu huỳnh cháy trong không khí tạo ra chất khí mùi hắc (khi lưu huỳnh đioxit).
+        \n\nb) Thủy tinh nóng chảy được thổi thành bình cầu.
+        \n\nc) Trong lò nung đá vôi, canxi cacbonat chuyển đến thành vôi sống (canxi oxit) và khí cacbon đioxit thoát ra ngoài.
+        \n\nd) Cồn để trong lọ không khí khi bay hơi.
+
+        \n\n\n*Bài 3 ( Trang 47 SGK Hóa 8 ): Khi đốt nến (làm bằng parafin), nến chảy lỏng thấm vào bấc, sau đó nến lỏng chuyển thành hơi. Hơi nến cháy trong không khí tạo ra khí cacbon đioxit và hơi nước.
+        \n\nHãy phân tích và chỉ ra ở giai đoạn nào diễn ra hiện tượng vật lí, giai đoạn nào diễn ra hiện tượng hóa học. Cho biết: Trong không khí có khí oxi và nến cháy là do có chất này tham gia.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Trong các hiện tượng sau, đâu là hiện tượng vật lí?
+        \n\nA. Điều chế nhôm (Al) nguyên chất từ quặng boxit (Al2O3).
+        \n\nB. Người ta để nước biển bay hơi thu được muối ăn.
+        \n\nC. Trứng để lâu ngày bị thối gây mùi rất khó chịu.
+        \n\nD. Làm sữa chua từ sữa tươi.
+        \n\n (-) Bài 2: Trong các hiện tượng sau, đâu là hiện tượng vật lý?
+        \n\nA. Thanh sắt bị gỉ tạo ra chất mới là gỉ sắt.
+        \n\nB. Cho vôi sống vào nước thành vôi tôi.
+        \n\nC. Sáng sớm khi mặt trời mọc sương mù tan.
+        \n\nD. Đun nóng đường ngả màu nâu đen.
+        \n\n (-) Bài 3: Cho các quá trình sau, đâu là quá trình hóa học?
+        \n\nA. Đường kính hòa tan vào nước tạo thành nước đường.
+        \n\nB. Nước đường cô cạn thành đường kính
+        \n\nC. Đường kính nung nóng chảy ở nhiệt độ vừa phải tạo thành chất lỏng trong.
+        \n\nD. Đường nóng chảy ở nhiệt độ cao sau một thời gian chuyển thành than.
+        \n\n (-) Bài 4: Đâu là hiện tượng hóa học trong các hiện tượng dưới đây?
+        \n\nA. Nước sôi
+        \n\nB. Nước bốc hơi
+        \n\nC. Nước đóng băng
+        \n\nD. Nước bị phân hủy tạo thành khí oxi và khí hiđro
+        \n\n (-) Bài 5: Chọn một phương pháp thích hợp để tách muối ăn từ nước biển.
+        \n\nA. Phương pháp chưng cất.
+        \n\nB.Phương pháp bay hơi.
+        \n\nC. Phương pháp lọc.
+        \n\nD. Tất cả đều đúng.
+
+    </string>
+    <string name="c2_1_result">
+        *Bài 1 ( Trang 47 SGK Hóa 8 ):
+        \n\nDấu hiệu chính để phân biệt hiện tượng hóa học với hiện tượng vật lí là :
+        \n\nHiện tượng hóa học có sự xuất hiện chất mới ; hiện tượng vật lí vẫn giữ nguyên chất ban đầu (nghĩa là chỉ thay đổi về hình dạng, trạng thái….).
+
+        \n\n\n*Bài 2 ( Trang 47 SGK Hóa 8 ):
+        \n\n- Hiện tượng hóa học (a) và (c) vì :
+        \n\nCâu a: lưu huỳnh cháy → khí lưu huỳnh đioxit : có sự tạo thành chất mới
+        \n\nCâu c: canxi cacbonat → hai chất khác : có sự tạo thành chất mới
+        \n\n- Hiện tượng vật lí (b) và (d) vì thủy tinh và cồn vẫn giữ nguyên chất ban đầu. Thủy tinh chỉ thay đổi trạng thái từ thủy tinh rắn thành thủy tinh nóng chảy. Cồn trong lọ kín không có sự thay đổi gì.
+
+        \n\n\n*Bài 3 ( Trang 47 SGK Hóa 8 ):
+        \n\nHiện tượng vật lý diễn ra ở giai đoạn nến chảy lỏng thấm vào bấc và giai đoạn nến lỏng chuyển thành hơi, trong giai đoạn này nếu (chất paraffin) chỉ biến đổi về trạng thái.
+        \n\nHiện tượng hóa học diễn ra ở giai đoạn nến cháy trong không khí, khi đó chất parafin đã biến đổi thành chất khác.
+        \n\nParafin + Oxi → Khí cacbon đioxit + Nước.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nHiện tượng vật lí là: Người ta để nước biển bay hơi thu được muối ăn. Vì nước và muối ăn không bị biến đổi thành chất khác mà chỉ chuyển thành các trạng thái khác
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 2:
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 3:
+        \n\nQuá trình hóa học là: Đường nóng chảy ở nhiệt độ cao sau một thời gian chuyển thành than. Vì đường dưới tác dụng của nhiệt độ tạo thành chất mới có màu đen là than.
+        \n\nĐáp án cần chọn là: D
+        \n\n (-) Bài 4:
+        \n\nA , B, C là hiện tượng vật lí chỉ biến đổi trạng thái nước không làm biến đổi hóa học nước
+        \n\nD đúng
+        \n\nĐáp án cần chọn là: D
+        \n\n (-) Bài 5:
+        \n\nNước biển rất giàu hàm lượng muối ăn (NaCl), làm bay hơi hết nước ta sẽ thu được muối ăn ở dạng rắn khan
+        \n\nĐáp án cần chọn là: B
+
+    </string>
+
+    <string name="c2_2_question">
+        *Bài 1 (Trang 50 SGK Hóa 8): a) Phản ứng hóa học là gì?
+        \n\nb) Chất nào gọi là chất phản ứng (hay chất tham gia) là sản phẩm?
+        \n\nc) Trong quá trình phản ứng, lượng chất nào giảm dần, lượng chất nào tăng dần?
+
+        \n\n\n*Bài 2 (Trang 50 SGK Hóa 8): a) Vì sao nói được: Khi chất có phản ứng chính là phân tử phản ứng (nếu là đơn chất kim loại thì chất phản ứng là nguyên tử kim loại phản ứng).
+        \n\nb) Trong một phản ứng chỉ xảy ra sự thay đổi gì? Kết quả là gì?
+        \n\nc) Theo hình 2.5 trong bài học hãy rút ra câu trả lời: Số lượng nguyên tử mỗi nguyên tố có giữ nguyên trước và sau phản ứng không?
+
+        \n\n\n*Bài 3 (Trang 50 SGK Hóa 8): Ghi lại phương trình chữ của phản ứng xảy ra khi cây nến cháy (xem lại bài tập 3, bài 12). Cho biết tên các chất tham gia và sản phẩm trong phản ứng này.
+
+        \n\n\n*Bài 4 (Trang 50 SGK Hóa 8): Ghép vào vở bài tập các câu sau đây với đầy đủ các từ thích hợp chọn trong khung:
+        \n\nTrước khi cháy chất parafin ở thể (1) .... còn khi cháy ở thể (2) .... Các (3) .... parafin phản ứng với các (4) .... khí oxi.
+
+        \n\n\n*Bài 5 (Trang 51 SGK Hóa 8): Bỏ qua trứng vào dung dịch axit clohiđric thấy sủi bọt ở vỏ trứng.
+        \n\nBiết rằng axit clohiđric đã tác dụng với canxi cacbonat (chất này có trong vỏ trứng) tạo ra canxi clorua (chất này tan) nước và khí cacbon đioxit thoát ra.
+        \n\nHãy chỉ ra dấu hiệu nhận biết có phản ứng xảy ra. Ghi lại phương trình bằng chữ của phản ứng.
+
+        \n\n\n*Bài 6 (Trang 51 SGK Hóa 8): Khi than cháy trong không khí xảy ra phản ứng hóa học giữa cacbon và khí oxi.
+        \n\na) Hãy giải thích vì sao cần đập vừa nhỏ than trước khi đưa vào lò đốt dùng que lửa châm rồi quạt mạnh đến khi than bén cháy thì thôi?
+        \n\nb) Ghi lại phương trình chữ của phản ứng biết rằng sản phẩn là khí cacbon đioxit.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Đốt photpho trong oxi thu được chất điphotpho pentaoxit. Phương trình chữ nào sau đây biểu diễn đúng phản ứng hóa học trên.
+        \n\nA. Photpho + điphotpho pentaoxit (to)-> khí oxi
+        \n\nB. Photpho (to)-> khí oxi + điphotpho pentaoxit
+        \n\nC. Photpho + khí oxi (to)-> điphotpho pentaoxit
+        \n\nD. Điphotpho pentaoxit + oxi (to)-> photpho
+        \n\n (-) Bài 2:Khi nung  đá vôi ở  nhiệt độ cao người ta thu được các sản phẩm là cacbon đioxit và canxi oxit.  Chọn phương trình chữ đúng với phản ứng trên?
+        \n\nA. Canxi oxit  +  cacbon đioxit → Canxi cacbonat
+        \n\nB. Canxi oxit    → Canxi cacbonat    +  cacbon đioxit
+        \n\nC. Canxi cacbonat →Canxi oxit  + cacbon đioxit
+        \n\nD. Canxi cacbonat   +  Canxi oxit   → Cacbon đioxit
+        \n\n (-) Bài 3: Trong các trường hợp sau, trường hợp không phải mô tả phương trình hóa học
+        \n\nA. Rượu để trong chai không kín bị cạn dần
+        \n\nB. Sắt cho tác dụng với oxi tạo ra khí SO2
+        \n\nC. Natri cháy trong không khí tạo thành Na2O
+        \n\nD. Tất cả đáp án
+        \n\n (-) Bài 4: Trong một phản ứng hóa học, giữa các sản phẩm với các chất phản ứng không có sự thay đổi về
+        \n\nA. số nguyên tử của mỗi chất.
+        \n\nB. số nguyên tố của mỗi chất.
+        \n\nC. số nguyên tử của mỗi nguyên tố.
+        \n\nD. số phân tử của mỗi chất.
+        \n\n (-) Bài 5:Trong một phản ứng hóa học các chất phản ứng và các chất sản phẩm phải chứa cùng:
+        \n\nA. Số nguyên tử của mỗi nguyên tố
+        \n\nB. Số nguyên tử trong mỗi chất
+        \n\nC.  Số nguyên tố tạo chất
+        \n\nD.  Số phân tử của mỗi chất
+
+
+
+
+
+
+    </string>
+    <string name="c2_2_result">
+        *Bài 1 (Trang 50 SGK Hóa 8):
+        \n\na) Phản ứng hóa học là quá trình biến đổi từ chất này thành chất khác.
+        \n\nb) Chất ban đầu, bị biến đổi trong phản ứng gọi là chất phản ứng. Chất mới sinh ra là sản phẩm.
+        \n\nc) Trong quá trình phản ứng, lượng chất tham gia giảm dần, lượng sản phẩm tăng dần.
+
+        \n\n\n*Bài 2 (Trang 50 SGK Hóa 8):
+        \n\na) Khi chất phản ứng chính là phân tử phản ứng vì hạt hợp thành hầu hết từ các chất là phân tử mà phân tử thể hiện đầy đủ tính chất hóa học của chất. Đơn chất kim loại có hạt hợp thành là nguyên tử, nên nguyên tử tham gia phản ứng (tạo ra liên kết với nguyên tử của nguyên tố khác).
+        \n\nb) Trong phản ứng hóa học chỉ có liên kết giữa các nguyên tử thay đổi làm cho phân tử này biến đổi thành phân tử khác. Kết quả là chất này biến đổi thành chất khác.
+        \n\nc) Hình 2.5 là sơ đồ tương trưng cho phản ứng hóa học giữa khí hiđro và khí oxi tạo ra nước: số nguyên tử của mỗi nguyên tố vẫn giữ nguyên trước và sau phản ứng. Số nguyên tử H là 4 và số nguyên tử oxi là 2.
+
+        \n\n\n*Bài 3 Trang 50 SGK Hóa 8):
+        \n\nPhương trình chữ của phản ứng:
+        \n\nParafin + Oxi → Cacbon đioxit + Nước
+        \n\nChất phản ứng: parafin và khí oxi
+        \n\nSản phẩm: nước và khí cacbon đioxit
+
+        \n\n\n*Bài 4 (Trang 50 SGK Hóa 8):
+        \n\n(1) rắn.
+        \n\n(2) hơi.
+        \n\n(3) phân tử.
+        \n\n(4) phân tử.
+
+        \n\n\n*Bài 5 (Trang 51 SGK Hóa 8):
+        \n\nPhương trình chữ của phản ứng:
+        \n\nAxit clohiđric + Canxi cacbonat → Canxi clorua + Nước + khí cacbon đioxit.
+        \n\nChất tham gia axit clohiđric và canxi cacbonat.
+        \n\nSản phẩm: canxi clorua, nước và khí cacbon đioxit.
+        \n\nDấu hiệu nhận biết có phản ứng xảy ra: sủi bọt khí.
+
+        \n\n\n*Bài 6 (Trang 51 SGK Hóa 8):
+        \n\na) Đập vừa nhỏ than để tăng bề mặt tiếp xúc của than với khí oxi, dùng que lửa châm để nâng nhiệt độ của than, quạt mạnh để thay đổi không khí, thêm đủ khí oxi. Khi than bén cháy là có phản ứng hóa học xảy ra.
+        \n\nb) Phương trình chữ của phản ứng:
+        \n\nThan + oxi (to = Nhiệt Độ)→ Cacbon đioxit.
+
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nĐốt photpho trong oxi thu được chất điphotpho pentaoxit hay photpho tác dụng với oxi thu được chất điphotpho pentaoxit
+        \n\nPhotpho + khí oxi Bài tập về Phản ứng hóa học lớp 8 có lời giải điphotpho pentaoxit
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 2:
+        \n\nPhương trình chữ:
+        \n\nCanxi cacbonat → canxi oxit + cacbon đioxit
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 3:
+        \n\nTrường hợp không phải mô tả phương trình hóa học là: Rượu để trong chai không kín bị cạn dần
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 4:
+        \n\nSố nguyên tử của mỗi nguyên tố của các chất trước và sau phản ứng được bảo toàn
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 5:
+        \n\nTrong một phản ứng hóa học các chất phản ứng và các chất sản phẩm phải chứa cùng: Số nguyên tử của mỗi nguyên tố
+        \n\nĐáp án cần chọn là: A
+    </string>
+
+    <string name="c2_3_question">
+        *Bài 1 (Trang 52 SGK Hóa 8): Mô tả những gì quan sát được. Trong hai ống nghiệm, ở ống nào xảy ra hiện tượng vật lí, ống nào xảy ra hiện tượng hóa học? Giải thích.
+
+        \n\n\n*Bài 2 (Trang 52 SGK Hóa 8): Ghi lại hiện tượng xuất hiện trong mỗi ống nghiệm. Dấu hiệu nào chứng tỏ có phản ứng xảy ra. Viết phương trình chữ phản ứng.
+        \n\nCho biết:
+        \n\na) Trong hơi thở ra có khí cacbon đioxit, hai chất mới tạo ra là canxi cacbonat và nước.
+        \n\nb) Hai chất mới tạo ra thì một cũng là canxi cacbonat và một là natri hiđroxit.
+    </string>
+    <string name="c2_3_result">
+        *Bài 1 (Trang 52 SGK Hóa 8)::
+        \n\nỐng nghiệm 1: Chất rắn tan hết tạo thành dung dịch màu tím.
+        \n\nỐng nghiệm 2: Tàn đóm đỏ bùng cháy. Hòa vào nước chất rắn còn lại một phần không tan hết.
+        \n\nGiải thích:
+        \n\nỐng 1: Thuộc hiện tượng vật lí vì không có sự biến đổi về chất.
+        \n\nỐng 2: Thuộc hiện tượng hóa học vì có chất mới sinh ra (khí oxi làm cho tàn đóm bùng cháy, chất không tan hết là manganđioxit).
+
+        \n\n\n*Bài 2 (Trang 52 SGK Hóa 8):
+        \n\nHiện tượng TN2.a
+        \n\n+ Ống nghiệm 1: không có hiện tượng gì
+        \n\n+ Ống nghiệm 2: thấy nước vôi trong vẩn đục
+        \n\nGiải thích :
+        \n\n+ Ống 1: không có phản ứng hóa học xảy ra
+        \n\n+ Ống 2: Đã xảy ra phản ứng vì xuất hiện chất mới làm đục nước vôi trong là canxicacbonat
+        \n\nPhương trình bằng chữ :
+        \n\nCanxi hidroxit (nước vôi trong) + cacbon đioxit (hơi thở)→ Canxi cacbonat + nước
+        \n\nHiện tượng TN2.b
+        \n\n- Nhỏ Na2CO3:
+        \n\n+ Ống 1: Không có hiện tượng gì.
+        \n\n+ Ống 2: Xuất hiện kết tủa trắng.
+        \n\nGiải thích:
+        \n\n+ Ống 1: Không có phản ứng hóa học xảy ra.
+        \n\n+ Ống 2: Đã xảy ra phản ứng hóa học vì xuất hiện chất mới.
+        \n\nPhương trình chữ: Canxi hiđroxit + Natricacbonat → Canxi cacbonat + Natri hiđroxit.
+
+    </string>
+
+    <string name="c2_4_question">
+        *Bài 1 (Trang 54 SGK Hóa 8): a) Phát biểu định luật bảo toàn khối lượng.
+        \n\nb) Giải thích vì sao khi một phản ứng hóa học xảy ra khối lượng được bảo toàn.
+
+        \n\n\n*Bài 2 (Trang 54 SGK Hóa 8): Trong phản ứng ở thí nghiệm trên, cho biết khối lượng của natri sunfat Na2SO4 là 14,2g khối lượng của các sản phẩm bari sunfat BaSO4 và natri clorua NaCl theo thứ tự là 23,3g và 11,7g.
+        \n\nHãy tính khối lượng của Bari clorua BaCl2 đã phản ứng.
+
+        \n\n\n*Bài 3 (Trang 54 SGK Hóa 8): Đốt cháy hết 9g kim loại magie Mg trong không khí thu được 15g hợp chất magie oxit MgO. Biết rằng magie cháy là phản ứng với khí oxi O2 trong không khí.
+        \n\na) Viết công thức về khối lượng của phản ứng xảy ra.
+        \n\nb) Tính khối lượng của khí oxi đã phản ứng.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Đốt cháy 4 g chất M cần 12,8 g khí oxi và thu được khí CO2 và hơi nước theo tỉ lệ  mCO2 : mH2O = 11 : 3. Khối lượng của CO2 và H2O lần lượt là:
+        \n\nA. 11g và 3g
+        \n\nB. 13,2 g và  3,6g
+        \n\nC. 12,32g và 3,36
+        \n\nD. 5,5 g và 1,5 g
+        \n\n (-) Bài 2: Khi nung đá vôi tới 90% khối lượng (chính bằng phần trăm chứa canxicacbonat) thu được 11,2 tấn canxi oxit và 8,8 tấn cacbonic. Khối lượng đá vôi lấy đem nung là:
+        \n\nA. 18 tấn
+        \n\nB. 20 tấn
+        \n\nC. 22,22 tấn
+        \n\nD. 33,33 tấn
+        \n\n (-) Bài 3: Người ta dùng 490 kg than để đốt lò chạy máy. Sau khi lò nguội, thấy còn 49 kg than chưa cháy. Tính hiệu suất phản ứng
+        \n\nA. 90%
+        \n\nB. 75%
+        \n\nC. 25%
+        \n\nD. 10%
+        \n\n (-) Bài 4: Canxi cacbonat là thành phần chính của đá vôi. Khi nung đá vôi xảy ra phản ứng hoá học sau:
+        \n\nCanxi cacbonat → Canxi oxit + Cacbon đioxit
+        \n\nBiết rằng khi nung 280 kg đá vôi (CaCO3) tạo ra 140 kg vôi sống (CaO) và 110 kg khí cacbon đioxit. Tính tỉ lệ phần trăm về khối lượng canxi cacbonat chứa trong đá vôi
+        \n\nA. 89,3%
+        \n\nB. 88,3%
+        \n\nC.  98,3%
+        \n\nD. 83,9%
+        \n\n (-) Bài 5: Thành phần chính của đất đèn là caxicacbua. Khi cho đất đèn hợp nước có phản ứng sau:
+        \n\nmCanxicacbua+ mNước → mCanxi Hiđroxit + mKhí Axetilen.
+        \n\nBiết rằng cho 80kg đất đèn hợp với 36 kg nước tạo thành 74kg canxi hiđroxit và 26 kg khí axetilen.
+        \n\nTỉ lệ phần trăm khối lượng canxicacbua có trong đất đèn là:
+        \n\nA. 64%
+        \n\nB. 74%
+        \n\nC. 80%
+        \n\nD. 90%
+    </string>
+    <string name="c2_4_result">
+        \n\n\n*Bài 1 (Trang 54 SGK Hóa 8):
+        \n\na) Phát biểu định luật bảo toàn khối lượng: " Trong một phản ứng hóa học, tổng khối lượng của các sản phẩm bằng tổng khối lượng các chất phản ứng ".
+        \n\nb) Một phản ứng hóa học xảy ra khối lượng được bảo toàn vì trong phản ứng hóa học nguyên tử được bảo toàn, không mất đi.
+
+        \n\n\n*Bài 2 (Trang 54 SGK Hóa 8):
+        \n\nPhương trình chữ của phản ứng:
+        \n\nNatri sunfat + Bari clorua → Bari sunfat + Natri clorua
+        \n\nTheo định luật bảo toàn khối lượng
+        \n\nm_BaCl2 + m_Na2SO4 = m_BaSO4 + m_NaCl
+        \n\n => mBaCl2 = mBaSO4 + mNaCl - mNa2SO4 = 23,3 + 11,7 - 14,2 = 20,8(g)
+
+        \n\n\n*Bài 3 (Trang 54 SGK Hóa 8):
+        \n\na) mMg + mO2 = mMgO.
+        \n\nb) mO2 = mMgO - mMg = 15 - 9 = 6(g)
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nGọi khối lượng của CO2 và H2O lần lượt là 11a và 3a
+        \n\nÁp dụng định luật bảo toàn khối lượng
+        \n\nmM + mO2 = mCO2 + mH2O
+        \n\n=> 4 + 12,8 = 11a + 3a
+        \n\n=> 16,8 = 14a => a = 1,2
+        \n\n=> mCO2 = 13,2g và mH2O = 3,6g
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 2:
+        \n\nCanxi cacbonaBài tập về Định luật bảo toàn khối lượng lớp 8 có lời giảicanxi oxit + cacbonic
+        \n\nÁp dụng định luật bảo toàn khối lượng ta có:
+        \n\nmCanxi Cacbonat= mCanxi Oxit + mCacbonic
+        \n\n=>  mCanxi Cacbonat= 11,2+8,8=20(tấn)
+        \n\nKhối lượng đá vôi lấy đem nung là : 2090%.100% = 22,22(tấn)
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 3:
+        \n\nmC phản ứng = 490 – 49 = 441 kg
+        \n\n=> H = (441 : 490) . 100% = 90%
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 4:
+        \n\nÁp dụng định luật bảo toàn khối lượng
+        \n\nmCaCO3 = mCao + mCO2 = 140 + 110= 250
+        \n\n%CaCO3 = (250: 280) . 100% = 89,3%
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 5:
+        \n\nÁp dụng định luật bảo toàn khối lượng ta có:
+        \n\nmCanxicacbua + mNước → mCanxihi đroxit + mKhí axetilen
+        \n\n=> mCanxicacbua= 74 + 26 – 36 = 64(kg)
+        \n\nPhần trăm khối lượng canxicacbua có trong đất đèn là:
+        \n\n%canxicacbua = (64:80).100%=80%
+        \n\nĐáp án cần chọn là: C
+
+    </string>
+
+    <string name="c2_5_question">
+        *Bài 1 ( Trang 57 SGK Hóa 8 ): a) Phương trình hóa học biểu diễn gì, gồm công thức hóa học của những chất nào?
+        \n\nb) Sơ đồ của phản ứng khác với phương trình hóa học của phản ứng ở điểm nào?
+        \n\nc) Nêu ý nghĩa của phương trình hóa học?
+
+        \n\n\n*Bài 2 ( Trang 57 SGK Hóa 8 ): Cho sơ đồ của các phản ứng sau:
+        \n\na) Na + O2 → Na2O.
+        \n\nb) P2O5 + H2O → H3PO4.
+        \n\nLập phương trình hóa học và cho biết tỉ lệ số nguyên tử, số phân tử của các chất trong mỗi phản ứng.
+
+        \n\n\n*Bài 3 ( Trang 58 SGK Hóa 8 ):  Yêu cầu làm như bài tập 2 theo sơ đồ của các phản ứng sau:
+        \n\na) HgO → Hg + O2.
+        \n\nb) Fe(OH)3 → Fe2O3 + H2O
+
+        \n\n\n*Bài 4 ( Trang 58 SGK Hóa 8 ): Cho sơ đồ phản ứng sau:
+        \n\nNa2CO3 + CaCl2 → CaCO3 + NaCl.
+        \n\na) Lập phương trình hóa học của phản ứng.
+        \n\nb) Cho biết tỉ lệ số phân tử của 4 cặp chất trong phản ứng (tùy chọn).
+
+        \n\n\n*Bài 5 ( Trang 58 SGK Hóa 8 ): Biết rằng kim loại magie Mg tác dụng với axit sunfuric H2SO4 tạo ra khí hiđro H2 và chất magie sunfat MgSO4.
+        \n\na) Lập phương trình hóa học của phản ứng.
+        \n\nb) Cho biết tỉ lệ số nguyên tử magie lần lượt với số phân tử của ba chất khác trong phản ứng.
+
+        \n\n\n*Bài 6 ( Trang 58 SGK Hóa 8 ): Biết rằng photpho đỏ P tác dụng với khí oxi tạo hợp chất P2O5.
+        \n\na) Lập phương trình hóa học của phản ứng.
+        \n\nb) Cho biết tỉ lệ số nguyên tử P lần lượt với số phân tử của hai chất khác trong phản ứng.
+
+        \n\n\n*Bài 7 ( Trang 58 SGK Hóa 8 ): Hãy chọn hệ số và công thức hóa học và thích hợp đặt vào những chỗ có dấu hỏi trong các phương trình hóa học sau (chép vào vở bài tập)
+        \n\na) ?Cu + ? → 2CuO
+        \n\nb) Zn + ?HCl → ZnCl2 + H2
+        \n\nc) CaO + ?HNO3 → Ca(NO3)2 + ?
+
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Cho phản ứng: Ca(OH)2 + SO2 → A Số lượng các nguyên tố hóa học có trong chất A là:
+        \n\nA. 5
+        \n\nB. 4
+        \n\nC. 3
+        \n\nD. 2
+        \n\n (-) Bài 2: Chọn PTHH đúng?
+        \n\nA. Mg + O (to)->  MgO
+        \n\nB. Mg2 + 2O (to)->  2MgO.
+        \n\nC. 2Mg + O2 (to)-> 2MgO.
+        \n\nD. Mg2 + O2 (to)->  2MgO
+        \n\n (-) Bài 3: Phương trình hóa học nào sau đây là đúng?
+        \n\nA. HCl      +    Zn →   ZnCl2 +   H2
+        \n\nB. 3HCl    +    Zn        → ZnCl2 +    H2
+        \n\nC. 2HCl    +    Zn→ ZnCl2  +    H2
+        \n\nD. 2HCl    +    2Zn      →  2ZnCl2 +  H2
+        \n\n (-) Bài 4: Cho PƯHH: 2HCl + CaCO3 → CaCl2 + H2O + CO2..
+        \n\nA. Đúng
+        \n\nB. Sai
+        \n\nC. Thiếu sản phẩm
+        \n\nD.  Thừa sản phẩm
+        \n\n (-) Bài 5: Cho sơ đồ phản ứng sau: Al2O3 + H2SO4 → Alx(SO4)y + H2O
+        \n\nA. ( x = 2 ; y = 3)
+        \n\nB. (x = 2; y =1)
+        \n\nC. (x = 3; y = 2)
+        \n\nD. (x = 3 ; y = 1)
+
+    </string>
+    <string name="c2_5_result">
+        *Bài 1 ( Trang 57 SGK Hóa 8):
+        \n\na) Phương trình hóa học biểu diễn ngắn gọn phản ứng hóa học, gồm công thức hóa học của chất phản ứng và sản phẩm phản ứng.
+        \n\nb) Sơ đồ của phản ứng khác với phương trình hóa học là chưa có hệ số thích hợp, tức là chưa cân bằng nguyên tử. Tuy nhiên có một số trường hợp thì sơ đồ cũng là phương trình hóa học.
+        \n\nc) Phương trình hóa học cho biết tỉ lệ về số nguyên tử, số phân tử giữa các chất trong phản ứng cũng như từng cặp chất trong phản ứng.
+
+        \n\n\n*Bài 2 ( Trang 57 SGK Hóa 8):
+        \n\nPhương trình hóa học của phản ứng :
+        \n\na) 4Na + O2 → 2Na2O
+        \n\nSố nguyên tử Na : số phân tử oxi : số phân tử Na2O là 4 : 1 : 2
+        \n\nb) P2O5 + 3H2O → 2H3PO4
+        \n\nSố phân tử P2O5 : số phân tử H2O : số phân tử H3PO4 là 1 : 3 :2
+
+        \n\n\n*Bài 3 ( Trang 58 SGK Hóa 8):
+        \n\nPhương trình hóa học của phản ứng:
+        \n\na) 2HgO → 2Hg + O2.
+        \n\nSố phân tử HgO : số nguyên tử Hg : số phân tử O2 là 2 : 2 :1.
+        \n\n2Fe(OH)3 → Fe2O3 + 3H2O.
+        \n\nSố phân tử Fe(OH)3 : số phân tử Fe2O3 : số phân tử H2O là 2 : 1 : 3.
+
+        \n\n\n*Bài 4 ( Trang 58 SGK Hóa 8):
+        \n\na) Phương trình hóa học của phản ứng:
+        \n\nNa2CO3 + CaCl2 → CaCO3 + 2NaCl.
+        \n\nb) Số phân tử Na2CO3 : số phân tử CaCl2  = 1 : 1
+        \n\nSố phân tử CaCO3 : số phân tử NaCl = 1 : 2
+        \n\nSố phân tử Na2CO3 : số phân tử NaCl = 1 : 2
+        \n\nSố phân tử CaCl2  : Số phân tử CaCO3 = 1 : 1
+
+        \n\n\n*Bài 5 ( Trang 58 SGK Hóa 8 ):
+        \n\na) Phương trình hóa học của phản ứng:
+        \n\nMg + H2SO4 → MgSO4 + H2
+        \n\nb) Số nguyên tử Mg : số phân tử H2SO4 = 1:1
+        \n\nSố nguyên tử Mg : số phân tử MgSO4 = 1:1
+        \n\nSố nguyên tử Mg : số phân tử H2 = 1:1.
+
+        \n\n\n*Bài 6 ( Trang 58 SGK Hóa 8 ):
+        \n\na) Phương trình hóa học của phản ứng : 4P + 5O2 → 2P2O5.
+        \n\nb) Số nguyên tử P : số phân tử oxi : số phân tử P2O5 là 4 : 5 : 2.
+        \n\n=> Số nguyên tử P : số phân tử oxi = 4:5
+        \n\nSố nguyên tử P : số phân tử P2O5 = 4:2 = 2:1
+
+        \n\n\n*Bài 7 ( Trang 58 SGK Hóa 8 ):
+        \n\nPhương trình hóa học của phản ứng:
+        \n\na) 2Cu + O2 → 2CuO
+        \n\nb) Zn + 2HCl → ZnCl2 + H2
+        \n\nc) CaO + 2HNO3 → Ca(NO3)2 + H2O.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+         \n\nA: Ca(HSO3)2
+         \n\nCa(OH)2 + SO2 → Ca(HSO3)2
+         \n\nSố nguyên tố hóa học có trong chất A là: Ca, H, S, O => có 4 nguyên tố
+         \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 2:
+        \n\nPTHH: 2Mg+O2t0→2MgO2Mg+O2→t02MgO
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 3:
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 4:
+        \n\nPƯHH: 2HCl + CaCO3 → CaCl2 + H2O + CO2. đúng
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 5:
+        \n\nAl2O3: O có hóa trị II=> Al có hóa trị III
+        \n\nH2SO4: H có hóa trị I => gốc SO42- có hóa trị II
+        \n\nAlx(SO4)y
+        \n\nTheo qui tắc hóa trị ta có:
+        \n\nIII.x=II.y → x/y = II/III = 2/3
+        \n\nChọn x = 2 và y = 3
+        \n\nĐáp án cần chọn là: A
+
+    </string>
+
+    <string name="c2_6_question">
+        *Bài 1 ( Trang 60 SGK Hóa 8 ): Hình (Trong Sách) là sơ đồ tương trựng cho phản ứng: Giữa khí N2 và khí H2 tạo ra amoniac NH3.
+        \n\nHãy cho biết:
+        \n\na) Tên các chất tham gia và sản phẩm?
+        \n\nb) Liên kết giữa các nguyên tử thay đổi như thế nào? Phân tử nào biến đổi, phân tử nào được tạo ra?
+        \n\nc) Số nguyên tử mỗi nguyên tố trước và sau phản ứng bằng bao nhiêu có giữ nguyên không?
+
+        \n\n\n*Bài 2 ( Trang 61 SGK Hóa 8 ): Khẳng định sau gồm hai ý: " Trong phản ứng hóa học chỉ phân tử biến đổi còn các nguyên tử giữ nguyên, nên tổng khối lượng các chất phản ứng được bảo toàn"
+        \n\nHãy chọn phương án trả lời đúng trong số các phương án cho sau:
+        \n\nA. Ý 1 đúng, ý 2 sai.
+        \n\nB. Ý 1 sai ý 2 đúng.
+        \n\nC. Cả hai ý đều đúng nhưng ý 1 không giải thích ý 2.
+        \n\nD. Cả hai ý đều đúng và ý 1 giải thích ý 2.
+        \n\nE. Cả hai ý đều sai.
+
+        \n\n\n*Bài 3 ( Trang 61 SGK Hóa 8 ): Canxi cacbonat là thành phần chính của đá vôi. Khi nung đá vôi xảy ra phản ứng hóa học sau:
+        \n\nCanxi cacbonat → Canxi oxit + cacbon đioxit.
+        \n\nBiết rằng khi nung 280kg đá vôi tạo ra 140kg canxi oxit CaO (vôi sống) và 110kg khí cacbon đioxit CO2.
+        \n\na) Viết công thức về khối lượng của các chất trong phản ứng.
+        \n\nb) Tính tỉ lệ phần trăm về khối lượng canxi cacbonat chứa trong đá vôi.
+
+        \n\n\n*Bài 4 ( Trang 61 SGK Hóa 8 ): Biết rằng khí etilen C2H4 cháy là xảy ra phản ứng với khí O2 sinh ra khí cacbon đioxit CO2 và nước.
+        \n\na) Lập phương trình hóa học phản ứng xảy ra?
+        \n\nb) Cho biết tỉ lệ giữa số phân tử etilen lần lượt với số phân tử oxi và số phân tử cacbon đioxit.
+
+        \n\n\n*Bài 5 ( Trang 61 SGK Hóa 8 ):  Cho sơ đồ của phản ứng như sau:
+        \n\nAl + CuSO4 → Alx(SO4)y + Cu
+        \n\na) Xác định các chỉ số x và y.
+        \n\nb) Lập phương trình hóa học và cho biết tỉ lệ số nguyên tử của cặp đơn chất kim loại số phân tử của cặp hợp chất,
+    </string>
+    <string name="c2_6_result">
+         *Bài 1 ( Trang 60 SGK Hóa 8 ):
+        \n\na) Chất tham gia: khí nitơ, khí hiđro.
+        \n\nChất tạo thành: khí amoniac.
+        \n\nb) Trước phản ứng hai nguyên tử H liên kết với nhau, hai nguyên tử nitơ cũng vậy. Sau phản ứng có 3 nguyên tử H liên kết với 1 nguyên tử N.
+        \n\nPhân tử hiđro và phân tử nitơ biến đổi phân tử ammoniac được tạo thành.
+        \n\nc) Số nguyên tử mỗi nguyên tố giữ nguyên trước và sau phản ứng số nguyên tử H là 6 và số nguyên tử N là 2.
+
+        \n\n\n*Bài 2 ( Trang 61 SGK Hóa 8 ):
+        \n\nĐáp án D.
+
+        \n\n\n*Bài 3 ( Trang 61 SGK Hóa 8 ):
+        \n\na) mCaCO3 = mCaO + mCO2
+        \n\nb) Khối lượng của CaCO3 đã phản ứng:
+        \n\n140 + 110 = 250 kg
+        \n\nTỉ lệ phần trăm khối lượng CaCO3 chứa trong đá vôi:
+        \n\n%CaCO3 = 250/280.100% = 89,3%
+
+        \n\n\n*Bài 4 ( Trang 61 SGK Hóa 8 ):
+        \n\na) Phương trình hóa học của phản ứng:
+        \n\nC2H4 + 3O2 → 2CO2 + 2H2O.
+        \n\nb) Số phân tử C2H4 : số phân tử oxi là 1 : 3
+        \n\nSố phân tử C2H4 : số phân tử cacbon đioxit = 1: 2
+
+        \n\n\n*Bài 5 ( Trang 61 SGK Hóa 8 ):
+        \n\na) Alx(SO4)y
+        \n\nTa có x.III = y.II ⇒ x/y = 2/3 ⇒ Al2(SO4)3
+        \n\nb) Phương trình hóa học : 2Al + 3CuSO4 → Al2(SO4)3 + 3Cu
+        \n\nTỉ lệ số nguyên tử của cặp đơn chất kim loại là số nguyên tử Al : số nguyên tử Cu = 2 : 3.
+        \n\nTỉ lệ số phân tử của cặp hợp chất là số phân tử CuSO4 : số phân tử Al2(SO4)3 = 3:1
+    </string>
+
+
+    <!--
+        Chương 3
+    -->
+    <string name="c3_1_question">
+        *Bài 1 ( Trang 65 SGK Hóa 8 ): Em hãy cho biết số nguyên tử hoặc phân tử có trong mỗi lượng chất sau:
+        \n\na) 1,5 mol nguyên tử Al.
+        \n\nb) 0,5 mol phân tử  H2.
+        \n\nc) 0,25 mol phân tử NaCl.
+        \n\nd) 0,05 mol phân tử H2O.
+
+        \n\n\n*Bài 2 ( Trang 65 SGK Hóa 8 ): Em hãy tìm khối lượng của:
+        \n\na) 1 mol nguyên tử Cl và 1 mol phân tử Cl2.
+        \n\nb) 1 mol nguyên tử Cu và 1 mol phân tử CuO.
+        \n\nc) 1 mol nguyên tử C, 1 mol phân tử CO, 1 mol phân tử CO2.
+        \n\nd) 1 mol phân tử NaCl và 1 mol phân tử C12H22O11 (đường).
+
+        \n\n\n*Bài 3 ( Trang 65 SGK Hóa 8 ): Em hãy tìm thể tích (ở đktc) của :
+        \n\na) 1 mol phân tử CO2 ; 2 mol phân tử H2 ; 1,5 mol phân tử O2.
+        \n\nb) 0,25 mol phân tử O2 và 1,25 mol phân tử N2.
+
+        \n\n\n*Bài 4 ( Trang 65 SGK Hóa 8 ): Em hãy cho biết khối lượng của N phân tử những chất sau:
+        \n\nH2O, HCl, Fe2O3, C12H22O11
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: 0,25 mol phân tử Al₂O₃ có khối lượng là bao nhiêu?
+        \n\nA. 10,2g
+        \n\nB. 24,5g
+        \n\nC. 52,5g
+        \n\nD. 25,5g
+        \n\n (-) Bài 2: Tính số mol phân tử có trong 6,72 lít khí H₂(đo ở đktc)?
+        \n\nA. 0,3mol
+        \n\nB. 0,5mol
+        \n\nC. 1,2 mol
+        \n\nD. 1,5mol
+        \n\n (-) Bài 3: Tính khối lượng khí H2 có trong 6,72 lít khí H₂(đo ở đktc)?
+        \n\nA. 0,6g
+        \n\nB. 24,5g
+        \n\nC. 52,5g
+        \n\nD. 25,5g
+        \n\n (-) Bài 4: Ở điều kiện tiêu chuẩn, 1 mol của bất kì chất khí nào đều chiếm một thể tích là:
+        \n\nA. 11,2 lít
+        \n\nB. 22,4 lít
+        \n\nC. 24,2 lít
+        \n\nD. 42,4 lít.
+        \n\n (-) Bài 5: Ở điều kiện tiêu chuẩn, thể tích mol của các chất khí có giá trị là:
+        \n\nA. 2,24 lít
+        \n\nB. 22,4 lít
+        \n\nC. 0,224 lít
+        \n\nD. 24 lít.
+
+    </string>
+    <string name="c3_1_result">
+        *Bài 1 ( Trang 65 SGK Hóa 8 ):
+        \n\na) 1,5 x 6.10^23 = 9.10^23 hay 1,5N (nguyên tử Al).
+        \n\nb) 0,5 x 6.10^23 = 3.10^23 hay 0,5N (phân tử H2).
+        \n\nc) 0,25 x 6.10^23 = 1,5.10^23 hay 0,25N (phân tử NaCl).
+        \n\nd) 0,05 x 6.10^23 = 0,3.10^23 hay 0,05N (phân tử H2O).
+
+        \n\n\n*Bài 2 ( Trang 65 SGK Hóa 8 ):
+        \n\na) MCl = 35,5g ; MCl2 = 71g.
+        \n\nb) MCu = 64g ; MCuO = (64 + 16)g = 80g.
+        \n\nc) MC = 12g ; MCO = (12 + 16)g = 28g, MCO2 = (12 + 16.2) = 44g.
+        \n\nd) MNaCl = (23+ 35,5) = 58,5g, MC12H22O11 = 12.12 + 1.22 + 16.11 = 342g.
+
+        \n\n\n*Bài 3 ( Trang 65 SGK Hóa 8 ):
+        \n\na) V_CO2 = 1.22,4 = 22,4l.
+        \n\nV_H2 = 2.22,4 = 44,8l.
+        \n\nV_O2 = 1,5 .22,4 = 33,6l.
+        \n\nb) V_hh = 22,4.(0,25 + 1,25) = 33,6l.
+
+        \n\n\n*Bài 4 ( Trang 65 SGK Hóa 8 ):
+        \n\nMH2O = (2.1 + 16) = 18g.
+        \n\nM_HCl = (1+35,5) = 36,5g.
+        \n\nM_Fe2O3 = 2.56 + 16.3 = 160g.
+        \n\nM_C12H22O11 = 12.12 + 22.1 + 16.11 = 342g.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nĐáp án cần chọn là: D
+        \n\n (-) Bài 2:
+        \n\n1 mol phân tử H2 (đo ở đktc) chiếm thể tích 22,4 lít
+        \n\nX mol phân tử H2 (đo ở đktc) chiếm thể tích 6,72 lít
+        \n\n→x= (1 . 6,72)/22,4 = 0,3 (mol)
+        \n\n (-) Bài 3:
+        \n\n1 mol phân tử H2 (đo ở đktc) chiếm thể tích 22,4 lít
+        \n\nX mol phân tử H2 (đo ở đktc) chiếm thể tích 6,72 lít
+        \n\n→ x = (1.6,72)/22,4 = 0,3 (mol)
+        \n\nMH2=2.1=2g/mol
+        \n\n1 mol phân tử H2 có khối lượng là 2 gam
+        \n\n0,3 mol phân tử H2 có khối lượng là x gam
+        \n\n→x= (0,3.2)/1 = 0,6 gam
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 4:
+        \n\nỞ điều kiện tiêu chuẩn, 1 mol của bất kì chất khí nào đều chiếm một thể tích là: 22,4 lít
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 5:
+        \n\nỞ điều kiện tiêu chuẩn, thể tích mol của các chất khí có giá trị là: 22,4 lít
+        \n\nĐáp án cần chọn là: B
+
+
+    </string>
+
+    <string name="c3_2_question">
+        *Bài 1 ( Trang 67 SGK Hóa 8 ): Kết luận nào đúng?
+        \n\nNếu hai chất khí khác nhau mà có thể tích bằng nhau (đo cùng nhiệt độ và áp suất) thì:
+        \n\na) Chúng có cùng số mol chất.
+        \n\nb) Chúng có cùng khối lượng.
+        \n\nc) Chúng có cùng số phân tử.
+        \n\nd) Không có kết luận được điều gì cả.
+
+        \n\n\n*Bài 2 ( Trang 67 SGK Hóa 8 ): Câu nào diễn tả đúng?
+        \n\nThể tích mol của chất khí phụ thuộc vào:
+        \n\na) Nhiệt độ của chất khí.
+        \n\nb) Khối lượng mol của chất khí.
+        \n\nc) Bản chất của chất khí.
+        \n\nd) Áp suất của chất khí.
+
+        \n\n\n*Bài 3 ( Trang 67 SGK Hóa 8 ): Hãy tính:
+        \n\na) Số mol của : 28g Fe 64g Cu 5,4g Al.
+        \n\nb) Thể tích khí (đktc) của 0,175 mol CO2; 1,25 mol H2; 3 mol N2.
+        \n\nc) Số mol và thể tích của hỗn hợp khí (dktc) gồm có 0,44g CO2 0,04g H2 và 0,56g N2.
+
+        \n\n\n*Bài 4 ( Trang 67 SGK Hóa 8 ): Hãy cho biết khối lượng của những lượng chất sau:
+        \n\na) 0,5 mol nguyên tử N; 0,01 mol nguyên tử Cl; 3 mol nguyên tử O;
+        \n\nb) 0,5 mol phân tử N2; 0,10 mol phân tử Cl2 ; 3 mol phân tử O2
+        \n\nc) 0,1 mol Fe ; 2,15 mol Cu, 0,8 mol H2SO4 ; 0,5 mol CuSO4
+
+        \n\n\n*Bài 5 ( Trang 67 SGK Hóa 8 ): Có 100g khí oxi và 100g khí cacbon đioxit cả hai khí đều ở 25oC và 1atm. Biết rằng thể tích mol khí ở những điều kiện này có thể tích là 24l. Nếu trộn hai khối lượng khí trên với nhau (không có phản ứng xảy ra) thì hỗn hợp khí thu được có thể tích là bao nhiêu?
+
+        \n\n\n*Bài 6 ( Trang 67 SGK Hóa 8 ): Hãy vẽ những hình khối chữ nhật để so sánh thể tích các khí sau (đktc): 1gH2 ; 8g O2 ; 3,5gN2 ; 33gCO2
+
+         \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Công thức đúng chuyển đổi giữa thể tích chất khí (đktc) và lượng chất là:
+        \n\nA. 22,4.n.V =1
+        \n\nB. V = n.22,4
+        \n\nC. n = 22,4.V
+        \n\nD. V=22,4.N
+        \n\n (-) Bài 2: Công thức liên hệ giữa mol, khối lượng chất và phân tử khối của một chất là:
+        \n\nA.  m= M× n
+        \n\nB.  m= M : n
+        \n\nC. m= n : M
+        \n\nD. m.n. M =1
+        \n\n (-) Bài 3: Công thức chuyển đổi giữa lượng chất (n) và thể tích của chất khí (V) ở điều kiện tiêu chuẩn là:
+        \n\nA. n =V. 22,4
+        \n\nB. n= 22,4/V
+        \n\nC. n = V/ 22,4
+        \n\nD. n. V = 22,4
+        \n\n (-) Bài 4: Cho biết công thức tính số mol, khi đề bài cho biết khối lượng ( m):
+        \n\nA.  m = n. M
+        \n\nB. n = m/M
+        \n\nC. n = V/22,4
+        \n\nD. n = V. 22,4
+        \n\n (-) Bài 5: Cho biết công thức tính số mol, khi đề bài cho biết thể tích (V) ở đktc:
+        \n\nA. m = n. M
+        \n\nB. Bài tập về Chuyển đổi giữa khối lượng, thể tích và lượng chất lớp 8 có lời giải
+        \n\nC. Bài tập về Chuyển đổi giữa khối lượng, thể tích và lượng chất lớp 8 có lời giải
+        \n\nD. n = V. 22,4
+
+
+    </string>
+    <string name="c3_2_result">
+        *Bài 1:
+        \n\nChọn đáp án đúng: a) và c)
+        \n\nVì V = n. 22,4 nên 2 chất khí có cùng V sẽ có cùng số mol chất ⇒ a đúng
+        \n\n1 mol chứa 6.1023 nguyên tử hoặc phân tử nên cùng số mol sẽ có cùng số phân tử ⇒ c đúng
+        \n\nKhối lượng m = M.n phụ thuộc vào phân tử khối và nguyên tử khối ⇒ b sai
+
+        \n\n\n*Bài 2 ( Trang 67 SGK Hóa 8 ):
+         \n\nChọn đáp án: a) và d).
+         \n\nỞ điều kiện tiêu chuẩn (0°, 1atm) 1 mol khí có thể tích là 22,4l
+         \n\nỞ đk thường (20°, 1atm) 1 mol khí có thể tích là 24l
+         \n\n⇒ V phụ thuộc vào nhiệt độ và áp suất ⇒ a, d đúng
+         \n\nVới mọi chất khí ở đktc ta có V = n.22,4 ⇒ V không phụ thuộc vào khối lượng mol của chất khí và bản chất của chất khí ⇒ b,c sai.
+
+        \n\n\n*Bài 3 ( Trang 67 SGK Hóa 8 ):
+        \n\na)
+        \n\n n_Fe = 28/56 = 0.5 (mol)
+        \n\n n_Cu = 64/64 = 1 (mol)
+        \n\n n_Al = (5,4)/27 = 0.2 (mol)
+        \n\nb) V_CO2 = 22,4 .0,175 = 3,92l.
+        \n\nV_H2 = 22,4 .1,25 = 28l.
+        \n\nV_N2 = 22,4.3 = 67,2l.
+        \n\nc) Số mol của hỗn hợp khí bằng tổng số mol của từng khí.
+        \n\n n_CO2 = 0,44/44 = 0.01 (mol)
+        \n\n n_H2 = 0,04/2 = 0,02 (mol)
+        \n\n n_N2 = 0,56/28 = 0,02 (mol)
+        n_hh = n_CO2 + n_H2 + n_N2 = 0,01 + 0,02 + 0,02 = 0,05 mol
+        V_hh khí = (0,01 + 0,02 + 0,02) . 22,4 = 1,12l.
+
+        \n\n\n*Bài 4 ( Trang 67 SGK Hóa 8 ):
+        \n\na) m_N = 0,5 .14 = 7g.
+        \n\nm_Cl = 0,1 .35.5 = 3.55g
+        \n\nm_O = 3.16 = 48g.
+        \n\nb) m_N2 = 0,5 .28 = 14g.
+        \n\nm_Cl2 = 0,1 .71 = 7,1g
+        \n\nm_O2 = 3.32 =96g
+        \n\nc) m_Fe = 0,1 .56 =5,6g m_Cu = 2,15.64 = 137,6g
+        \n\nm_H2SO4 = 0,8.98 = 78,4g.
+        \n\nm_CuSO4 = 0,5 .160 = 80g
+
+        \n\n\n*Bài 5 ( Trang 67 SGK Hóa 8 ):
+        \n\n n_CO2 = 100/44 = 2,273 (mol)
+        \n\n n_O2 = 100/32 = 3,125 (mol)
+        \n\nThể tích của hỗn hợp khí ở 20°C và 1atm
+        \n\nV_hh = 24.(n_O2 + n_CO2) = 24.(3,125 + 2,273) = 129,552 (l)
+
+        \n\n\n*Bài 6 ( Trang 67 SGK Hóa 8 ):
+        \n\n n_H2 = 1/2 = 0,5 (mol)
+        \n\n n_CO2 = 33/44 = 0,75 (mol)
+        \n\n n_O2 = 8/32 = 0,25 (mol)
+        \n\n n_N2 = 3,5/28 = 0,125 (mol)
+        \n\n - Sơ đồ biểu thị về tỉ lệ thể tích của các khí (Xem trong SGK)
+        => Tỉ lệ số mol các chất khí cũng chính là tỉ lệ về thể tích các khí nên thể tích khí VCO2 > VH2 > VO2 > VN2.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nCông thức chuyển đổi giữa thể tích chất khí(đktc) và chất lượng là: V= n. 22,4
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 2:
+        \n\nCông thức liên hệ giữa mol, khối lượng chất và phân tử khối của một chất là: m= M × n
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 3:
+        \n\nCông thức chuyển đổi giữa lượng chất (n) và thể tích của chất khí (V) ở điều kiện tiêu chuẩn là: n = V/ 22,4
+        \n\nĐáp án cần chọn là: C
+         \n\n (-) Bài 4:
+        \n\nCho biết công thức tính số mol, khi đề bài cho biết khối lượng (m):
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 5:
+        \n\nCho biết công thức tính số mol, khi đề bài cho biết thể tích (V) ở đktc:
+        \n\nĐáp án cần chọn là: C
+
+    </string>
+
+    <string name="c3_3_question">
+        *Bài 1 ( Trang 69 SGK Hóa 8 ): Có những khí sau: N2 , O2 ,Cl2 , CO , SO2.
+        \n\nHãy cho biết:
+        \n\na) Những khí nào nặng hay nhẹ hơn khí hiđro và nặng hay nhẹ hơn bằng bao nhiêu lần?
+        \n\nb) Những khí nào nặng hơn hay nhẹ hơn không khí và nặng hay nhẹ hơn bằng bao nhiêu lần?
+
+        \n\n\n*Bài 2 ( Trang 69 SGK Hóa 8 ): Hãy tìm khối lượng mol của những khí:
+        \n\na) Có tỉ khối đối với oxi là: 1,375 ; 0,0625.
+        \n\nb) Có tỉ khối đối với không khí là: 2,207; 1,172.
+
+        \n\n\n*Bài 3 ( Trang 69 SGK Hóa 8 ): Có thể thu những khí nào vào bình (từ những thí nghiệm trong phòng thí nghiệm) khí hiđro, khí clo, khí cacbon đioxit, khí metan bằng cách:
+        \n\na) Đặt đứng bình.
+        \n\nb) Đặt ngược bình.
+        \n\nGiải thích việc làm này?
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: B là oxit của nitơ có tỷ khối hơi so với khí cacbonic (CO2) là 1. B có công thức phân tử là:
+        \n\nA.  NO2
+        \n\nB. N2O
+        \n\nC. N2O4
+        \n\nD. NO
+        \n\n (-) Bài 2: Hỗn hợp khí CO và CO2 có tỉ khối so với O2 là 1. Thể tích khí  CO2  cần thêm vào 8,96  lít hỗn hợp trên (đktc) để có tỉ khối so với O2 tăng lên bằng 1,075 là:
+        \n\nA. 2,24 lít
+        \n\nB. 1,12 lít
+        \n\nC. 11,2 lít
+        \n\nD. 22,4 lít
+        \n\n (-) Bài 3: Hỗn hợp khí SO2 và O2 có tỉ khối so với CH4 là 3. Thể tích khí  O2  cần thêm vào 4,48  lít hỗn hợp trên (đktc) để có tỉ khối so với CH4 giảm còn 2,8 là:
+        \n\nA. 2,24 lít
+        \n\nB. 1,12 lít
+        \n\nC. 11,2 lít
+        \n\nD. 22,4 lít
+        \n\n (-) Bài 4: Cho các khí sau: Cl2; H2; O2; SO3; CH4; CO2. Số lượng khí có thể thu được bằng cách đẩy nước trong phòng thí nghiệm là:
+        \n\nA. 4
+        \n\nB. 3
+        \n\nC. 5
+        \n\nD. 2
+        \n\n (-) Bài 5: Cho hình vẽ về cách thu khí dời nước như sau: Hình vẽ bên có thể áp dụng để thu được khí nào trong các khí sau đây?
+        \n\nA. H2, HCl, H2S
+        \n\nB. H2, CO2
+        \n\nC. NH3, HCl
+        \n\nD. H2, NH3
+
+
+
+
+
+    </string>
+    <string name="c3_3_result">
+        *Bài 1 ( Trang 69 SGK Hóa 8 ):
+        \n\na) Nhận xét: Trong số các khí thì khí hiđro là nhẹ nhất MH2 = 2g/mol vì vậy tất cả các khí đều nặng hơn khí hiđro. Ta có:
+        \n\nd_N2/H2 = 28 : 2 = 14 lần.
+        \n\nd_O2/H2 = 32 : 2 = 16 lần.
+        \n\nd_Cl2/H2 = 71 : 2 = 35,5 lần.
+        \n\nd_CO/H2 = 28 : 2 = 14 lần.
+        \n\nd_SO2/H2 = 64 : 2 = 32 lần.
+        \n\nb) d_N2/kk = 28/29 ≈ 0,966 (Nitơ nhẹ hơn không khí và bằng 0,965 lần không khí)
+        \n\nd_O2/kk = 32/29 ≈ 1,103 (Oxi nặng hơn không khí 1,103 lần)
+        \n\nd_Cl2/kk = 71/29 ≈ 2,448 (clo nặng hơn không khí 2,448 lần)
+        \n\nd_CO/kk = 28/29 ≈ 0,966 (CO nhẹ hơn không khí và bằng 0,965 lần không khí)
+        \n\nd_SO2/kk = 64/29 ≈ 2, 207 (SO2 nặng hơn không khí 2,207 lần)
+
+        \n\n\n*Bài 2 ( Trang 69 SGK Hóa 8 ):
+        \n\nKhối lượng mol của những khí cho:
+        \n\na) d_X/O2 = M_x/32 = 1,375 ⇒ M_X = 1,375 x 32 = 44 g/mol;
+        \n\nd_Y/O2 = M_y/32 = 0,0625 ⇒ M_Y = 0,0625 x 32 = 2 g/mol.
+        \n\nb) d_X/kk = M_x/29 = 2,207 ⇒ M_X = 29 x 2,207 = 64 g/mol;
+        \n\nd_Y/kk = M_y/29 = 1,172 ⇒ M_Y = 29 x 1,172 = 34 g/mol.
+
+      \n\n\n*Bài 3 ( Trang 69 SGK Hóa 8 ):
+        \n\nTa có:
+        \n\n d_H2/KK = M_H2 / M_KK = 2 / 29 = 0,07
+        \n\n d_CO2/KK = M_CO2 / M_KK = 44,29 = 1,52
+        \n\n d_Cl2/KK = M_Cl2 / M_KK = 71/29 = 2,45
+        \n\n d_CH4/KK = M_CH4 / M_KK = 16/29 = 0,55
+        \n\na) Đặt ngửa bình thu được những khí có tỉ khối đối với không khí lớn hơn 1
+        \n\n- Khí clo nặng hơn không khí 2,45 lần
+        \n\n- Khí cacbon đioxit nặng hơn không khí 1,52 lần
+        \n\nb) Đặt úp bình thu được những khí còn lại có tỉ khối đối với không khí nhỏ hơn 1:
+        \n\n- Khí hiđro nhẹ hơn không khí và bằng 0,07 lần không khí
+        \n\n- Khí metan CH4 nhẹ hơn không khí và bằng 0,55 lần không khí.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nÁp dụng công thức tính tỉ khối:
+        \n\n d_B/O2 = M_B/M_O2
+        \n\nTính được MB  = 1. 44 = 44
+        \n\nDo B là oxit của nito có phân tử khối là 44 nên A chỉ có thể là N2O
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 2: A
+        \n\n (-) Bài 3: B
+        \n\n (-) Bài 4:
+        \n\nKhí thu bằng phương pháp đẩy nước  phải chọn những khí ít hoặc không tan trong nước
+        \n\nKhí có thể thu được bằng cách đẩy nước trong phòng thí nghiệm là: H2; O2; CH4; CO2.
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 5:
+        \n\nKhí thu bằng phương pháp đẩy nước  phải chọn những khí ít hoặc không tan trong nước
+        \n\n→ chọn B có CO2 ít tan trong nước và H2 không tan trong nước
+        \n\nĐáp án cần chọn là: B
+    </string>
+
+    <string name="c3_4_question">
+        *Bài 1 ( Trang 71 SGK Hóa 8 ): Tìm thành phần phần trăm (theo khối lượng) các nguyên tố hóa học có trong những hợp chất sau:
+        \n\na) CO và CO2.
+        \n\nb) Fe3O4 và Fe2O3.
+        \n\nc) SO2 và SO3.
+
+        \n\n\n*Bài 2 ( Trang 71 SGK Hóa 8 ): Hãy tìm công thức hóa học của những hợp chất có thành phần các nguyên tố như sau:
+        \n\na) Hợp chất A có khối lượng mol phân tử là 58,5g có thành phần các nguyên tố 60,68% Cl và còn lại là Na.
+        \n\nb) Hợp chất B có khối lượng mol phân tử là 106g, thành phần 43,4% Na 11,3% C và 45,3% O.
+
+        \n\n*Bài 3 ( Trang 71 SGK Hóa 8 ): Công thức hóa học của đường là C12H22O11.
+        \n\na) Có bao nhiêu mol nguyên tử C, H, O trong 1,5 mol đường?
+        \n\nb) Tính khối lượng mol đường.
+        \n\nc) Trong 1 mol đường có bao nhiêu gam các nguyên tố C, H, O.
+
+        \n\n\n*Bài 4 ( Trang 71 SGK Hóa 8 ): Một loại oxit đồng màu đen có khối lượng mol phân tử là 80g. Oxit này có thành phần là 80% Cu và 20% O. Hãy tìm công thức hóa học của loại oxit đồng nói trên.
+
+        \n\n\n*Bài 5 ( Trang 71 SGK Hóa 8 ): Hãy tìm công thức hóa học của khí A.
+        \n\n- Khí A nặng hơn khí hiđro 17 lần.
+        \n\n- Thành phần theo khối lượng của khí A là 5,88% H và 94,12% S.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Oxit chứa 20% oxi về khối lượng và trong một oxit nguyên tố chưa biết có hoá trị II. Oxit có công thức hoá học là:
+        \n\nA. MgO
+        \n\nB. ZnO
+        \n\nC. CuO
+        \n\nD. FeO
+        \n\n (-) Bài 2: Phân tích một khối lượng hợp chất M, người ta nhận thấy thành phần khối lượng của nó có 50% là lưu huỳnh và 50% là oxi. Công thức của hợp chất M có thể là:
+        \n\nA. SO2
+        \n\nB. SO3
+        \n\nC. SO4
+        \n\nD. S2O3
+        \n\n (-) Bài 3: Một hợp chất khí có thành phần phần trăm theo khối lượng là: 82,35%N và 17,65% H. Em hãy cho biết:
+        \n\nA. N3H.
+        \n\nB. NH3.
+        \n\nC. NH2.
+        \n\nD. N2H
+         \n\n (-) Bài 4: Trong các hợp chất sau, hợp chất nào có hàm lượng sắt cao nhất?
+        \n\na. FeO
+        \n\nb. Fe2O3
+        \n\nc. Fe3O4
+        \n\nd. FeSO4
+        \n\ne. FeS2.
+        \n\n\nA. FeO
+        \n\nB. Fe3O4
+        \n\nC. FeSO4
+        \n\nD. FeS2 và Fe3O4
+        \n\n (-) Bài 5: Trong các hợp chất sau, hợp chất nào có hàm lượng nitơ cao nhất?
+        \n\nA. NO
+        \n\nB. NO2
+        \n\nC. N2O
+        \n\nD.  NH4NO3
+
+
+    </string>
+    <string name="c3_4_result">
+         *Bài 1 ( Trang 71 SGK Hóa 8 ):
+        \n\na)
+        \n\n - Hợp chất CO có MCO = 12 + 16 = 28 g/mol
+        \n\n %m_C = 12/28.100% = 42,86%
+        \n\n%mO = 100 – 42,86 = 57,14%
+        \n\n - Hợp chất CO2: có MCO2 = 12 + 32 = 44 g/mol
+        \n\n %m_C Tính tương tự như trên
+        \n\n%m_O = 100 – 27,3 = 72,7%
+        \n\nb)
+        \n\n - Hợp chất Fe3O4: MFe3O4 = 3.56 + 4.16 = 232 g/mol
+        \n\n %m_Fe = 56,3/232 . 100% = 72,4%
+        \n\n%mO = 100 – 72,4 = 27,6%
+        \n\n - Hợp chất Fe2O3: MFe2O3 = 2.56 + 3.16 = 160 g/mol
+        \n\n %m_Fe Tính Tương tự như trên
+        \n\n%mO = 100 – 70 = 30%
+        \n\nc)
+        \n\n - Hợp chất SO2 : MSO2 = 32 + 2.16 = 64 g/mol
+        \n\n %m_S = 32/64 . 100% = 50%
+        \n\n%mO = 100 – 50 = 50%
+        \n\n - Hợp chất SO3 : M_SO3 = 32 + 16.3 = 80 g/mol
+        \n\n %m_S Tính tương tự như trên
+        \n\n%m_O = 100 – 40 = 60%
+
+        \n\n\n*Bài 2 ( Trang 71 SGK Hóa 8 ):
+        \n\na) (Bạn Cần Phải tự tìm n_Cl và n_Na)
+        \n\n%Cl = 60,68%
+        \n\n Trong 1 phân tử hợp chất A có : 1 nguyên tử Na, 1 nguyên tử Cl.
+        \n\n⇒ CTHH của hợp chất A : NaCl
+        \n\nb) (Bạn Cần Phải tự tìm n_Na và n_C và n_O)
+        \n\n Trong 1 phân tử hợp chất B có: 2 nguyên tử Na, 1 nguyên tử C, 3 nguyên tử O.
+        \n\n⇒ CTHH của hợp chất B : Na2CO3.
+
+        \n\n*Bài 3 ( Trang 71 SGK Hóa 8 ):
+        \n\na) Trong 1 mol phân tử C12H22O11 có 12 mol nguyên tử C, 22 mol nguyên tử H, 11 mol nguyên tử O. Do đó trong 1,5 mol phân tử C12H22O11 có số mol các nguyên tử của nguyên tố là:
+        \n\n n_C =  18 mol nguyên tử cacbon.
+        \n\n n_H =  33 mol nguyên tử H.
+        \n\n n_O =  16,5 mol nguyên tử O.
+        \n\nb) Khối lượng mol đường:
+        \n\nM_C12H22O11 =12.M_C + 22.M_H + 11.M_O = 12.12 + 1.22 +16.11= 342 g/mol.
+        \n\nc) Trong 1 mol phân tử C12H22O11 có khối lượng các nguyên tố.
+        \n\nm_C = 12 . 12 = 144g.
+        \n\nm_H = 1 . 22 = 22g.
+        \n\nm_O = 16 . 11 = 176g.
+
+        \n\n\n*Bài 4 ( Trang 71 SGK Hóa 8 ):
+        \n\n m_Cu = 64 (g) => n_Cu = 64/64 = 1 (mol) nguyên tử Cu.
+        \n\n m_O = 16 (g) => n_O = 16/16 = 1 (mol) nguyên tử O.
+        \n\nSuy ra trong 1 phân tử hợp chất có 1 nguyên tử Cu và 1 nguyên tử O.
+        \n\nDo đó công thức của oxit đồng màu đen là CuO.
+
+        \n\n\n*Bài 5 ( Trang 71 SGK Hóa 8 ):
+        \n\nKhối lượng mol của khí A : d_A/H2 = 17 ⇒ MA = 17.2 = 34 (g)
+        \n\nKhối lượng mỗi nguyên tố có trong 1 mol khí A:
+        \n\n=> m_H = (34.5,88%)/100% = 2(g); m_S = 34 – 2 = 32 (g)
+        \n\nSố mol nguyên tử mỗi nguyên tố trong 1 mol khí A có:
+        \n\n n_H = 2/1 = 2 (mol) ; n_S = 32/32 = 1 (mol)
+        \n\nVậy trong 1 mol phân tử chất A có : 2 nguyên tử H và 1 nguyên tử S
+        \n\n⇒ CTHH của khí A là H2S
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nBài tập về Tính theo công thức hóa học lớp 8 có lời giải
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 2: A
+        \n\n (-) Bài 3:
+        \n\nMA=d_A/H2.M_H2 = 8,5.2 = 17 gam
+        \n\n- Khối lượng của mỗi nguyên tố trong 1 mol hợp chất là:
+        \n\nmN = 14 (gam) và mH  = 3 (gam)
+        \n\n- Số mol nguyên tử của mỗi nguyên tố trong 1 mol hợp chất là:
+        \n\n n_N = 14141414 = 1 mol và n_H = 3131 = 3 mol
+        \n\nVậy công thức hoá học của hợp chất là NH3
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 4: A
+        \n\n (-) Bài 5:
+        \n\nTư duy nhanh: hợp chất của N với O có càng nhiều nguyên tử N thì hàm lượng nito càng cao
+        \n\nTa thấy tỉ lệ 2:1 trong hợp chất N2O là lớn nhất. Do vậy hàm lượng nitơ trong N2O là cao nhất.
+        \n\nĐáp án cần chọn là: C
+
+    </string>
+
+    <string name="c3_5_question">
+        *Bài 1 ( Trang 75 SGK Hóa 8 ): Sắt tác dụng với axit clohiđric : Fe + 2HCl → FeCl2 + H2↑.
+        \n\nNếu có 2,8g sắt tham gia phản ứng em hãy tìm:
+        \n\na) Thể tích khí hiđro thu được ở đktc.
+        \n\nb) Khối lượng axit clohiđric cần dùng.
+
+
+        \n\n\n*Bài 2  ( Trang 75 SGK Hóa 8 ): Lưu huỳnh (S) cháy trong không khí sinh ra chất khí mùi hắc, gây ho đó là lưu huỳnh đioxit (khí sunfurơ) có công thức hóa học là SO2.
+        \n\na) Viết phương trình hóa học của lưu huỳnh cháy trong không khí.
+        \n\nb) Biết khối lượng lưu huỳnh tham gia phản ứng là 1,6g. Hãy tìm.
+        \n\n-Thể tích khí sunfurơ sinh ra ở đktc.
+        \n\n-Thể tích không khí cần dùng ở đktc. Biết oxi chiếm 1/5 thể tích không khí.
+
+        \n\n\n*Bài 3 ( Trang 75 SGK Hóa 8 ): Có phương trình hóa học sau:
+        \n\nCaCO3 → CaO + CO2.
+        \n\na) Cần dùng bao nhiêu mol CaCO3 để điều chế được 11,2g CaO?
+        \n\nb) Muốn điều chế được 7g CaO cần dùng bao nhiêu gam CaCO3?
+        \n\nc) Nếu có 3,5 mol CaCO3 tham gia phản ứng sẽ sinh ra bao nhiêu lít CO2 (đktc).
+        \n\nd) Nếu thu được 13,44 lít khí CO2 ở đktc thì có bao nhiêu gam chất rắn tham gia và tạo thành sau phản ứng.
+
+        \n\n\n*Bài 4 ( Trang 75 SGK Hóa 8 ): a) Cacbon oxit CO tác dụng với khí oxi tạo ra cacbon đioxit. Hãy viết phương trình hóa học.
+        \n\nb) Nếu muốn đốt cháy 20 mol CO thì phải dùng bao nhiêu mol O2 để sau phản ứng người ta chỉ thu được một chất khí duy nhất?
+        \n\nc) Hãy điền vào những ô trống số mol các chất phản ứng và sản phẩm có ở những thời điểm khác nhau. Biết hỗn hợp CO và O2 ban đầu được lấy đúng tỉ lệ về số mol các chất theo phương trình hóa học.
+
+        \n\n\n*Bài 5 ( Trang 76 SGK Hóa 8 ): Hãy tìm thể tích khí oxi đủ để đốt cháy hết 11,2 lít khí A.
+        \n\nBiết rằng:
+        \n\n- Khí A có tỉ lệ khối đối với không khí là 0,552.
+        \n\n- Thành phần theo khối lượng của khí A là: 75% C và 25% H.
+        \n\nCác thể tích khí đo ở đktc.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Hãy tìm thể tích khí oxi đủ để đốt cháy hết 11,2 lít khí A. Biết rằng: – Khí A có tỉ lệ khối đối với không khí là 0,552 – Thành phần theo khối lượng của khí A là: 75% C và 25% H Các thể tích khí đo ở đktc
+        \n\nA. 11,2 lít.
+        \n\nB. 6,72 lít.
+        \n\nC. 22,4 lít.
+        \n\nD. 15,68 lít.
+        \n\n (-) Bài 2:
+        \n\n + A,Biết rằng 2,3 gam một kim loại R (có hoá trị I) tác dụng vừa đủ với 1,12 lít khí clo (ở đktc) theo sơ đồ phản ứng:
+        \n\nR + Cl2 -> RCl
+        \n\nKim loại R là:
+        \n\nA. K
+        \n\nB. Li
+        \n\nC. Cu
+        \n\nD. Na
+        \n\n + B, Biết rằng 2,3 gam một kim loại R (có hoá trị I) tác dụng vừa đủ với 1,12 lít khí clo (ở đktc) theo sơ đồ phản ứng:   R + Cl2Bài tập về Tính toán theo phương trình hóa học lớp 8 có lời giải RCl
+        \n\nA. 5,85 gam.
+        \n\nB. 11,7 gam.
+        \n\nC. 7,02 gam.
+        \n\nD. 8,19 gam.
+        \n\n (-) Bài 3: Trong phòng thí nghiệm người ta có thể điều chế oxi bằng cách nhiệt phân kali clorat theo sơ đồ phản ứng:  KClO3 (t0)-> KCl + O2
+        \n\nA. 24,5 gam.
+        \n\nB. 12,25 gam.
+        \n\nC. 36,75 gam.
+        \n\nD. 49,0 gam.
+        \n\n (-) Bài 4: Cho phương trình hóa học sau: CaCO3 (t0)-> CaO + CO2
+        \n\nA. 0,1 mol.
+        \n\nB. 0,3 mol.
+        \n\nC. 0,2 mol.
+        \n\nD. 0,4 mol.
+        \n\n (-) Bài 5: Khử 48 gam đồng (II) oxit bằng hiđro được 36,48 gam đồng sau phản ứng. Hiệu suất của phản ứng trên là:
+        \n\nA. 95%.
+        \n\B. 90%.
+        \n\C. 94%.
+        \n\D. 85%.
+    </string>
+    <string name="c3_5_result">
+         *Bài 1 ( Trang 75 SGK Hóa 8 ):
+        \n\na) PTPU
+        \n\n Fe + 2HCL -> FeCl2 + H2
+        \n\n n_Fe = 2,8/56 = 0,05 (mol)
+        \n\nTheo pt: n_H2 = n_Fe = 0,05 (mol)
+        \n\nV_H2 = 22,4.n = 22,4.0,05 = 1,12 (l)
+        \n\nb) n_HCl = 2.nFe = 2. 0,05 = 0,1 (mol)
+        \n\nm_HCl = M.n = 0,1.36,5 = 3,65 (g)
+
+        \n\n\n*Bài 2  ( Trang 75 SGK Hóa 8 ):
+        \n\na) Phương trình hóa học S + O2 (to)-> SO2
+        \n\nb) n_S = 1,6/32 = 0,05 mol.
+        \n\nTheo phương trình trên, ta có:
+        \n\nn_SO2 = n_S = n_O2 = 0,05 mol.
+        \n\n⇒ V_SO2 = 0,05 .22,4 = 1,12 l.
+        \n\n⇒ V_O2 = 22,4.0,05 = 1,12 l
+        \n\nVì khí oxi chiếm 1/5 thể tích của không khí nên thể tích không khí cần là
+        ⇒ V_kk = 5V_O2 = 5.1,12 = 5,6 (l)
+
+        \n\n\n*Bài 3 ( Trang 75 SGK Hóa 8 ):
+        \n\nPhương trình hóa học CaCO3 → CaO + CO2.
+        \n\na) n_CaO =  0,2 mol.
+        \n\nTheo PTHH thì n_CaCO3 = n_CaO = 0,2 (mol)
+        \n\nb) nCaO =  0,125 (mol)
+        \n\nTheo PTHH thì n_CaCO3 = n_CaO = 0,125 (mol)
+        \n\nm_CaCO3 = M.n = 100.0,125 = 12,5 (g)
+        \n\nc) Theo PTHH thì n_CO2 = n_CaCO3 = 3,5 (mol)
+        \n\n_VCO2 = 22,4.n = 22,4.3,5 = 78,4 (lít)
+        \n\nd) n_CO2 =  0,6 (mol)
+        \n\nTheo PTHH n_CaO = n_CaCO3 = n_CO2 = 0,6 (mol)
+        \n\n m_CaCO3 = n.M = 0,6.100 = 60 (g)
+        \n\n m_CaO = n.M = 0,6.56 = 33,6 (g)
+
+        \n\n\n*Bài 4 ( Trang 75 SGK Hóa 8 ):
+        \n\na) Phương trình phản ứng:
+        \n\n2CO + O2 → 2CO2
+        \n\nb) n_O2 = 1/2n_CO = 20.1/2 = 10(mol)
+        \n\nc) Hoàn chỉnh bảng
+        \n\nThời điểm t_1 n_CO còn 15mol ⇒ nCO đã phản ứng = 20 - 15= 5mol
+        \n\nTheo pt n_CO2 = n_CO(pư) = 5 mol
+        \n\n n_O2(pư) = 1/2n_CO(pư) = 5.1/2 = 2,5 (mol) ⇒ nO2 còn lại = 10 - 2,5 = 7,5 mol
+
+        \n\n\n*Bài 5 ( Trang 76 SGK Hóa 8 ):
+        \n\n d_A/kk = 0,552 ⇒ Khối lượng mol của khí A: 29.0,552 = 16 (g)
+        \n\nĐặt CTHH của khí A là CxHy
+        \n\n m_c = 16.75% / 100% = 12 => m_c = 12.x = 12 => x = 1
+        \n\n m_H = 16.25% / 100% = 4 => m_H = 1.y = 4 => y = 4
+        \n\nCông thức hóa học của khí A là: CH4
+        \n\nPTPỨ:
+        \n\n CH4 + 2O2 -> CO2 + 2H2O
+        \n\nTỉ lệ số mol cũng chính là tỉ lệ thể tích.
+        \n\nTheo phương trình n_O2 = 2.n_CH4 ⇒ V_O2 = 2.V_CH4 = 2.11,2 = 22,4(l)
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: C
+        \n\n (-) Bài 2:
+        \n\n +A : Đáp Án D
+        \n\n +B : Đáp Án A
+        \n\n (-) Bài 3: A
+        \n\n (-) Bài 4: C
+        \n\n (-) Bài 5: A
+
+
+
+    </string>
+
+    <string name="c3_6_question">
+        *Bài 1 ( Trang 79 SGK Hóa 8 ): Hãy tìm công thức hóa học đơn giản nhất của một loại oxit của lưu huỳnh, biết rằng trong oxit này có 2g lưu huỳnh kết hợp với 3g oxi.
+
+        \n\n\n*Bài 2 ( Trang 79 SGK Hóa 8 ): Hãy tìm công thức hóa học của một hợp chất có thành phần theo khối lượng là 36,8% Fe; 21,0% S; 42,2% O. Biết khối lượng mol của hợp chất bằng 152 g/mol.
+
+        \n\n\n*Bài 3 ( Trang 79 SGK Hóa 8 ): Một hợp chất có công thức hóa học là K2CO3. Em hãy cho biết:
+        \n\na) Khối lượng mol của chất đã cho.
+        \n\nb) Thành phần phần trăm (theo khối lượng) của các nguyên tố có trong hợp chất.
+
+         \n\n\n*Bài 4 ( Trang 79 SGK Hóa 8 ): Có phương trình hóa học sau:
+        \n\nCaCO3 + 2HCl → CaCl2 + CO2 + H2O.
+        \n\na) Tính khối lượng canxi clorua thu được khi cho 10g canxi cacbonat tác dụng với axit clohiđric dư.
+        \n\nb) Tính thể tích khí cacbonic thu được trong phòng thí nghiệm, nếu có 5g canxi cacbonat tác dụng hết với axit. Biết 1 mol khí ở điều kiện phòng có thể tích là 24 lít.
+
+        \n\n\n*Bài 5 ( Trang 79 SGK Hóa 8 ): Khí metan CH4 có trong khí tự nhiên hoặc trong khí bioga. Khí metan cháy trong không khí sinh ra khí cacbon đioxit và nước:
+        \n\nCH4 + 2O2 → CO2 + 2H2O.
+        \n\na) Tính thể tích khí oxi cần dùng để đốt cháy hoàn toàn 2 khí metan. Các thể tích khí đo cùng điều kiện to và p.
+        \n\nb) Tính thể tích khí CO2 (đktc) thu được sau khi đốt cháy hoàn toàn 0,15 mol khí metan.
+        \n\nc) Khí metan nặng hay nhẹ hơn không khí bằng bao nhiêu lần?
+
+
+
+
+
+    </string>
+    <string name="c3_6_result">
+        *Bài 1 ( Trang 79 SGK Hóa 8 ):
+        \n\nSố mol của nguyên tử lưu huỳnh là: n_S = 2/32 = 1/16 (mol)
+        \n\nSố mol của nguyên tử oxi là: n_O = 3/16 (mol)
+        \n\nTa có: n_S : n_O = 1/16:3/16 = 1 : 3
+        \n\n⇒ Trong một phân tử lưu huỳnh trioxit có 1 nguyên tử S và có 3 nguyên tử O.
+        \n\nVậy công thức hóa học đơn giản nhất của oxit lưu huỳnh là SO3.
+
+        \n\n\n*Bài 2 ( Trang 79 SGK Hóa 8 ):
+        \n\nm_Fe = 56 (g) => n_Fe = 1 (mol)
+        \n\nm_O = 64 (g) => n_O = 64/16 = 4 (mol)
+        \n\nm_S = 32 (g) => n_S = 32/32 = 1 (mol)
+        \n\nVậy trong 1 phân tử hợp chất có 1 nguyên tử Fe, 4 nguyên tử O, 1 nguyên tử S.
+        \n\n⇒ CTHH là FeSO4.
+
+        \n\n\n*Bài 3 ( Trang 79 SGK Hóa 8 ):
+        \n\na) MK2CO3 = 39.2 + 12 + 16.3 = 138 (g)
+        \n\nb)
+        \n\n + %K = 39.2.100% / 138 = 56,5%
+        \n\n + %C = 12.100% / 138 = 8,7%
+        \n\n + %O = 100 - (56,5 + 8,7) = 34,8%
+
+        \n\n\n*Bài 4 ( Trang 79 SGK Hóa 8 ):
+        \n\na) Số mol canxi cacbonat tham gia phản ứng n_CaCO3= 10/100 = 0,1 mol.
+        \n\nCaCO3 + 2HCl → CaCl2 + CO2 + H2O.
+        \n\nTheo phương trình hóa học, ta có: n_CaCl2= n_CaCO3 = 0,1 mol.
+        \n\nKhối lượng của canxi clorua tham gia phản ứng: m_CaCl2 = 0,1 . (40 + 71) = 11,1 g.
+        \n\nb) Số mol canxi cacbonat tham gia phản ứng: n_CaCO3= 5/100 = 0,05 mol.
+        \n\nTheo phương trình hóa học, ta có: n_CO2= n_CaCO3 = 0,05 mol.
+        \n\nThể tích khí CO2 ở điều kiện phòng là: V_CO2 = 24 . 0,05 = 1,2 lít.
+
+        \n\n\n*Bài 5 ( Trang 79 SGK Hóa 8 ):
+        \n\na) Theo phương trình hóa học, ta thấy nếu đốt cháy hết 1 mol phân tử khí CH4 thì phải cần 2 mol phân tử khí O2. Do đó thể tích khí oxi cần dùng để đốt cháy hoàn toàn 2 lít khí metan là:
+        \n\nV_O2 = 2 . 2 = 4 lít.
+        \n\nb) Theo phương trình phản ứng, khi đốt cháy hoàn toàn 0,15 mol khí metan thì cũng sinh ra 0,15 mol khí cacbon đioxit. Do đó thể tích khí CO2 thu được là:
+        \n\nV_CO2 = 0,15 . 22,4 = 3,36 lít.
+        \n\nc) Tỉ khối của khí metan và không khí là:
+        \n\nd_CH4/kk = m_CH4 / 29 = 16,29 = 0,55
+        \n\nVậy khí metan nhẹ hơn không khí 0,55.
+    </string>
 </resources>
