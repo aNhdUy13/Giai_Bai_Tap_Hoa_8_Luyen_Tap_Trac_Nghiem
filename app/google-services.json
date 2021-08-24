@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289284026712",
+    "project_id": "giai-bai-tap-hoa-8-offline",
+    "storage_bucket": "giai-bai-tap-hoa-8-offline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289284026712:android:da948b9380e077e156352d",
+        "android_client_info": {
+          "package_name": "com.nda.giai_bai_tap_hoa_lop_8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289284026712-q7oj81r7g3s9h3i5dc3r78aho4tj0g4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaZEdBVMnbezSFLjxRQLx6OdNnm3pxaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289284026712-q7oj81r7g3s9h3i5dc3r78aho4tj0g4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

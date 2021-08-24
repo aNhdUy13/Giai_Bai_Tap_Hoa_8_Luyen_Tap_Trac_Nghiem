@@ -1,0 +1,927 @@
+<resources>
+    <string name="app_name">Giải Bài Tập Hóa 8</string>
+
+    <!--
+        Chương 1
+    -->
+    <string name="c1_1_question">a) Nhiều vật dụng sinh hoạt và công cụ sản xuất được làm từ các chất như sắt, nhôm, chất dẻo. Hãy kể ra ba loại vật dụng là đồ dùng thiết yếu sử dụng trong gia đình em.
+        \n\n b) Hãy kể ra ba loại sản phẩm hóa học được sử dụng nhiều trong sản xuất nông nghiệp hoặc thủ công nghiệp ở địa phương em.
+        \n\n c) Hãy kể ra những sản phẩm hóa học phục vụ trực tiếp cho việc học tập của em và cho việc bảo vệ sức khỏe của gia đình em.</string>
+    <string name="c1_1_result">a) Ba loại vật dụng làm từ các chất như sắt, nhôm, chất dẻo là: con dao, ấm đun, vỏ xe.
+        \n\n b) Ba loại sản phẩm hóa học được sử dụng nhiều trong sản xuất nông nghiệp hoặc thủ công nghiệp ở địa phương em là: phân bón hóa học, thuốc trừ sâu, thuốc nhuộm.
+        \n\n c) Những sản phẩm hóa học phục vụ trực tiếp cho việc học tập của em và cho việc bảo vệ sức khỏe của gia đình em là: giày dép, bút thước, thuốc trị bệnh.
+    </string>
+
+    <string name="c1_2_question">
+        *Bài 1 (Trang 11 SGK Hóa 8):
+        \n\n a) Nêu thí dụ hai vật thể tự nhiên, hai vật thể nhân tạo.
+        \n\n b) Vì sao nói được: Ở đâu có vật thể là ở đó có chất?
+
+        \n\n\n*Bài 2(Trang 11 SGK Hóa 8): Hãy kể tên ba vật thể được làm bằng.
+        \n\n a) Nhôm
+        \n\n b) Thủy tinh
+        \n\n c) Chất dẻo
+
+        \n\n\n*Bài 3 (Trang 11 SGK Hóa 8): Hãy chỉ ra đâu là vật thể, là chất lượng các ý sau .
+        \n\na) Cơ thể người có 63% : 68% khối lượng là nước.
+        \n\nb) Than chì là chất dùng làm lõi bút chì.
+        \n\nc) Dây điện làm bằng đồng được bọc một lớp chất dẻo.
+        \n\nd) Áo may bằng sợi bông (95% : 98% là xenlulozơ) mặc thoáng hơn áo may bằng nilon (một thứ tơ tổng hợp).
+        \n\ne) Xe đạp được chế tạo từ sắt, nhôm, cao su.
+
+        \n\n\n*Bài 4 (Trang 11 SGK Hóa 8): Hãy so sánh các tính chất: Màu, vị, tính tan trong nước, tính cháy được của các chất muối ăn, đường, than.
+
+        \n\n\n*Bài 5 (Trang 11 SGK Hóa 8): Chép vào vở bài tập những câu cho sau đây với đầy đủ các từ hay cụm từ thích hợp (Trang 11 SGK Hóa 8):
+        \n\n Quan sát kĩ một chất chỉ có thể biết được (1)… Dùng dụng cụ đo mới xác định được (2)… của chất. Còn muốn biết được một chất có tan trong nước, dẫn được điện hay không thì phải (3)…
+
+        \n\n\n*Bài 6 (Trang 11 SGK Hóa 8): Cho biết khí cacbon đioxit (còn gọi là khí cacbonic) là chất có thể làm đục nước vôi trong. Làm thế nào để nhận biết được khí này có trong hơi thở ra.
+
+        \n\n\n*Bài 7 (Trang 11 SGK Hóa 8):
+        \n\na) Hãy kể tên hai tính chất giống nhau và hai tính chất khác nhau giữa nước khoáng và nước cất.
+        \n\nb) Biết rằng một số chất tan trong nước tự nhiên có lợi cho cơ thể. Theo em, nước khoáng hay nước cất, uống nước nào tốt hơn?
+
+        \n\n\n*Bài 8 (Trang 11 SGK Hóa 8): Khí nitơ và khí oxi là hai thành phần chính của không khí. Trong kĩ thuật người ta có thể hạ thấp nhiệt độ để hóa lỏng không khí. Biết nitơ lỏng sôi ở -196oC oxi lỏng sôi ở -183oC. Làm thế nào để tách riêng được khí nitơ và oxi.
+    </string>
+    <string name="c1_2_result">
+        *Bài 1 (Trang 11 SGK Hóa 8):
+        \n\na) Hai thí dụ vật thể tự nhiên: Các vật thể tự nhiên gồm một số chất khác nhau: thân cây mía, khí quyển.
+        \n Hai thí dụ vật thể nhân tạo: Các vật thể nhân tạo được làm vật liệu do quá trình gia công chế biến tạo nên: cốc thủy tinh, thau mủ.
+        \n\nb) Vì sao nói được ở đâu có vật thể là ở đó có chất vì chất có ở khắp nơi và chất là thành phần tạo nên vật thể.
+
+        \n\n\n*Bài 2 (Trang 11 SGK Hóa 8):
+        \n\na) Ba vật thể được làm bằng nhôm: Ấm đun bằng nhôm, vành xe đạp, chảo nhôm.
+        \n\nb) Ba vật thể được làm bằng thủy tinh: Lọ cắm hoa, ống nghiệm thủy tinh, bình thủy tinh hình nón.
+        \n\nc) Ba vật thể được làm bằng chất dẻo: Bình đựng nước uống tinh khiết, ruột bút bi, bịch nilon.
+
+        \n\n\n*Bài 3 (Trang 11 SGK Hóa 8):
+        \n\nVật thể: cơ thể người, bút chì, dây diện, áo, xe đạp.
+        \n\nChất: nước, than chì, đồng, chất dẻo, xenlulozo, nilon, sắt, nhôm, cao su.
+
+        \n\n\n*Bài 4 (Trang 11 SGK Hóa 8):
+        \n\n => KÝ HIỆU : (1) = Màu ; (2) = Vị ; (3) = Tính Tan ; (4) = Tính Cháy.
+        \n\n Muối Ăn : (1) : Trắng ; (2) : Mặn ; (3) : Tan; (4) : Không.
+        \n\n Đường : (1) : Nhiều Màu ; (2) : Ngọt ; (3) : Tan; (4) : Cháy.
+        \n\n Than : (1) : Đen ; (2) : Không ; (3) : Không; (4) : Cháy.
+
+        \n\n\n*Bài 5 (Trang 11 SGK Hóa 8):
+        \n\n1) Một số tính chất bề ngoài (thể, màu…)
+        \n\n2) Nhiệt độ nóng chảy, nhiệt độ sôi, khối lương riêng,..
+        \n\n3) Làm thí nghiệm.
+
+        \n\n\n*Bài 6 (Trang 11 SGK Hóa 8):
+        \n\nĐể có thể nhận biết được khí CO2 có trong hơi thở của ra, ta làm theo cách sau: Lấy một ly thủy tinh có chứa nước vôi trong, cắm ống hút vào cốc. Lưu ý, một đầu ống hút ngập trong dung dịch và thổi hơi thở vào dung dịch qua đầu còn lại của ống hút. Quan sát, ta thấy ly nước vôi bị vẩn đục. Vậy trong hơi thở có khí cacbonic đã làm đục nước vôi trong.
+
+        \n\n\n*Bài 7 (Trang 11 SGK Hóa 8):
+        \n\na) So sánh tính chất giữa nước khoáng và nước cất
+        \n\nGiống nhau: đều là chất lỏng, trong suốt, không màu
+        \n\nKhác nhau:
+        \n\n- Nước cất là chất tinh khiết
+        \n\n- Nước khoáng là hỗn hợp có lẫn nhiều chất tan.
+        \n\nb) Nước khoáng uống tốt hơn vì trong nước khoáng có nhiều chất tan có lợi cho cơ thể.
+        \n\nNước cất được dùng trong pha chế thuốc hoặc trong phòng thí nghiệm.
+
+        \n\n\n*Bài 8 (Trang 11 SGK Hóa 8):
+        \n\nCách làm: Hạ thấp nhiệt độ xuống -200°C để hóa lỏng không khí. Sau đó nâng nhiệt độ của không khí lỏng đến -196°C , nitơ lỏng sôi và bay lên trước, còn oxi lỏng đến -183°C mới sôi, tách ra được hai khí.
+    </string>
+
+    <string name="c1_3_question">
+        Bài 1 (Trang 13 sgk Hóa 8): So sánh nhiệt độ nóng chảy của hai chất, chất nào không nóng chảy khi nước sôi? Vì sao?
+        \n\n\n*Bài 2 (Trang 13 sgk Hóa 8): Ghi tên chất được tách riêng trên giấy lọc và trong ống nghiệm. Giải thích quá trình tiến hành.
+    </string>
+    <string name="c1_3_result">
+        Bài 1 (trang 13 sgk Hóa 8):
+        \n\nTừ kết quả thí nghiệm cho thấy:
+        \n\nNhiệt độ nóng chảy của lưu huỳnh cao hơn nhiệt độ nóng chảy của parafin
+        \n\nKhi nước sôi chỉ có parafin nóng chảy, lưu huỳnh không nóng chảy
+        \n\nvì nhiệt độ nóng chảy của lưu huỳnh cao hơn nhiệt độ sôi của nước.
+
+        \n\n\n*Bài 2 (Trang 13 sgk Hóa 8):
+        \n\nBỏ muối ăn và cát vào cốc nước do muối ăn tan trong nước còn cát không tan nên khi lọc thu được cát trên giấy lọc và dung dịch muối ăn trong suốt.Khi đun nóng nước bốc hơi hết thu được muối ăn. Đó là muối kết tinh. ⇒ Tách được muối và cát.
+    </string>
+
+    <string name="c1_4_question">
+        *Bài 1 (Trang 15 SGK Hóa 8): Hãy chép các câu sau đây vào vở bài tập với đầy đủ các từ hay cụm từ thích hợp
+        \n\n“....là hạt vô cùng nhỏ, trung hòa về điện : từ .... tạo ra mọi chất. Nguyên tử gồm .... mang điện tích dương và vỏ tạo bởi ....”
+
+        \n\n\n*Bài 2 (Trang 15 SGK Hóa 8):
+        \n\na) Nguyên tử tạo thành từ ba loại hạt nhỏ hơn nữa, đó là những hạt nào?
+        \n\nb) Hãy nói tên, kí hiệu và điện tích những loại hạt mang điện?
+        \n\nc) Những nguyên tử cùng loại có cùng số hạt nào trong hạt nhân?
+
+        \n\n\n*Bài 3 (Trang 15 SGK Hóa 8): Vì sao nói khối lượng của hạt nhân được coi là khối lượng của nguyên tử?
+
+        \n\n\n*Bài 4 (Trang 15 SGK Hóa 8): Trong nguyên tử, electron chuyển động và sắp xếp như thế nào? Lấy vị dụ minh họa với nguyên tử oxi.
+
+        \n\n\n*Bài 5 (Trang 16 SGK Hóa 8): Cho biết sơ đồ một số nguyên tử sau ( Ảnh trong SGK):
+        \n\nHãy chỉ ra: Số p trong hạt nhân, số e trong nguyên tử, số lớp electron và số e lớp ngoài cùng của mỗi nguyên tử.
+
+        \n\n\n*Bài Tự Luyện
+        \n\n (-) Bài 1: Một nguyên tử có 17 electron, cấu tạo của nguyên tử đó có bao nhiêu lớp electron?
+        \n\nA. 2
+        \n\nB. 3
+        \n\nC. 1
+        \n\nD. 4
+        \n\n (-) Bài 2: Nguyên tử của nguyên tố A có 16p. Hãy cho biết:
+        \n\na. Tên và KHHH của A.
+        \n\nb. Số e của A.
+        \n\nc. Nguyên tử A nặng gấp bao nhiêu lần nguyên tử H và O?
+        \n\n\nA. Oxi (O); số e =16; A nặng gấp 16 lần nguyên tử H và 1 lần nguyên tử O
+        \n\nB. Lưu huỳnh (S); số e =16; A nặng gấp 32 lần nguyên tử H và 2 lần nguyên tử O
+        \n\nC. Lưu huỳnh (S); số e =16; A nặng gấp 16 lần nguyên tử H và 2 lần nguyên tử O
+        \n\nD. Lưu huỳnh (S); số e =16; A nặng gấp 16 lần nguyên tử H và 1 lần nguyên tử
+        \n\n (-) Bài 3: Nguyên tử  sắt có điện tích hạt nhân là 26. Số hạt mang điện nhiều hơn số hạt không mang điện là 22 hạt. Số khối của sắt là:
+        \n\nA. 26
+        \n\nB. 48
+        \n\nC. 56
+        \n\nD. 65
+        \n\n (-) Bài 4: Trong nguyên tử, hạt mang điện là
+        \n\nA. hạt proton, hạt nơtron
+        \n\B. hạt proton, hạt electron
+        \n\C. hạt nhân, proton và hạt electron
+        \n\D. hạt nhân
+
+    </string>
+    <string name="c1_4_result">
+        *Bài 1 (Trang 15 SGK Hóa 8):
+        \n\n“Nguyên tử là hạt vô cùng nhỏ, trung hòa về điện : từ nguyên tử tạo ra mọi chất. Nguyên tử gồm hạt nhân mang điện tích dương và vỏ tạo bởi một hay nhiều electron mang điện tích âm”.
+
+        \n\n\n*Bài 2(Trang 15 SGK Hóa 8):
+        \n\na) Nguyên tử tạo thành từ ba loại nhỏ hơn nữa là: proton, electron và nơtron.
+        \n\nb) Tên, kí hiệu, điện tích những loại hạt mang điện
+        \n\n=> (1) = Kí Hiệu; (2) = Điện Tích.
+        \n\nProton : (1) = p ; (2) = +1;
+        \n\nElectron : (1) = e; (2) = -1;
+        \n\nc) Những nguyên tử cùng loại có cùng số hạt proton trong hạt nhân.
+
+        \n\n\n*Bài 3 (Trang 15 SGK Hóa 8):
+        \n\nKhối lượng nguyên tử gồm khối lượng hạt nhân và khối lượng các electron, nhưng khối lượng electron quá nhỏ so với khối lượng hạt nhân, nên có thể bỏ qua. Do đó có thể coi khối lượng hạt nhân là khối lượng nguyên tử.
+
+        \n\n\n*Bài 4 (Trang 15 SGK Hóa 8):
+        \n\nElectron luôn chuyển động nhanh quanh hạt nhân và sắp xếp thành từng lớp.
+        \n\nVí dụ: Nguyên tử oxi có 8 electron chia hai lớp, lớp trong có 2 và lớp ngoài có 6 electron.
+
+        \n\n\n*Bài 5 (Trang 16 SGK Hóa 8):
+        \n\n=> (1) = Số p trong hạt nhân; (2) = Số e trong nguyên tử; (3) = Số e lớp ngoài cùng; (4) = Số lớp electron
+        \n\n Nguyên Tử He: (1) = 2; (2) = 2; (3) = 2; (4) = 1;
+        \n\n Nguyên Tử C: (1) =	6; (2) = 6; (3) = 4; (4) = 2;
+        \n\n Nguyên Tử Al: (1) = 13; (2) = 13; (3) = 3; (4) = 3
+        \n\n Nguyên Tử Ca: (1) = 20; (2) = 20; (3) = 2; (4) = 4
+
+        \n\n\n*Bài Tự Luyện
+        \n\n (-) Bài 1:
+        \n\nVì nguyên tử có 17e nên sẽ phân bố vào các lớp như sau
+        \n\n+ Lớp 1: 2e
+        \n\n+ Lớp 2: 8e
+        \n\n+ Lớp 3: 7e
+        \n\nVậy nguyên tử có 3 lớp electron
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 2:
+        \n\na/ A là lưu huỳnh: S
+        \n\nb/ Số e: 16
+        \n\nc/ NTK của S = 32 đ.v.C
+        \n\nNTK của H = 1đ.v.C
+        \n\nNTK của O = 16 đ.v.C
+        \n\n→ vậy nguyên tử S nặng gấp 2 lần nguyên tử O và nặng gấp 32 lần nguyên tử H.
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 3:
+        \n\nĐặt số proton và số notron của Fe là p và n → số e là p
+        \n\nTa có p = 26 → n =2p -22= 2.26 - 22 =30
+        \n\n→ A = 30 + 26 =56
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 4:
+        \n\nTrong nguyên tử, hạt mang điện là hạt proton và hạt electron
+        \n\nĐáp án cần chọn là: B
+    </string>
+
+    <string name="c1_5_question">
+        *Bài 1 (Trang 20 SGK Hóa 8): Ghép vào vở bài tập những câu sau đây với đầy đủ các từ hay cụm từ thích hợp.
+        \n\na) Đáng lẽ nói những .... loại này, những .... loại kia, thì trong hóa học nói .... hóa học này .... hóa học kia.
+        \n\nb) Những nguyên tử có cùng .... trong hạt nhân đều là .... cùng loại, thuộc cùng một .... hóa học.
+
+        \n\n\n*Bài 2 (Trang 20 SGK Hóa 8):
+        \n\na) Nguyên tố hóa học là gì?
+        \n\nb) Cách biểu diễn nguyên tố? Cho thí dụ.
+
+        \n\n\n*Bài 3 (Trang 20 SGK Hóa 8):
+        \n\na) Các cách viết 2C, 5O, 3Ca lần lượt chỉ ý gì?
+        \n\nb) Hãy dùng chữ số và kí hiệu hóa học diễn đạt các ý sau: Ba nguyên tử nitơ, bảy nguyên tử canxi, bốn nguyên tử natri.
+
+        \n\n\n*Bài 4 (Trang 20 SGK Hóa 8): Lấy bao nhiêu phần khối lượng của nguyên tử cacbon làm đơn vị cacbon? Nguyên tử khối là gì?
+
+        \n\n\n*Bài 5 (Trang 20 SGK Hóa 8): Hãy so sánh nguyên tử magie nặng hay nhẹ hơn bao nhiêu lần so với
+        \n\na) nguyên tử cacbon
+        \n\nb) nguyên tử lưu huỳnh
+        \n\nc) nguyên tử nhôm
+
+        \n\n\n*Bài 6 (Trang 20 SGK Hóa 8): Nguyên tử X nặng gấp hai lần nguyên tử nitơ. Tính nguyên tử khối và cho biết X thuộc nguyên tố nào? Viết kí hiệu hóa học của nguyên tố đó.
+
+        \n\n\n*Bài 7 (Trang 20 SGK Hóa 8):
+        \n\na) Theo giá trị khối lượng tính bằng gam của nguyên tử cacbon cho trong bài học, hãy tính xem một đơn vị cacbon tương ứng với bao nhiêu gam?
+        \n\nb) Khối lượng tính bằng gam của nguyên tử nhôm là A, B, C hay D?
+        \n\nA. 5,324.10-23g.
+        \n\nB. 6,023.10-23g.
+        \n\nC. 4,482.10-23g.
+        \n\nD. 3,990.10-23g.
+
+        \n\n\n*Bài 8 (Trang 20 SGK Hóa 8): Nhận xét sau đây gồm hai ý: Nguyên tử đơteri thuộc cùng nguyên tố hóa học với nguyên tử hiđro vì chúng đều có 1 proton trong hạt nhân". Cho sơ đồ thành phần cấu tạo của hai nguyên tử như hình vẽ (Trong SGK)
+        \n\nHãy chọn phương án đúng trong số các phương án sau:
+        \n\nA. Ý (1) đúng, ý (2) sai.
+        \n\nB. Ý (1) sai, ý (2) đúng.
+        \n\nC. Cả hai ý đều sai.
+        \n\nD. Cả hai ý đều đúng.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Cho nguyên tử của nguyên tố C có 11 proton. Chọn đáp án sai
+        \n\nA. Đấy là nguyên tố Natri
+        \n\nB. Số e là 16 e
+        \n\nC. Nguyên tử khối là 23
+        \n\nD. Stt trong bảng tuần hoàn là 11
+        \n\n (-) Bài 2: Cho nguyên tử khối của Bari là 137 . Tính khối lượng thực nguyên tố trên.
+        \n\nA. mBa=2,27.10-22g
+        \n\nB. mBa=2,234.10-24g
+        \n\nC. mBa=1,345.10-23kg
+        \n\nD. mBa=2,7298.10-21g
+        \n\n (-) Bài 3: Chọn đáp án sai
+        \n\nA. số p là số đặc trưng của nguyên tố hóa học
+        \n\nB. nguyên tố hóa học là tập hợp những nguyên tố cùng loại, có cùng số p trong hạt nhân
+        \n\nC. 1 đvC = 1/12 mC
+        \n\nD. Oxi là nguyên tố chiếm gần nửa khối lượng vỏ trái đất
+        \n\nHướng dẫn: nguyên tố hóa học là tập hợp những nguyên tử cùng loại, có cùng số p trong hạt nhân
+        \n\n (-) Bài 4: Cho số khối của nguyên tử nguyên tố X là 39. Biết rằng tổng số hạt nguyên tử là 58. Xác định nguyên tố đó và cho biết số notron
+        \n\nA. Kali, số n= 19
+        \n\nB. Kali, số n=20
+        \n\nC. Ca, số n=19
+        \n\nD. Ca, số n= 20
+        \n\n (-) Bài 5: Cho điện tích hạt nhân của X là 15+. Biết rằng số hạt mang điện nhiều hơn không mang điện là 14. Xác định nguyên tố và số khối
+        \n\nA. Nguyên tố P và A=30
+        \n\nB. Nguyên tố Si và A= 29
+        \n\nC. Nguyên tố P và A=31
+        \n\nD. Nguyên tố Cl và A=35.5
+    </string>
+    <string name="c1_5_result">
+        *Bài 1 (Trang 20 SGK Hóa 8):
+        \n\na) Đáng lẽ nói những nguyên tử loại này, những nguyên tử loại kia thì trong hóa học nói là nguyên tố hóa học này, nguyên tố hóa học kia.
+        \n\nb) Những nguyên tử có cùng số proton trong hạt nhân đều là nguyên tử cùng loại, thuộc cùng một nguyên tố hóa học.
+
+        \n\n\n*Bài 2 (Trang 20 SGK Hóa 8):
+        \n\na) Nguyên tố hóa học là tập hợp những nguyên tử cùng loại, có cùng số proton trong hạt nhân.
+        \n\nb) Mỗi nguyên tố hóa học được biểu diễn bằng một hay hai chữ cái đầu tiên trong tên latinh nguyên tố đó, trong đó chữ cái đầu tiên được viết dưới dạng in hoa, gọi là kí hiệu hóa học.
+        \n\nThí dụ: H, Ca, Al.
+
+        \n\n\n*Bài 3 (Trang 20 SGK Hóa 8):
+        \n\na) Ý nghĩa của các cách viết:
+        \n\n2C ⇔ hai nguyên tử cacbon
+        \n\n5O ⇔ năm nguyên tử oxi
+        \n\n3Ca ⇔ ba nguyên tử canxi
+        \n\nb)
+        \n\nba nguyên tử nitơ ⇔ 3N
+        \n\nbảy nguyên tử canxi ⇔ 7Ca
+        \n\nbốn nguyên tử natri ⇔ 4Na
+
+        \n\n\n*Bài Bài 4 (Trang 20 SGK Hóa 8):
+        \n\nLấy 1/12 khối lượng của nguyên tử cacbon làm đơn vị cacbon. Nguyên tử khối là khối lượng của một nguyên tử tính bằng đơn vị cacbon.
+
+
+        \n\n\n*Bài 5 (Trang 20 SGK Hóa 8):
+        \n\nNguyên tử magie
+        \n\n+ Nặng hơn 24/12 = 2 lần nguyên tử Cacbon
+        \n\n+ Nhẹ hơn 24/32 = 3/4 lần nguyên tử lưu huỳnh
+        \n\n+ Nhẹ hơn 24/27 = 8/9 lần nguyên tử nhôm
+
+        \n\n\n*Bài 6 (Trang 20 SGK Hóa 8):
+        \n\nNguyên tử khối của N = 14 đvC
+        \n\n⇒ Nguyên tử khối của X = 2 x 14 = 28 (đvC)
+        \n\nVậy X là nguyên tố silic (Si)
+
+        \n\n\n*Bài 7 (Trang 20 SGK Hóa 8):
+        \n\na) Ta có khối lượng 1 nguyên tử C = 1,9926 . 10-23 g và bằng 12 đvC
+        \n\n⇒ khối lượng của 1 đơn vị cacbon là: 1dvC = (1,9926.10^-23) / 12 = 1,66.10^-24.
+        \n\nb) Khối lượng tính bằng gam của nguyên tử nhôm
+        \n\nNhân số trị nguyên tử khối của nhôm với số gam tương ứng của một đơn vị cacbon
+        \n\nM(Al) = 27x 1,66.10-24 g = 44,82.10-24 g = 4,482.10-23 g.\n\nĐáp án C.
+
+        \n\n\n*Bài 8 (Trang 20 SGK Hóa 8):
+        \n\nPhương án D
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: B
+        \n\n (-) Bài 2: A
+        \n\n (-) Bài 3: B
+        \n\n (-) Bài 4: B
+        \n\n (-) Bài 5: C
+
+    </string>
+
+    <string name="c1_6_question">
+        *Bài 1 (Trang 25 SGK Hóa 8): Hãy chép các câu sau đây vào vở bài tập với đầy đủ các từ thích hợp:
+        \n\n"Chất được phân chia thành hai loại lớn .... và .... Đơn chất được tạo nên từ một .... còn .... được tạo nên từ hai nguyên tố hóa học trở lên."
+        \n\n"Đơn chất lại chia thành .... và .... Kim loại có ánh kim dẫn điện và nhiệt, khác với .... không có những tính chất này (trừ than chì dẫn điện được).
+        \n\nCó hai loại hợp chất là: hợp chất .... và hợp chất ....
+
+        \n\n\n*Bài 2 (Trang 25 SGK Hóa 8):
+        \n\na) Kim loại đồng, sắt tạo nên từ nguyên tố nào? Nêu sự sắp xếp nguyên tử trong một mẫu đơn chất kim loại.
+        \n\nb) Khí nitơ, khí clo tạo nên từ nguyên tố nào?
+        \n\nBiết rằng hai khí này là đơn chất phi kim giống như khí hidro và oxi. Hãy cho biết các nguyên tử liên kết với nhau như thế nào?
+
+        \n\n\n*Bài 3 (Trang 26 SGK Hóa 8): Trong số các hợp chất cho dưới đây, hãy chỉ ra và giải thích chất nào là đơn chất, là hợp chất:
+        \n\na) Khí amoniac tạo nên từ N và H.
+        \n\nb) Photpho đỏ tạo nên từ P.
+        \n\nc) Axit clohiđric tạo nên từ H và Cl.
+        \n\nd) Canxi cacbonat tạo nên từ Ca, C và O.
+        \n\ne) Glucozơ tạo nên từ C H và O.
+        \n\nf) Kim loại magie tạo nên từ Mg.
+
+        \n\n\n*Bài 4 (Trang 26 SGK Hóa 8):
+        \n\na) Phân tử là gì?
+        \n\nb) Phân tử của hợp chất gồm những nguyên tử như thế nào, có gì khác so với phân tử của đơn chất. Lấy thí dụ minh họa.
+
+        \n\n\n*Bài 5 (Trang 26 SGK Hóa 8): Dựa vào hình 1.10 và 1.12 (SGK) hãy chép các câu sau đây vào vở bài tập với đầy đủ các từ và con số thích hợp chọn trong khung:
+        \n\nPhân tử nước và phân tử cacbon đioxit giống nhau ở chỗ đều gồm ba .... thuộc hai .... liên kết với nhau theo tỉ lệ .... Còn hình dạng khác nhau, phân tử trước dạng .... phân tử sau dạng....
+
+        \n\n\n*Bài 6 (Trang 26 SGK Hóa 8): Tính phân tử khối của:
+        \n\na) Cacbon đioxit, xem mô hình phân tử ở bài tập 5.
+        \n\nb) Khí metan, biết phân tử gồm 1C và 4H.
+        \n\nc) Axit nitric,biết phân tử gồm 1H, 1N và 3O.
+        \n\nd) Thuốc tím (kali pemanganat) biết phân tử gồm 1K, 1Mn và 4O.
+
+        \n\n\n*Bài 7 (Trang 26 SGK Hóa 8): Hãy so sánh phân tử khí oxi nặng hay nhẹ hơn bằng bao nhiêu lần so với phân tử nước , phân tử muối ăn và phân tử khí metan (về chất khí này xem bài tập 6).
+
+        \n\n\n*Bài 8 (Trang 26 SGK Hóa 8): Dựa vào sự phân bố phân tử khí chất ở trạng thái khác nhau hãy giải thích vì sao:
+        \n\na) Nước lỏng tự chảy loang ra trên khay đựng.
+        \n\nb) Một mililít nước lỏng khi chuyển sang thể hơi lại chiếm một thể tích khoảng 1300ml (ở nhiệt độ thường).
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Trong các chất sau đây, có bao nhiêu đơn chất và bao nhiêu hợp chất?
+        \n\na) Axit photphoric (chứa H, P, O).
+        \n\nb) Axit cacbonic do các nguyên tố cacbon, hiđro, oxi tạo nên.
+        \n\nc) Kim cương do nguyên tố cacbon tạo nên.
+        \n\nd) Khí ozon có công thức hóa học là O3.
+        \n\ne) Kim loại bạc tạo nên từ Ag.
+        \n\nf) Khí cacbonic tạo nên từ C, 2O.
+        \n\ng) Axit sunfuric tạo nên từ 2H, S, 4O.
+        \n\nh) Than chì tạo nên từ C.
+        \n\ni) Khí axetilen tạo nên từ 2C và 2H.
+        \n\n\nA. 4 đơn chất và 5 hợp chất.
+        \n\n\nB. 5 đơn chất và 4 hợp chất.
+        \n\n\nC. 3 đơn chất và 6 hợp chất.
+        \n\n\nD. 6 đơn chất và 3 hợp chất.
+        \n\n (-) Bài 2: Cho dãy các chất có CTHH: HCl,H2, NaOH, KMnO4, O2,NaClO. Có bao nhiêu hợp chất?
+        \n\nA. 1
+        \n\nB. 2
+        \n\nC. 3
+        \n\nD. 4
+        \n\n (-) Bài 3: Hợp chất là những chất được tạo nên bởi bao nhiêu nguyên tố hóa học
+        \n\nA. nhiều hơn 2
+        \n\nB. 3
+        \n\nC. 4
+        \n\nD. 2
+        \n\n (-) Bài 4: Khí oxi do nguyên tố oxi tạo nên; nước do 2 nguyên tố: oxi và hidro tạo nên; tinh bột do 3 nguyên tố: cacbon, hidro và oxi tạo nên. Nguyên tố nào cho dưới đây là nguyên liệu cấu tạo chung của các chất này?
+        \n\nA. Cacbon
+        \n\nB. hidro.
+        \n\nC. Sắt.
+        \n\nD. Oxi
+        \n\n (-) Bài 5: Khí clo do nguyên tố clo tạo nên; muối ăn do kim loại natri và clo tạo nên; muối natri hipoclorơ do 3 nguyên tố: natri, clo và oxi tạo nên. Nguyên tố nào cho dưới đây là nguyên liệu cấu tạo chung của các chất này?
+        \n\nA. Oxi
+        \n\nB. Natri
+        \n\nC.  Sắt.
+        \n\nD. Clo
+
+
+
+
+    </string>
+    <string name="c1_6_result">
+        *Bài 1 (Trang 25 SGK Hóa 8):
+        \n"Chất được phân chia thành hai loại lớn là đơn chất và hợp chất. Đơn chất được tạo nên từ một nguyên tố hóa học còn hợp chất được tạo nên từ hai nguyên tố hóa học trở lên"
+        \n"Đơn chất lại chia thành kim loại và phi kim. Kim loại có ánh kim, dẫn điện và nhiệt, khác với phi kim không có những tính chất trên (trừ than chì dẫn điện được).
+
+        \n\n\n*Bài 2 (Trang 25 SGK Hóa 8):
+        \n\na)
+        \n\n– Kim loại đồng, sắt được tạo nên từ nguyên tố đồng (Cu) và sắt (Fe)
+        \n\n- Trong đơn chất kim loại các nguyên tử sắp xếp khít nhau và theo 1 trật tự xác định.
+        \n\nb)
+        \n\n– Khí nitơ, khí clo được tạo nên từ nguyên tố nitơ, clo.
+        \n\n- Trong đơn chất phi kim các nguyên tử thường liên kết với nhau theo một số nhất định thường là 2. Nên khí nito do 2 nguyên tử N liên kết với nhau, khí clo do 2 nguyên tử Cl liên kết với nhau.
+
+
+        \n\n\n*Bài 3 (Trang 26 SGK Hóa 8):
+        \n\na) Khí NH3: hợp chất vì được tạo từ 2 nguyên tố nitơ và hidro
+        \n\nb) Phôtpho(P): đơn chất vì được tạo từ 1 nguyên tố photpho
+        \n\nc) Axit clohiđric: hợp chất vì được tạo từ 2 nguyên tố Cl và H
+        \n\nd) Canxi cacbonat: hợp chất vì được tạo từ 3 nguyên tố Ca, C và O
+        \n\ne) Glucozơ: hợp chất vì được tạo từ 3 nguyên tố C,H và O
+        \n\nf) Magie (Mg) : đơn chất vì tạo từ 1 nguyên tố Mg
+
+        \n\n\n*Bài 4 (Trang 25 SGK Hóa 8):
+        \n\na) Phân tử là hạt đại diện cho chất gồm một số nguyên tử liên kết với nhau và thể hiện đầy đủ tính chất hóa học của chất.
+        \n\nb) Phân tử của hợp chất gồm những nguyên tử khác loại liên kết với nhau, còn phân tử của đơn chất thì là những nguyên tử cùng loại.
+        \n\nVí dụ:
+        \n\n- Phân tử của hợp chất : axit sunfuric tạo ra từ nguyên tử H, S, O
+        \n\n- Phân tử của đơn chất : Khí oxi tạo từ 2 nguyên tử oxi
+
+        \n\n\n*Bài 5 (Trang 26 SGK Hóa 8):
+        \n\nPhân tử nước và phân tử cacbon đioxit giống nhau ở chỗ đều gồm ba nguyên tử thuộc hai nguyên tố liên kết với nhau theo tỉ lệ 1 : 2. Còn hình dạng khác nhau, phân tử trước dạng gấp khúc phân tử sau dạng đường thẳng.
+
+        \n\n\n*Bài 6 (Trang 26 SGK Hóa 8):
+        \n\nTính phân tử khối của :
+        \n\na) Cacbon dioxit (CO2) bằng : 12 + 16.2 = 44 đvC
+        \n\nb) Khí metan (CH4) bằng : 12 + 4.1 = 16 đvC
+        \n\nc) Axit nitric (HNO3) bằng : 1.1 + 14.1 + 16.3 = 63 đvC
+        \n\nd) Kali pemanganat (KMnO4) bằng : 1.39 + 1.55 + 4.16 = 158 đvC
+
+        \n\n\n*Bài 7 (Trang 26 SGK Hóa 8):
+        \n\nPhân tử khối của phân tử khí oxi (gồm 2 nguyên tử oxi) bằng 16.2 = 32 đvC
+        \n\nPhân tử khối của phân tử nước (gồm 2 nguyên tử H và 1 nguyên tử O) bằng 2.1 +16 = 18 đvC
+        \n\nPhân tử khối của phân tử muối ăn (gồm 1 nguyên tử Na và 1 nguyên tử Cl) bằng 23 + 35,5 = 58,5 đvC
+        \n\nPhân tử khối của phân tử khí metan (gồm 1 nguyên tử C và 4 nguyên tử H) bằng 12 + 4 = 16 đvC
+        \n\n⇒ Phân tử khí oxi nặng hơn phân tử nước, bằng 32/18 = 1,8 lần phân tử nước
+        \n\nPhân tử khí oxi nhẹ hơn phân tử muối ăn,  bằng 32/58,5 = 0.55 lần phân tử muối ăn
+
+        \n\n\n*Bài 8 (Trang 26 SGK Hóa 8):
+        \n\na) Nước lỏng có thể chảy ra trên khay đựng theo sự phân bố phân tử, ở trạng thái lỏng, các hạt gần nhau và có thể chuyển động trượt lên nhau.
+        \n\nb) Khi chuyển sang thể hơi, số phân tử không đổi nhưng ở thể hơi các phân tử nước chuyển động hỗn độn cách xa nhau nên chiếm thể tích lớn hơn so với thể lỏng.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nNhững đơn chất là:
+        \n\nc) Kim cương do nguyên tố cacbon tạo nên.
+        \n\nd) Khí ozon có công thức hóa học là O3.
+        \n\ne) Kim loại bạc tạo nên từ Ag.
+        \n\nh) Than chì tạo nên từ C.
+        \n\nNhững hợp chất là:
+        \n\na) Axit photphoric (chứa H, P, O).
+        \n\nb) Axit cacbonic do các nguyên tố cacbon, hiđro, oxi tạo nên.
+        \n\nf) Khí cacbonic tạo nên từ C, 2O.
+        \n\ng) Axit sunfuric tạo nên từ 2H, S, 4O.
+        \n\ni) Khí axetilen tạo nên từ 2C và 2H.
+        \n\n => Vậy có 4 đơn chất và 5 hợp chất.
+        \n\n => Đáp án cần chọn là: A
+        \n\n (-) Bài 2:
+        \n\nHợp chất là: HCl, NaOH, KMnO4,NaClO
+        \n\nĐáp án cần chọn là: D
+        \n\n (-) Bài 3:
+        \n\nHợp chất là những chất tạo nên từ 2 nguyên tố hóa học trở lên
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 4:
+        \n\nCả 3 chất đều được cấu tạo chung từ nguyên tố oxi
+        \n\nĐáp án cần chọn là: D
+        \n\n (-) Bài 5:
+        \n\n3 chất trên cùng được tạo nên bởi nguyên tố clo
+        \n\nĐáp án cần chọn là: D
+    </string>
+
+    <string name="c1_7_question">
+        *Bài 1 (trang 28 SGK Hóa 8): Mô tả những gì quan sát được ở mỗi thí nghiệm và giải thích.
+    </string>
+    <string name="c1_7_result">
+        1. Thí nghiệm 1:
+        \n\n- Hiện tượng: Sau một thời gian thấy quỳ tím chuyển sang màu xanh.
+        \n\n- Giải thích: Do khí amoniac từ bông đã di chuyển theo các phân tử không khí trong bình, tới giấy quỳ thì làm giấy quỳ hoá xanh.
+        \n\n2. Thí nghiệm 2:
+        \n\n- Hiện tượng:
+        \n\n• Ở cốc 1, sau khi khuấy thì cốc nước có màu tím.
+        \n\n• Ở cốc 2, chỉ có những chỗ có thuốc tím thì có màu tím, nhưng để lâu thì hết cốc nước sẽ có màu tím.
+        \n\n- Giải thích:
+        \n\n• Ở cốc 1 là do khi khuấy thì các phân tử nước chuyển động mang theo các phân tử thuốc tím làm cốc có màu tím.
+        \n\n• Ở cốc 2 là do khi để yên thì các phân tử nước chuyển động chậm nên phải chờ lâu nên cốc nước mới có màu tím.
+    </string>
+
+    <string name="c1_8_question">
+        *Bài 1 (trang 30 SGK Hóa 8):
+        \n\na) Hãy chỉ ra từ nào (những từ in nghiêng) chỉ vật thể tự nhiên, từ nào chỉ vật thể nhân tạo, từ nào chỉ chất trong các câu sau đây.
+        \n\n- Chậu có thể làm bằng nhôm hay chất dẻo.
+        \n\n- Xenlulozơ là thành phần chính tạo nên màng tế bào thực vật, có nhiều trong thân cây (gỗ, tre, nứa,....).
+        \n\nb) Biết rằng sắt có thể bị nam châm hút, có khối lượng riêng D = 7,8g/cm3 nhôm có D = 2,7g/cm3 và gỗ tốt (coi như là xenlulozơ) có D ≈ 0,8g/cm3. Hãy nói cách làm để tách riêng mỗi chất trong hỗn hợp vụn rất nhỏ ba chất?
+
+        \n\n\n*Bài 2 (Trang 31 SGK Hóa 8): Cho biết sơ đồ nguyên tử magie như hình (Trong SGK)
+        \n\na) Hãy chỉ ra: số p trong hạt nhân, số e trong nguyên tử và số e lớp ngoài.
+        \n\nb) Nêu điểm khác nhau và giống nhau giữa nguyên tử magie và nguyên tử canxi (xem sơ đồ bài tập 5 - Bài 2 Nguyên tử).
+
+        \n\n\n*Bài 3 (Trang 31 SGK Hóa 8): Một hợp chất có phân tử gồm 2 nguyên tử nguyên tố X liên kết với 1 nguyên tử O và nặng hơn phân tử hiđro 31 lần.
+        \n\na) Tính phân tử khối của hợp chất.
+        \n\nb) Tính nguyên tử khối của X, cho biết tên và kí hiệu của nguyên tố (xem bảng 1 trang 42).
+
+        \n\n\n*Bài 4 (Trang 31 SGK Hóa 8): Chép vào vở bài tập những câu sau đây với đầy đủ các từ hay cụm từ thích hợp:
+        \n\na) Những chất tạo nên từ hai ... trở lên được gọi là ...
+        \n\nb) Những chất có ... gồm những nguyên tử cùng loại ... được gọi là ...
+        \n\nc) ... là những chất tạo nên từ một ...
+        \n\nd) ... là những chất có ... gồm những nguyên tử khác loại ...
+        \n\ne) Hầu hết các ... có phân tử là hạt hợp thành, còn ... là hạt hợp thành của ... kim loại.
+
+        \n\n\n*Bài 5 (Trang 31 SGK Hóa 8): Câu sau đây gồm hai phần: "Nước cất là một hợp chất, vì nước cất sôi ở đúng 100oC".
+        \n\nHãy chọn phương án đúng trong số các phương án sau:
+        \n\nA. Ý 1 đúng, ý 2 sai.
+        \n\nB. Ý 1 sai, ý 2 đúng.
+        \n\nC. Cả hai ý đều đúng và ý 2 giải thích ý 1.
+        \n\nD. Cả hai ý đều đúng nhưng ý 2 không giải thích ý 1.
+        \n\nE. Cả hai ý đều sai.
+    </string>
+    <string name="c1_8_result">
+        *Bài 1 (trang 30 SGK Hóa 8):
+        \n\na. Vật thể tự nhiên : thân cây
+        \n\nVật thể nhân tạo : Chậu
+        \n\nChất : Nhôm, chất dẻo, xenlulozo.
+        \n\nb. Dùng nam châm hút sắt (tách được sắt ra).
+        \n\nCho hỗn hợp còn lại vào nước thì nhôm chìm xuống còn gỗ nổi lên do nhôm có khối lượng riêng (2,7g/cm3 )lớn hơn nước (1g/cm3) và gỗ có khối lượng riêng (0,8g/cm3 ) nhỏ hơn nước (1g/cm3).
+        \n\nGạn và lọc ta tách riêng được hai chất này.
+
+        \n\n\n*Bài 2 (Trang 31 SGK Hóa 8):
+        \n\na. – Số proton: 12p;
+        \n\n– Số lớp electron: 3
+        \n\n– Số electron: 12e;
+        \n\n- Số e lớp ngoài cùng: 2e
+        \n\nb. – Khác nhau: về số p, số e và số lớp e
+        \n\nCanxi: 20p, 20e, 4 lớp e
+        \n\nMagie: 12p, 12e, 3 lớp e.
+        \n\n– Giống nhau: về số e lớp ngoài cùng (đều là 2e).
+
+        \n\n\n*Bài 3 (Trang 31 SGK Hóa 8):
+        \n\na. PTK của hợp chất nặng hơn phân tử hidro 31 lần
+        \n\nPhân tử khối của phân tử hidro là 1.2 = 2 đvC
+        \n\n⇒ Phân tử khối của hợp chất là: 2.31 = 62 đvC
+        \n\nb. PTK hợp chất = 2.NTK X + 1.NTK O = 62 đvC
+        \n\n⇒ 2.NTK X + 16 = 62 đvC
+        \n\nNTKX = (62-16)/2 = 23dvC
+        \n\nVậy nguyên tử khối của X là 23. Nguyên tố X là natri (Na)
+
+        \n\n\n*Bài 4 (Trang 31 SGK Hóa 8)
+        \n\na) Những chất tạo nên từ hai nguyên tố hóa học trở lên được gọi là hợp chất.
+        \n\nb) Những chất có phân tử gồm những nguyên tử cùng loại liên kết với nhau được gọi là đơn chất.
+        \n\nc) Đơn chất là những chất tạo nên từ một nguyên tố hóa học.
+        \n\nd) Hợp chất là những chất có phân tử gồm những nguyên tử khác loại liên kết với nhau.
+        \n\ne) Hầu hết các chất có phân tử là hạt hợp thành, còn nguyên tử là hạt hợp thành của đơn chất kim loại.
+
+        \n\n\n*Bài 5 (Trang 31 SGK Hóa 8):
+        \n\nPhương án D.
+        \n\nCó thể hoàn chỉnh lại :
+        \n\n- Ý 1 : Nước cất là tinh khiết
+        \n\n- Hoặc sửa lại ý 2 : Vì nước cất tạo bởi hai nguyên tố hidro và oxi
+    </string>
+
+    <string name="c1_9_question">
+        *Bài 1 (Trang 33 SGK Hóa 8): Chép vào vở bài tập những câu sau đây với đầy đủ những từ thích hợp:
+        \n\nĐơn chất tạo nên từ một .... nên công thức hóa học chỉ gồm một .... còn .... tạo nên từ hai, ba .... Nên công thức hóa học gồm hai, ba .... Chỉ số ghi ở chân kí hiệu hóa học, bằng số .... có trong một....
+
+        \n\n\n*Bài 2 (Trang 33 SGK Hóa 8): Cho công thức hóa học của các chất sau:
+        \n\na) Khí clo Cl2.
+        \n\nb) Khí metan CH4.
+        \n\nc) Kẽm clorua ZnCl2.
+        \n\nd) Axit sunfuric H2SO4.
+        \n\nHãy nêu những gì biết được từ mỗi chất
+
+        \n\n\n*Bài 3 (Trang 33 SGK Hóa 8): Viết công thức hóa học và tính phân tử khối của các hợp chất sau:
+        \n\na) Canxi oxit (vôi sống), biết trong phân tử có 1Ca và 1O.
+        \n\nb) Amoniac, biết trong phân tử có 1N và 3H.
+        \n\nc) Đồng sunfat, biết trong phân tử có 1Cu, 1S và 4O
+
+        \n\n\n*Bài 4 (Trang 34 SGK Hóa 8)
+        \n\na) Các cách viết sau chỉ những ý gì 5Cu, 2NaCl, 3CaCO3.
+        \n\nb) Dùng chữ số và công thức hóa học để diễn đạt những ý sau: Ba phân tử oxi, sáu phân tử canxi oxit, năm phân tử đồng sunfat.
+
+        \n\n\n*Bài Tập Tự Luyện
+        \n\n (-) Bài 1: Từ CTHH của hợp chất  amoniac NH3 ta biết được điều gì?
+        \n\nA. Có 2 nguyên tử tạo ra chất. Chất do 2 nguyên tố là N và H tạo ra , PTK = 17
+        \n\nB. Chất do 2 nguyên tố là N và H tạo ra, PTK = 17
+        \n\nC. Chất do 2 nguyên tố là N và H tạo ra, PTK = 17. Có 1 nguyên tử 1N, 3  nguyên tử H trong 1 phân tử của chất
+        \n\nD. PTK = 17
+        \n\n (-) Bài 2: Chọn đáp án sai
+        \n\nA. CO là phân tử gồm nguyên tố C và nguyên tố O.
+        \n\nB. Ca là công thức hóa học của canxi.
+        \n\nC. Al2O3 có 2 nguyên tử nhôm và 2 nguyên tử oxi trong phân tử.
+        \n\nD. Fe3O4 gồm 3 nguyên tử Fe và 4 nguyên tử O
+        \n\n (-) Bài 3: Những nguyên tố tạo nên Canxi cacbonat có trong vỏ trứng là:
+        \n\nA. Ba, C, O
+        \n\nB. Ca, C, O
+        \n\nC. K, C, O
+        \n\nD. C,  P, O
+        \n\n (-) Bài 4:
+        \n\nCông thức hóa học đúng của: Khí clo, Dây đồng, Nhôm oxit là:
+        \n\nA. Cl2; Cu; Al2O3
+        \n\nB. Cl2; Cu2; Al3O2
+        \n\nC.Cl ; Cu; Al2O3.
+        \n\nD. Cl; Cu Al3O2
+        \n\n (-) Bài 5: Công thức hóa học đúng của: Nước, Khí  hiđro, bột lưu huỳnh là
+        \n\nA. H2O ; H ; S2
+        \n\nB. H2O ; H2; S2
+        \n\nC. H2O ; H ; S.
+        \n\nD. H2O ; H2; S
+    </string>
+    <string name="c1_9_result">
+        *Bài 1 (Trang 33 SGK Hóa 8):
+        \n\nĐơn chất tạo nên từ một nguyên tố hóa học nên công thức hóa học chỉ gồm một kí hiệu hóa học còn hợp chất tạo nên từ hai, ba nguyên tố hóa học nên công thức hóa học gồm hai, ba kí hiệu hóa học Chỉ số ghi ở chân kí hiệu hóa học, bằng số nguyên tử có trong một phân tử hợp chất.
+
+        \n\n\n*Bài 2 (Trang 33 SGK Hóa 8):
+        \n\na) Khí Cl2:
+        \n\n- Khí clo do nguyên tố clo tạo ra
+        \n\n- Có 2 nguyên tử clo trong một phân tử khí Cl2
+        \n\n- Phân tử khối: 35,5 x 2 = 71 đvC.
+        \n\nb) Khí CH4:
+        \n\n- Khí CH4 do 2 nguyên tố H và C tạo ra.
+        \n\n- Có 1 nguyên tử cacbon và 4 nguyên tử H trong một phân tử CH4
+        \n\n- Phân tử khối : 12 + 1.4 = 16 đvC
+        \n\nc) Kẽm clorua ZnCl2:
+        \n\n- Kẽm clorua do hai nguyên tố là Zn và Cl tạo ra.
+        \n\n- Có 1 nguyên tử Zn và 2 nguyên tử Cl trong 1 phân tử ZnCl2
+        \n\n- Phân tử khối: 65 + 35,5 x 2 = 136 đvC
+        \n\nd) Axit sunfuric H2SO4:
+        \n\n- Axit sunfuric do ba nguyên tố là H, S và O tạo ra
+        \n\n- Có 2 nguyên tử H, 1 nguyên tử S và 4 nguyên tử O trong 1 phân tử H2SO4
+        \n\n- Phân tử khối bằng: 2 x 1 + 32 + 16 x 4 = 98 đvC
+
+        \n\n\n*Bài 3 (Trang 33 SGK Hóa 8):
+        \n\na. – Phân tử Canxi oxit có 1Ca và 1O nên công thức hóa học là: CaO
+        \n\n- PTK CaO = NTK Ca + NTK O = 40 + 16 = 56 đvC
+        \n\nb. – Phân tử Amoniac có 1N và 3H nên công thức hóa học là: NH3
+        \n\n- PTK NH3 = NTK N + 3. NTK H = 14 + 3.1 = 17 đvC
+        \n\nc. – Phân tử Đồng sunfat có 1Cu, 1S và 4O nên công thức hóa học là: CuSO4
+        \n\n- PTK CuSO4 = NTK Cu + NTK S + 4. NTK O = 64 + 32 + 4.16 = 160 đvC
+
+        \n\n\n*Bài 4 (Trang 34 SGK Hóa 8)
+        \n\na. Năm nguyên tử đồng (Cu)
+        \n\nHai phân tử natri clorua (NaCl)
+        \n\nBa phân tử canxi cacbonat (CaCO3)
+        \n\nb. Ba phân tử oxi : 3O2
+        \n\nSáu phân tử canxi oxit : 6 CaO
+        \n\nNăm phân tử đồng sunfat : 5 CuSO4
+
+        \n\n\n*Bài Tập Tự Luyện
+        \n\n (-) Bài 1:
+        \n\nNH3 do 2 nguyên tố N và H tạo thành, PTK = 17, gồm 1 nguyên tử N và 3 nguyên tử H
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 2: Chọn đáp án sai
+        \n\nĐáp án sai là: Al2O3 có 2 nguyên tử nhôm và 2 nguyên tử oxi trong phân tử.
+        \n\n=> sửa lại: Al2O3 có 2 nguyên tử nhôm và 3 nguyên tử oxi trong phân tử.
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 3:
+        \n\nCanxi cacbonat có công thức hóa học là: CaCO3 => được tạo nên từ các nguyên tố: Ca, C, O
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 4:
+        \n\nKhí clo: Cl2
+        \n\nDây đồng: Cu
+        \n\nNhôm oxit: Al2O3
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 5:
+        \n\nNước: H2O
+        \n\nKhí hiđro: H2
+        \n\nBột lưu huỳnh: S
+        \n\nĐáp án cần chọn là: D
+
+    </string>
+
+    <string name="c1_10_question">
+        *Bài 1 (Trang 37 SGK Hóa 8): a) Hóa trị của một nguyên tố (hay nhóm nguyên tử) là gì?
+        \n\nb) Khi xác định hóa trị, lấy hóa trị của nguyên tố nào làm đơn vị, nguyên tố nào là hai đơn vị?
+
+        \n\n\n*Bài 2 (Trang 37 SGK Hóa 8): Hãy xác định hóa trị của mỗi nguyên tố trong các hợp chất sau đây:
+        \n\na) KH, H2S, CH4.
+        \n\nb) FeO, Ag2O, SiO2.
+
+        \n\n\n*Bài 3 (Trang 37 SGK Hóa 8): a) Nêu quy tắc hóa trị với hợp chất hai nguyên tố. Lấy công thức hóa học của hai hợp chất trong câu 2 làm thí dụ.
+        \n\nb) Biết công thức hóa học K2SO4 trong đó có K hóa trị I, nhóm (SO4) hóa trị II. Hãy chỉ ra là công thức hóa học trên phù hợp đúng theo quy tắc hóa trị.
+
+        \n\n\n*Bài 4 (Trang 38 SGK Hóa 8): a) Tính hóa trị của mỗi nguyên tố trong các hợp chất sau biết Cl hóa trị I: ZnCl2, CuCl, AlCl3.
+        \n\nb) Tính hóa trị của Fe trong hợp chất FeSO4.
+
+        \n\n\n*Bài 5 (Trang 38 SGK Hóa 8): a) Lập công thức hóa học của những hợp chất hai nguyên tố sau:
+        \n\na) P (III) và H; C (IV) và S (II); Fe (III) và O.
+        \n\nb) Lập công thức hóa học của những hợp chất tạo bởi một nguyên tố và nhóm nguyên tử như sau:
+        \n\nNa (I) và OH (I); Cu (II) và (SO4) (II); Ca (II) và (NO3)(I).
+
+        \n\n\n*Bài 6 (Trang 38 SGK Hóa 8): Một số công thức hóa học viết như sau: MgCl, KO, CaCl2, NaCO3. Cho biết Mg nhóm (CO3) có hóa trị II (hóa trị của các nguyên tố K, Cl, Na và Ca đã cho ở bài tập trên). Hãy chỉ ra những công thức hóa học đã viết sai và sửa lại cho đúng.
+
+        \n\n\n*Bài 7 (Trang 38 SGK Hóa 8): Hãy chọn công thức hóa học phù hợp với hóa trị IV của nitơ trong số các công thức cho sau đây: NO, N2O3, N2O, NO2.
+
+        \n\n\n*Bài 8 (Trang 38 SGK Hóa 8): a) Tìm hóa trị của Ba và nhóm (PO4) trong bảng 1 và bảng 2 (trang 42, 43)
+        \n\nb) Hãy chọn công thức hóa học đúng trong các công thức sau đây:
+        \n\nA. BaPO4
+        \n\nB.Ba2PO4.
+        \n\nC.Ba3PO4.
+        \n\nD.Ba3(PO4)2.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Cho biết CTHH của X với H là H3X, của Y với O là YO. Chọn CTHH  nào đúng cho hợp chất X và Y:
+        \n\nA. XY3
+        \n\nB. X3Y
+        \n\nC. X2Y3
+        \n\nD. X2Y2
+        \n\n (-) Bài 2: Hợp chất của nguyên tố X với O là X2O3 và hợp chất của nguyên tố Y với H là YH2. Công thức hoá học hợp chất của X với Y là:
+        \n\nA. XY
+        \n\nB. X2Y
+        \n\nC.  XY2
+        \n\nD. X2Y3
+        \n\n (-) Bài 3: Lập CTHH và tính PTK của hợp chất có phân tử gồm K, Ba, Al lần lượt liên kết với :
+        \n\na/ Cl
+        \n\nb/ nhóm (SO4).
+        \n\nA. a/ KCl   = 74,5; BaCl2 = 208 ; AlCl3= 133,5
+        \n\n   b/ K2SO4  = 174 ; BaSO4 = 233; Al2(SO4)3 = 342.
+        \n\nB. a/ KCl   = 74,5; BaCl2 = 208 ; AlCl3= 123,5
+        \n\n   b/ K2SO4  = 174 ; BaSO4 = 233; Al2(SO4)3 = 342.
+        \n\nC. a/ KCl   = 74,5; BaCl2 = 208 ; AlCl3= 123,5
+        \n\n   b/ K2SO4  = 174 ; BaSO4 = 233;  Al2(SO4)3 = 332.
+        \n\nD. a/ KCl   = 75,5; BaCl2 = 208 ; AlCl3= 123,5
+        \n\n   b/ K2SO4  = 174 ; BaSO4 = 233;  Al2(SO4)3 = 342.
+        \n\n (-) Bài 4: Hợp chất của nguyên tố X với S là X2S3 và hợp chất của nguyên tố Y với H là YH3. Công thức hoá học hợp chất của X với Y là
+        \n\nA. XY
+        \n\nB. X2Y
+        \n\nC. XY2
+        \n\nD. X2Y3
+        \n\n (-) Bài 5: Từ hóa trị của Cl trong hợp chất HCl hãy lập CTHH của 2 hợp chất do kim loại K, Ca liên kết với Cl.
+        \n\nA. KCl; CaCl2
+        \n\nB. KCl; CaCl;
+        \n\nC. KCl2; CaCl2.
+        \n\nD. KCl; CaCl
+
+
+
+    </string>
+    <string name="c1_10_result">
+        *Bài 1 (Trang 37 SGK Hóa 8):
+        \n\na) Hóa trị của nguyên tố (hay nhóm nguyên tử) là con số biểu thị khả năng liên kết của nguyên tử (hay nhóm nguyên tử).
+        \n\nb) Khi xác định hóa trị lấy hóa trị của H làm đơn vị và hóa trị của O là hai đơn vị.
+
+        \n\n\n*Bài 2 (Trang 37 SGK Hóa 8):
+        \n\na) + KH
+        \n\nGọi x là hóa trị của K
+        \n\nTheo quy tắc hóa trị ta có
+        \n\nx.1 = I.1 => x = (I.1)/1 = 1
+        \n\nVậy hóa trị của K là I.
+        \n\n+ H(Đặt là I)2S(Đặt là x)
+        \n\nGọi x là hóa trị của S
+        \n\nTheo quy tắc hóa trị ta có
+        \n\nI.2 = 1.x => x = (I.2)/1 = II
+        \n\n=> Vậy hóa trị của S là II
+        \n\n+ C(Đặt là x)H(Đặt là I)4
+        \n\nGọi x là hóa trị của C
+        \n\nTheo quy tắc hóa trị ta có
+        \n\n1.x = I.4 => x = (I.4)/1 = IV
+        \n\n=> Vậy hóa trị của C là IV
+        \n\nb) Cách làm tương tự.
+        \n\n => Hóa trị của Fe là II
+        \n\n => Hóa trị của Ag là I
+        \n\n => Hóa trị của Si là IV
+
+        \n\n\n*Bài 3 (Trang 37 SGK Hóa 8):
+        \n\na) Quy tắc hóa trị với hợp chất hai nguyên tố: Trong công thức hóa học, tích của chỉ số và hóa trị của nguyên tố này bằng tích của chỉ số và hóa trị của nguyên tố kia.
+        \n\nVD theo bài 2 ta có :
+        \n\nFeO : Fe hóa trị II, oxi cũng hóa trị II ⇒ II.1 = 1.II
+        \n\nSiO2 : Si hóa trị IV, oxi hóa trị II ⇒ IV .1 = II. 2
+        \n\nb) Vì K hóa trị I, nhóm SO4 hóa trị II
+        \n\nTheo quy tắc hóa trị: 2 x I = 1 x II.
+        \n\n⇒ Công thức K2SO4 là công thức phù hợp với quy tắc hóa trị.
+
+        \n\n\n*Bài 4 (Trang 38 SGK Hóa 8):
+        \n\na) + ZnCl2
+        \n\nGọi x là hóa trị của Zn.
+        \n\nTheo quy tắc hóa trị ta có x.1 = I.2 => x = (I.2)/1 = II. Vậy hóa trị của Zn là II
+        \n\n + CuCl
+        \n\nGọi x là hóa trị của Cu.
+        \n\nTheo quy tắc hóa trị ta có 1.x = I.1 => x = (I.1) / 1 = I . Vậy hóa trị của Cu là I
+        \n\n + AlCl3
+        \n\n Gọi x là hóa trị của Al.
+        \n\nTheo quy tắc hóa trị ta có 1.x = I.3 => y = (I.3) / 1 = III . Vậy hóa trị của Al là III
+        \n\nb) Fe(SO4)
+        \n\nGọi hóa trị của Fe là x, nhóm SO4 có hóa trị II
+        \n\nTheo quy tắc hóa trị ta có : x.1 = II.1 => a = (II.1)/1 = II
+        \n\n => Vậy hóa trị của Fe trong hợp chất FeSO4 là II
+
+        \n\n\n*Bài 5 (Trang 38 SGK Hóa 8):
+        \n\na) + P(III) và H: có công thức dạng chung là PxHy
+        \n\nTheo quy tắc hóa trị ta có: x.III = y.I x/y = I/III = 1/3 ⇒ x =1 ; y =3
+        \n\n ⇒ PxHy có công thức PH3
+        \n\n + Tương tự, ta có:
+        \n\n => CxSy có công thức CS2.
+        \n\n => FexOy có công thức Fe2O3
+        \n\nb) + Na (I) và OH(I): có công thức dạng chung là Nax(OH)y
+        \n\nTheo quy tắc hóa trị ta có: x.I = y.I => x/y = I/I = 1/1 => x = 1; y = 1;
+        \n\n ⇒ Nax(OH)y có công thức NaOH
+        \n\n + Tương Tự, ta có:
+        \n\n ⇒ Cux(SO4)y có công thức CuSO4
+        \n\n ⇒ Cax(NO3)y có công thức Ca(NO3)2
+
+        \n\n\n*Bài 6 (Trang 38 SGK Hóa 8):
+        \n\nXét các công thức hóa học (dựa vào hóa trị đã cho)
+        \n\n- MgCl Theo quy tắc hóa trị ta có: II.1 ≠ 1.I ⇒ Công thức MgCl sai
+        \n\nGọi công thức dạng chung là MgxCly
+        \n\nTheo quy tắc hóa trị ta có II.x= I.y ⇒ x / y = I / II = 1/2 ⇒ x = 1, y = 2
+        \n\n ⇒ Công thức đúng là MgCl2
+        \n\n- KO ( Cách làm tương tự)
+        \n\n ⇒ Công thức đúng là K2O
+        \n\n- CaCl2 Theo quy tắc hóa trị ta có: II.1 = I.2 ⇒ Công thức CaCl2 đúng
+        \n\n- NaCO3 Theo quy tắc hóa trị ta có: I.1 ≠ II.1 ⇒ Công thức NaCO3 sai
+        \n\n ⇒ công thức đúng là Na2CO3
+
+        \n\n\n*Bài 7 (Trang 38 SGK Hóa 8):
+        \n\nGọi hóa trị của N trong các hợp chất là x. Xét từng công thức hóa học:
+        \n\n- NO: Theo quy tắc hóa trị ta có: x.1 = II.1 ⇒ x = II
+        \n\n ⇒ Hóa trị của N trong công thức NO là II
+        \n\n- N2O3: Theo quy tắc hóa trị ta có: x.2 = II.3 ⇒ x = III
+        \n\n ⇒ Hóa trị của N trong công thức N2O3 là III
+        \n\n- N2O: Theo quy tắc hóa trị ta có: x.2 = II.1 ⇒ x = I
+        \n\n ⇒ Hóa trị của N trong công thức N2O là I
+        \n\n- NO2: Theo quy tắc hóa trị ta có x.1 = II.2 ⇒ x = IV
+        \n\n ⇒ Hóa trị của N trong công thức NO2 là IV.
+
+
+        \n\n\n*Bài 8 (Trang 38 SGK Hóa 8):
+        \n\na) Hóa trị của Ba là II và nhóm (PO4) bằng III
+        \n\nb) Gọi công thức dạng chung của Ba(II) và nhóm PO4 (III) là Bax(PO4)y
+        \n\nTheo quy tắc hóa trị ta có: II.x = III.y ⇒ x/y = III/2 = 3/2 ⇒ chọn x = 3, y = 2
+        \n\n ⇒ Công thức hóa học là Ba3(PO4)2
+        \n\nĐáp án D
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: C
+        \n\n (-) Bài 2: D
+        \n\n (-) Bài 3: A
+        \n\n (-) Bài 4: A
+        \n\n (-) Bài 5: A
+
+    </string>
+
+    <string name="c1_11_question">
+        *Bài 1: Hãy tính hóa trị của đồng Cu, photpho P, silic Si, và sắt Fe trong các công thức hóa học sau: Cu(OH)2, PCl5, SiO2, Fe(NO3)3. Biết các nhóm (OH), (NO3), Cl đều hóa trị I.
+
+        \n\n\n*Bài 2 (Trang 41 SGK Hóa 8): Cho biết công thức hóa học của hợp chất của nguyên tố X với O và hợp chất của nguyên tố Y với H như sau (X, Y là những nguyên tố nào đó): XO, YH3.
+        \n\nHãy chọn công thức hóa học nào là đúng cho hợp chất của X với Y trong số các công thức sau đây:
+        \n\nA. XY3.
+        \n\nB. X3Y.
+        \n\nC. X2Y3.
+        \n\nD. X3Y2.
+        \n\nE. XY.
+
+        \n\n\n*Bài 3 (Trang 41 SGK Hóa 8): Theo hóa trị của sắt trong hợp chất có công thức hóa học là Fe2O3 hãy chọn công thức hóa học đúng trong số các công thức hợp chất có phân tử Fe liên kết với (SO4) hóa trị (II) sau:
+        \n\nA. FeSO4.
+        \n\nB. Fe2SO4.
+        \n\nC. Fe2(SO4)2.
+        \n\nD. Fe2(SO4)3.
+        \n\nE. Fe3(SO4)2.
+
+        \n\n\n*Bài 4 (Trang 41 SGK Hóa 8):
+        \n\na) Cl.
+        \n\nb) Nhóm (SO4).
+
+
+
+    </string>
+    <string name="c1_11_result">
+        *Bài 1 (Trang 41 SGK Hóa 8):
+        \n\nGọi hóa trị của các chất cần tính là a. Ta có:
+        \n\n- Cu(OH)2 1.a = I x 2 ⇒ a = II
+        \n\nHay Cu có hóa trị II.
+        \n\n- PCl5 1.a = I x 5 ⇒ a = V
+        \n\nHay P có hóa trị V.
+        \n\n- SiO2 1.a = II x 2 ⇒ a = IV
+        \n\nHay Si có hóa trị IV.
+        \n\n- Fe(NO3)3 1.a = I x 3 ⇒ a = III
+        \n\nHay Fe có hóa trị III.
+
+        \n\n\n*Bài 2 (Trang 41 SGK Hóa 8):
+        \n\n* Gọi hóa trị của X trong công thức XO là a
+        \n\nTheo quy tắc hóa trị ta có : a.1 = II.1 ⇒ a = II
+        \n\n ⇒ X có hóa trị II
+        \n\n* Gọi hóa trị của Y trong công thức YH3 là b
+        \n\nTheo quy tắc hóa trị ta có : b.1 = I.3 ⇒ b = 3
+        \n\n ⇒ Y có hóa trị III
+        \n\n* Hợp chất X(II) và Y(III) có công thức dạng chung là XxYy
+        \n\nTheo quy tắc hóa trị ta có : II.x = III.y ⇒ Giải bài tập Hóa học 8 | Để học tốt hóa học 8 ⇒ x = 3, y = 2
+        \n\n ⇒ Công thức là X3Y2.
+        \n\n => Đáp án D
+
+        \n\n\n*Bài 3 (Trang 41 SGK Hóa 8):
+        \n\n* Gọi hóa trị của Fe trong công thức Fe2O3 là a.
+        \n\nTheo quy tắc hóa trị ta có: a.2 = II.3 ⇒ a = III ⇒ Fe có hóa trị III
+        \n\n* Công thức dạng chung của Fe(III) và nhóm SO4 hóa trị (II) là Fex(SO4)y
+        \n\nTheo quy tắc hóa trị ta có: III.x = II. y ⇒ Giải bài tập Hóa học 8 | Để học tốt hóa học 8 ⇒ chọn x = 2, y = 3
+        \n\n ⇒ Công thức hóa học là Fe2(SO4)3
+        \n\n => Đáp án D
+
+        \n\n\n*Bài 4 (Trang 41 SGK Hóa 8):
+        \n\na) - Gọi công thức hóa học chung của K(I) và Cl (I) là KxCly
+        \n\nTheo quy tắc hóa trị ta có:
+        \n\nx.I = I.y => x/y = I/I = 1/1
+        \n\n => x = 1; y = 1
+        \n\nVậy CTHH của KxCly là KCl
+        \n\nPhân tử khối : 39 + 35,5 = 74,5 đvC
+        \n\n- Gọi công thức hóa học chung của Ba(II) và Cl (I) là BaxCly
+        \n\nx.II = I.y => x/y = I/II = 1/2
+        \n\n => x = 1; y = 2
+        \n\nVậy CTHH của BaxCly là BaCl2
+        \n\nPhân tử khối : 137 + 35,5 x 2 = 208 đvC
+        \n\n- Gọi công thức hóa học chung của Al(III) và Cl (I) là AlxCly ( làm tương tự như trên )
+        \n\nCTHH của AlxCly là AlCl3
+        \n\nPhân tử khối : 27 + 35,5 x 3 = 133,5 đvC
+        \n\nb) - Gọi công thức hóa học chung của K(I) và SO4 (II) là Kx(SO4)y ( làm tương tự như trên )
+        \n\nCTHH của Kx(SO4)y là K2SO4
+        \n\nPhân tử khối : 39.2 + 32 + 16 x 4 = 174 đvC
+        \n\n- Gọi công thức hóa học chung của Ba(II) và SO4 (II) là Bax(SO4)y
+        \n\nCTHH của Bax(SO4)y là BaSO4
+        \n\nPhân tử khối : 137 + 32 + 16 x 4 = 233 đvC
+        \n\n- Gọi công thức hóa học chung của Al(III) và SO4 (II) là Alx(SO4)y
+        \n\nCTHH của Alx(SO4)y là Al2(SO4)3
+        \n\nPhân tử khối : 27.2 + (32 + 16 x 4).3 = 342 đvC
+
+    </string>
+    <!--
+            (END) Chương 1
+    -->
+</resources>
