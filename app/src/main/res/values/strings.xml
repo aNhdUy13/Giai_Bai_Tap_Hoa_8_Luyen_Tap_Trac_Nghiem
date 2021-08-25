@@ -3593,9 +3593,523 @@
 
     </string>
 
+    <!--
+        Chương 6
+    -->
+    <string name="c6_1_question">
+        *Bài 1 ( Trang 138 SGK Hóa 8 ): Thế nào là dung dịch dung dịch chưa bão hòa, dung dịch bão hòa? Hãy dẫn ra những thí dụ để minh họa.
+
+        \n\n\n*Bài 2 ( Trang 138 SGK Hóa 8 ): Em hãy mô tả những thí nghiệm để chứng minh rằng muốn hòa tan nhanh một chất rắn trong nước ta có thể chọn những biện pháp nghiền nhỏ chất rắn, đun nóng, khuấy dung dịch.
+
+        \n\n\n*Bài 3 ( Trang 138 SGK Hóa 8 ): Em hãy mô tả cách tiến hành những thí nghiệm sau:
+        \n\na) Chuyển đổi từ một dung dịch NaCl bão hòa thành một dung dịch chưa bão hòa (ở nhiệt độ phòng).
+        \n\nb) Chuyển đổi từ một dung dịch NaCl chưa bão hòa thành một dung dịch bão hòa (ở nhiệt độ phòng).
+
+        \n\n\n*Bài 4 ( Trang 138 SGK Hóa 8 ): Cho biết ở nhiệt độ phòng thí nghiệm (khoảng 20oC) 10 gam nước có thể hòa tan tối đa 20 gam đường 3,59 gam muối ăn.
+        \n\na) Em hãy dẫn ra những thí dụ về khối lượng của đường, muối ăn để tạo ra những dung dịch chưa bão hòa với 10 gam nước.
+        \n\nb) Em có nhận xét gì nếu người ta khuấy 25 gam đường vào 10 gam nước; 3,5gam muối ăn vào 10 gam nước (nhiệt độ phòng thí nghiệm).
+
+        \n\n\n*Bài 5 ( Trang 138 SGK Hóa 8 ): Trộn 1ml rượu etylic (cồn) với 10ml nước cất. Câu nào sau đây diễn đạt đúng:
+        \n\nA. Chất tan là rượu etylic, dung môi là nước.
+        \n\nB. Chất tan là nước, dung môi là rượu etylic.
+        \n\nC. Nước hoặc rượu etylic có thể là chất tan hoặc là dung môi.
+        \n\nD. Cả hai chất nước và rượu etylic vừa là chất tan, vừa là dung môi.
+
+        \n\n\n*Bài 6 ( Trang 138 SGK Hóa 8 ): Hãy chọn câu trả lời đúng nhất.
+        \n\nDung dịch là hỗn hợp:
+        \n\nA. Của chất rắn trong chất lỏng.
+        \n\nB. Của chất khí trong chất lỏng.
+        \n\nC. Đồng nhất của chất rắn và dung môi.
+        \n\nD. Đồng nhất của dung môi và chất tan.
+        \n\nE. Đồng nhất của các chất rắn lỏng và khí trong dung môi.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Hòa tan 3 gam muối NaCl vào trong nước thu được dung dịch muối. Chất tan là
+        \n\nA. muối NaCl.
+        \n\nB. nước.
+        \n\nC. muối NaCl và nước.
+        \n\nD. dung dịch nước muối thu được.
+        \n\n (-) Bài 2: Dung dịch không thể hòa tan thêm chất tan là
+        \n\nA. Dung môi
+        \n\nB. Dung dịch bão hòa
+        \n\nC. Dung dịch chưa bão hòa
+        \n\nD. Cả A và B
+        \n\n (-) Bài 3: Làm sao để quá trình hòa tan chất rắn vào nước diễn ra nhanh hơn?
+        \n\nA. khuấy dung dịch.
+        \n\nB. đun nóng dung dịch.
+        \n\nC. nghiền nhỏ chất rắn.
+        \n\nD. cả ba cách đều được.
+        \n\n (-) Bài 4: Dung dịch chưa bão hòa là
+        \n\nA. Dung dịch có thể hòa tan thêm chất tan.
+        \n\nB. Tỉ lệ 2 : 1 giữa chất tan và dung môi.
+        \n\nC. Tỉ lệ 1 : 1 giữa chất tan và dung môi.
+        \n\nD. Làm quỳ tím hóa đỏ.
+        \n\n (-) Bài 5: Vì sao đun nóng dung dịch cũng là một phương pháp để chất rắn tan nhanh hơn trong nước?
+        \n\nA. Làm mềm chất rắn.
+        \n\nB. Có áp suất cao.
+        \n\nC. Ở nhiệt độ cao, các phân tử nước chuyển động nhanh hơn làm tăng số lần va chạm giữa các phân tử và bề mặt chất rắn.
+        \n\nD. Do nhiệt độ cao các chất rắn dễ nóng chảy hơn.
 
 
 
+
+
+
+
+    </string>
+    <string name="c6_1_result">
+        *Bài 1 ( Trang 138 SGK Hóa 8 ):
+        \n\na) Dung dịch chưa bão hòa là dung dịch có thể hòa tan thêm chất tan.
+        \n\nb) Dung dịch bão hòa là dung dịch không thể hòa tan thêm chất tan.
+        \n\nThí dụ: Cho dần dần và liên tục muối ăn vào cốc nước, khuấy đều, nhẹ.
+        \n\nNhận xét: Ở giai đoạn đầu ta được dung dịch muối ăn, vẫn có thể hòa tan thêm muối ăn.
+        \n\nỞ giai đoạn sau ta được dung dịch muối ăn không thể hòa tan thêm muối ăn. Ta có dung dịch muối ăn bão hòa (lọc qua giấy lọc, có những tinh thể không tan).
+
+        \n\n\n*Bài 2 ( Trang 138 SGK Hóa 8 ):
+        \n\n- Cho cùng một lượng muối mỏ(tinh thể rất nhỏ) và muối hột hòa tan vào 2 cốc có cùng một thể tích nước và khuấy đều như nhau, ta nhận thấy muối mỏ tan nhanh hơn muối bột.
+        \n\n- Cho một khối lượng đường như nhau vào 2 cốc thủy tinh có cùng thể tích nước. Một cốc để nhiệt độ phòng, một cốc đun nóng. Ta thấy cốc đun nóng đường tan nhanh hơn cốc không đun nóng.
+
+          \n\n\n*Bài 3 ( Trang 138 SGK Hóa 8 )
+        \n\na) Thêm nước (ở nhiệt độ phòng) vào dung dịch NaCl bão hòa được dung dịch chưa bão hòa.
+        \n\nb) Thêm NaCl vào dung dịch chưa bão hòa, khuấy tới khi dung dịch không hòa tan thêm được NaCl. Lọc qua giấy lọc, nước lọc là dung dịch NaCl bão hòa ở nhiệt độ phòng.
+
+        \n\n\n*Bài 4 ( Trang 138 SGK Hóa 8 ):
+        \n\na) Hòa tan 15g đường (khối lượng đường nhỏ hơn 20g) trong 10g nước ở nhiệt độ phòng thí nghiệm được dung dịch đường chưa bão hòa.
+        \n\nHòa tan 2g muối ăn (khối lượng muối ăn nhỏ hơn 3,59g) trong 10g nước ở nhiệt độ phòng thì nghiệm được dung dịch muối ăn NaCl chưa bão hòa.
+        \n\nb) Khuấy 25g đường vào 10g nước ở nhiệt độ phòng thí nghiệm được dung dịch đường bão hòa còn lại 25 - 20 = 5g đường không tan dưới đáy cốc ( do 10 gam nước có thể hòa tan tối đa 20g đường)
+        \n\nNếu khuấy 3,5g NaCl vào 10g nước ở nhiệt độ phòng thí nghiệm thì toàn bộ lượng muối sẽ tan hết, được dung dịch NaCl chưa bão hòa.(do 10g nước hòa tan được 3,59 g muối ăn).
+
+        \n\n\n*Bài 5 ( Trang 138 SGK Hóa 8 ):
+        \n\nRượu etylic tan vô hạn trong nước hoặc có thể nói nước tan vô hạn trong rượu etylic.Theo đề bài cho V rượu etylic (1ml) ít hơn V nước (10ml) nên câu a diễn đạt đúng.
+
+        \n\n\n*Bài 6 ( Trang 138 SGK Hóa 8 ):
+        \n\nCâu trả lời đúng nhất: D.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nHòa tan 3 gam muối NaCl vào trong nước thu được dung dịch muối. Chất tan là muối NaCl.
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 2:
+        \n\nDung dịch không thể hòa tan thêm chất tan là dung dịch bão hòa.
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 3:Để quá trình hòa tan chất rắn vào nước diễn ra nhanh hơn thì ta cần:
+        \n\n- Khuấy dung dịch
+        \n\n- Đun nóng dung dịch
+        \n\n- Nghiền nhỏ chất rắn
+        \n\nĐáp án cần chọn là: D
+         \n\n (-) Bài 4:
+        \n\nDung dịch chưa bão hòa là dung dịch có thể hòa tan thêm chất tan.
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 5:
+        \n\nĐun nóng dung dịch cũng là một phương pháp để chất rắn tan nhanh hơn trong nước vì: Ở nhiệt độ cao, các phân tử nước chuyển động nhanh hơn làm tăng số lần va chạm giữa các phân tử và bề mặt chất rắn.
+        \n\nĐáp án cần chọn là: C
+
+    </string>
+
+    <string name="c6_2_question">
+        *Bài 1 ( Trang 142 SGK Hóa 8 ): Hãy chọn câu trả lời nào là đúng nhất
+        \n\nĐộ tan của một chất có trong nước ở nhiệt độ xác định là:
+        \n\nA. Số gam chất đó có thể tan trong 100g dung dịch.
+        \n\nB. Số gam chất đó có thể tan trong 100g nước.
+        \n\nC. Số gam chất đó có thể tan trong 100g dung môi để tao thành dung dịch bão hòa.
+        \n\nD. Số gam chất đó có thể tan trong 100g nước để tạo thành dung dịch bão hòa.
+        \n\nE. Số gam chất đó có thể tan trong 1 lit nước để tạo thành dung dịch bão hòa.
+
+
+        \n\n\n*Bài 2 ( Trang 142 SGK Hóa 8 ): Khi tăng nhiệt độ thì độ tan của chất rắn trong nước:
+        \n\nA. đều tăng.
+        \n\nB. đều giảm.
+        \n\nC. phần lớn là tăng.
+        \n\nD. phần lớn là giảm.
+        \n\nE. không tăng cũng không giảm.
+
+        \n\n\n*Bài 3 ( Trang 142 SGK Hóa 8 ):  Khi giảm nhiệt độ và tăng áp suất thì độ tan của chất khí trong nước:
+        \n\nA. đều tăng.
+        \n\nB. đều giảm.
+        \n\nC. có thể tăng và có thể giảm.
+        \n\nD. không tăng và cũng không giảm.
+
+        \n\n\n*Bài 4 ( Trang 142 SGK Hóa 8 ): Dựa vào đồ thị về độ tan của các chất rắn trong nước (Hình 6.5 SGK Hóa 8 trang 145), hãy cho biết độ tan của các muối NaNO3, KBr, KNO3, NH4Cl, NaCl, Na2SO4 ở nhiệt độ 10oC và 60oC.
+
+         \n\n\n*Bài 5 ( Trang 142 SGK Hóa 8 ): Xác định độ tan của muối Na2CO3 trong nước ở 18oC, biết rằng ở nhiệt độ này khi hòa tan hết 53g Na2CO3 trong 250g nước thì được dung dịch bão hòa.
+
+
+         \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Hòa tan 14,36 gam NaCl vào 40 gam nước ở nhiệt độ 20oC thì thu được dung dịch bão hòa. Độ tan của NaCl ở nhiệt độ đó là:
+        \n\nA. 35,5 gam.
+        \n\nB. 35,9 gam.
+        \n\nC. 36,5 gam.
+        \n\nD. 37,2 gam.
+        \n\n (-) Bài 2: Ở 20oC, khi hòa tan 40 gam kali nitrat vào 95 gam nước thì được dung dịch bão hòa.  Vậy ở 20oC, độ tan của kali nitrat là:
+        \n\nA. 40,1 gam.
+        \n\nB. 44,2 gam.
+        \n\nC. 42,1 gam.
+        \n\nD. 43,5 gam.
+        \n\n (-) Bài 3: Tính độ tan của K2CO3 trong nước ở 20°C. Biết rằng ở nhiệt độ này hòa tan hết 45 gam muối trong 150 gam nước thì dung dịch bão hòa.
+        \n\nA. 20 gam
+        \n\nB. 45 gam
+        \n\nC. 30 gam
+        \n\nD. 12 gam
+        \n\n (-) Bài 4: Ở 20oC, hòa tan m gam KNO3 vào 95 gam nước thì được dung dịch bão hòa. Biết độ tan của KNO3 ở nhiệt độ 20oC là 42,105 gam. Giá trị của m là
+        \n\nA. 40.
+        \n\nB. 44.
+        \n\nC. 42
+        \n\nD. 43.
+        \n\n (-) Bài 5: Độ tan của NaCl trong nước là 25°C là 36 gam. Khi mới hòa tan 15 gam NaCl vào 50 gam nước thì phải hòa tan thêm bao nhiêu gam NaCl để được dung dịch bão hòa?
+        \n\nA. 3 gam
+        \n\nB. 18 gam
+        \n\nC. 5 gam
+        \n\nD. 9 gam
+
+    </string>
+    <string name="c6_2_result">
+        *Bài 1 ( Trang 142 SGK Hóa 8 ):
+        \n\nCâu trả lời đúng nhất: D)
+
+        \n\n\n*Bài 2 ( Trang 142 SGK Hóa 8 ):
+        \n\nĐáp án C đúng.
+
+        \n\n\n*Bài 3 ( Trang 142 SGK Hóa 8 ):
+        \n\nCâu trả lời đúng là A.
+
+        \n\n\n*Bài 4 ( Trang 142 SGK Hóa 8 ):
+        \n\n|Độ tan	    \t|NaNO3     \t|KBr	      \t|KNO3	    \t|NH4Cl	 \t|NaCl	  \t|Na2SO4
+        \n\n|10oC	    \t\t|80g	  \t\t|60g	   \t\t|20g	    \t\t|30g	  \t\t|35g	    \t\t|60g
+        \n\n|60oC	    \t\t|130g	  \t\t|95g	   \t\t|110g	\t\t|70g	  \t\t|38g 	     \t\t|45g
+
+
+        \n\n\n*Bài 5 ( Trang 142 SGK Hóa 8 ):
+        \n\nỞ nhiệt độ 18oC 250g nước hòa tan 53g Na2CO3 để tạo dung dịch bão hòa. Vậy ở nhiệt độ 18oC, 100g nước hòa tan Sg Na2CO3 tạo dung dịch bão hòa.
+        \n\n S = (53.100)/250 = 21,2(g) Na2CO3
+        \n\nTheo định nghĩa về độ tan, ta có độ tan của Na2CO3 ở 18oC là 21,2g.
+
+         \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: B
+        \n\n (-) Bài 2: C
+         \n\n (-) Bài 3: C
+        \n\n (-) Bài 4: A
+        \n\n (-) Bài 5: A
+    </string>
+
+    <string name="c6_3_question">
+        *Bài 1 ( Trang 145 SGK Hóa 8 ): Bằng cách nào có được 200g dung dịch BaCl2 5%.
+        \n\nA. Hòa tan 190g BaCl2 trong 10g nước.
+        \n\nB. Hòa tan 10g BaCl2 trong 190g nước.
+        \n\nC. Hoàn tan 100g BaCl2 trong 100g nước.
+        \n\nD. Hòa tan 200g BaCl2 trong 10g nước.
+        \n\nE. Hòa tan 10g BaCl2 trong 200g nước.
+
+        \n\n\n*Bài 2 ( Trang 145 SGK Hóa 8 ): Tính nồng độ mol của 850ml dung dịch có hòa tan 20g KNO3.Kết quả là:
+        \n\na) 0,233M.
+        \n\nb) 23,3M.
+        \n\nc) 2,33M.
+        \n\nd) 233M.
+
+        \n\n\n*Bài 3 ( Trang 146 SGK Hóa 8 ): Hãy tính nồng độ mol của mỗi dung dịch sau:
+        \n\na) 1 mol KCl trong 750ml dung dịch.
+        \n\nb) 0,5 mol MgCl2 trong 1,5 lít dung dịch.
+        \n\nc) 400g CuSO4 trong 4 lít dung dịch.
+        \n\nd) 0,06 mol Na2CO3 trong 1500ml dung dịch.
+
+        \n\n\n*Bài 4 ( Trang 146 SGK Hóa 8 ): Hãy tính số mol và số gam chất tan trong mỗi dung dịch sau:
+        \n\na) 1 lít dung dịch NaCl 0,5M.
+        \n\nb) 500ml dung dịch KNO3 2M.
+        \n\nc) 250ml dung dịch CaCl2 0,1M.
+        \n\nd) 2 lít dung dịch Na2SO4 0,3M.
+
+        \n\n\n*Bài 5 ( Trang 146 SGK Hóa 8 ):  Hãy tính nồng độ phần trăm của những dung dịch sau:
+        \n\na) 20g KCl trong 600g dung dịch.
+        \n\nb) 32g NaNO3 trong 2kg dung dịch.
+        \n\nc) 75g K2SO4 trong 1500g dung dịch.
+
+        \n\n\n*Bài 6 ( Trang 146 SGK Hóa 8 ):   Tính số gam chất tan cần dùng để pha chế mỗi dung dịch sau:
+        \n\na) 2,5 lít dung dịch NaCl 0,9M.
+        \n\nb) 50g dụng dịch MgCl2 4%.
+        \n\nc) 250ml dung dịch MgSO4 0,1M.
+
+        \n\n\n*Bài 7 ( Trang 146 SGK Hóa 8 ):  Ở nhiệt độ 25oC độ tan của muối ăn là 36g của đường là 204g. Hãy tính nồng đồ phần trăm của các dung dịch bão hòa muối ăn và đường ở nhiệt độ trên.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Cho dung dịch HCl 25% có D = 1,198 g/ml. Tính nồng độ mol của dung dịch đã cho
+        \n\nA. 8M
+        \n\nB. 8,2M
+        \n\nC. 7,9M
+        \n\nD. 6,5M
+        \n\n (-) Bài 2: Cho dung dịch NaOH 4M có D = 1,43 g/ml. Tính C% của dung dịch NaOH đã cho.
+        \n\nA. 11,88%
+        \n\nB. 12,20%
+        \n\nC. 11,19%
+        \n\nD. 11,79%
+        \n\n (-) Bài 3: Hòa tan 75 gam HCl vào 225 gam nước thu được dung dịch B. C% của dung dịch B là
+        \n\nA. 25%.
+        \n\nB. 30%.
+        \n\nC. 35%.
+        \n\nD. 40%.
+        \n\n (-) Bài 4: Cho 200 gam dung dịch FeCl2 9,525%. Tính số mol FeCl2 có trong dung dịch
+        \n\nA. 0,12 mol.
+        \n\nB. 0,20 mol.
+        \n\nC. 0,30 mol.
+        \n\nD. 0,15 mol.
+        \n\n (-) Bài 5: Cần lấy bao nhiêu gam dung dịch HNO3 2,52% để có 3,78 gam HNO3 làm thí nghiệm?
+        \n\nA. 120 gam.
+        \n\nB. 150 gam.
+        \n\nC. 160 gam.
+        \n\nD. 100 gam.
+    </string>
+    <string name="c6_3_result">
+         *Bài 1 ( Trang 145 SGK Hóa 8 ):
+        \n\nCâu trả lời đúng: B.
+        \n\nmdd = mct + mnước ⇒ mnước = mdd - mct = 200g – 10g = 190g
+
+        \n\n\n*Bài 2 ( Trang 145 SGK Hóa 8 ):
+        \n\nĐáp số đúng là a).
+
+        \n\n\n*Bài 3 ( Trang 146 SGK Hóa 8 ):
+        \n\na) C_m = n/V = 1,33 (mol/l)
+        \n\nb) C_m = 0,33 (mol/l)
+        \n\nc) n_CuSO4 = 400/160 = 2,5 mol. => C_m = 0,625 (mol/l)
+        \n\nd) C_m = 0,04 (mol/l)
+
+         \n\n\n*Bài 4 ( Trang 146 SGK Hóa 8 ):
+        \n\nPhương pháp giải:
+        \n\nĐề bài cho thể tích dung dịch (V) và nồng độ dung dịch (CM)
+        \n\n→ Tính số mol bằng cách áp dụng công thức: n = CM.V (chú ý V ở đơn vị lít)
+        \n\n→ Tính khối lượng chất tan bằng cách áp dụng công thức: m = n.M
+        \n\na) nNaCl = CM.V = 0,5.1 = 0,5 (mol) → mNaCl = n.M = 0,5.(23 +35,5) = 29,25 (g)
+        \n\nb) Đổi 500 ml = 0,5 lít
+        \n\n n_KNO3 = C_M.V = 2.0,5 = 1 (mol) → m_KNO3 = n.M = 1.(39 + 14 + 16.3) = 101 (g)
+        \n\nc) Đổi 250 ml = 0,25 lít
+        \n\n n_CaCl2 = C_M.V = 0,1.0,25 = 0,025 (mol) → m_CaCl2 = n.M = 0,025(40 + 71) = 2,775 (g)
+        \n\nd) n_Na2SO4 = C_M.V = 0,3.2 = 0,6 (mol) → m_Na2SO4= n.M = 0,6.142 = 85,2 (g)
+
+         \n\n\n*Bài 5 ( Trang 146 SGK Hóa 8 ):
+        \n\na) C% = 20/600.100% = 3,33%
+        \n\nb) Đổi 2kg = 2000g. => C% = 1,6%
+        \n\nc) C% = 75/1000.100% = 5%
+
+
+        \n\n\n*Bài 6 ( Trang 146 SGK Hóa 8 ):
+        \n\nSố gam chất tan cần dùng để pha chế các dung dịch:
+        \n\na) n_NaCl = CM .V = 2,5.0,9 = 2,25 (mol)
+        \n\n→ m_NaCl = 2,25.(23 + 35,5) = 131,625 (g)
+        \n\nb) m_MgCL2 = 50.4% / 100% = 2 (g)
+        \n\nc) n_MgSO4 = 0,1.0,25 = 0,025 (mol)
+        \n\n→ m_MgSO4 = 0,025.(24 + 64 + 32) = 3 (g)
+
+        \n\n\n*Bài 7 ( Trang 146 SGK Hóa 8 ):
+        \n\nm_dd muối ăn bão hòa = 100 + 36 = 136(g)
+        \n\nC%_NaCl = 36/136.100% = 26,47%
+        \n\nm_dd đường ăn bão hòa = 100 + 204 = 304 (g)
+        \n\nC%_đường = 204/304.100% = 67,1%
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: B
+        \n\n (-) Bài 2: C
+        \n\n (-) Bài 3: A
+        \n\n (-) Bài 4: D
+        \n\n (-) Bài 5: B
+
+    </string>
+
+    <string name="c6_4_question">
+        *Bài 1 ( Trang 149 SGK Hóa 8 ): Làm bay hơi 60g nước từ dung dịch có nồng độ 15% được dung dịch mới có nồng độ 18%. Hãy xác định khối lượng của dung dịch ban đầu.
+
+        \n\n\n*Bài 2 ( Trang 149 SGK Hóa 8 ):  Đun nhẹ 20g dung dịch CuSO4 cho đến khi nước bay hơi hết, người ta thu được chất rắn màu trắng là CuSO4 khan. Chất này có khối lượng là 3,6g. Hãy xác định nồng độ phần trăm của dung dịch CuSO4.
+
+
+        \n\n\n*Bài 3 ( Trang 149 SGK Hóa 8 ):  Cân lấy 10,6g Na2CO3 cho cốc chia độ có dung tích 0,5 lít. Rót từ từ nước cất vào cốc cho đến vạch 200ml. Khuấy nhẹ cho Na2CO3 tan hết, ta được dung dịch. Biết 1ml dung dịch này cho lượng là 1,05g.
+        \n\nHãy xác định nồng độ phần trăm (c%) và nồng độ mol/l của dung dịch vừa pha chế được.
+
+        \n\n\n*Bài 4 ( Trang 149 SGK Hóa 8 ):   Hãy điền những giá trị chưa biết vào những ô trống trong bảng, bằng cách thực hiện các tính toán theo mỗi cột (Trong Sách)
+
+        \n\n\n*Bài 5 ( Trang 149 SGK Hóa 8 ):   Tìm độ tan của một muối trong nước bằng phương pháp thực nghiệm người ta có được những kết quả sau:
+        \n\n- Nhiệt độ của dung dịch muỗi bão hòa là 20oC.
+        \n\n- Chén sứ nung có khối lượng 60,26g.
+        \n\n- Chén sứ đựng dung dịch muối có khối lượng 86,26 g.
+        \n\n- Khối lượng chén nung và muối kết tinh sau khi làm bay hết hơi nước là 66,26 g.
+        \n\nHãy xác định độ tan của muối ở nhiệt độ 20oC.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Muốn pha 250 ml dung dịch NaOH nồng độ 0,5M từ dung dịch NaOH 2M thì thể tích dung dịch NaOH 2M cần lấy là
+        \n\nA. 62,5 ml.
+        \n\nB. 67,5 ml.
+        \n\nC. 68,6 ml.
+        \n\nD. 69,4 ml.
+        \n\n (-) Bài 2: Có 60 gam dung dịch NaOH 30%. Khối lượng NaOH cần cho thêm vào dung dịch trên để được dung dịch 44% là
+        \n\nA. 18 gam
+        \n\nB. 15 gam
+        \n\nC. 23 gam
+        \n\nD. 21 gam
+        \n\n (-) Bài 3: Có 60 gam dung dịch NaCl 20%. Tính nồng độ % dung dịch thu được khi cô đặc dung dịch để chỉ còn 50 gam?
+        \n\nA. 22%.
+        \n\nB. 25%.
+        \n\nC. 30%.
+        \n\nD. 24%
+        \n\n (-) Bài 4: Làm bay hơi 20 gam nước từ dung dịch có nồng độ 15% thu được dung dịch có nồng độ 20%. Dung dịch ban đầu có khối lượng:
+        \n\nA. 90 gam.
+        \n\nB. 60 gam.
+        \n\nC. 70 gam.
+        \n\nD. 80 gam.
+        \n\n (-) Bài 5: Cần phải dùng bao nhiêu lít H2SO4 có d = 1,84g/ml vào bao nhiêu lít nước cất để pha thành 10 lít dung dịch H2SO4 có d = 1,28g/ml?
+        \n\nA. 6,66 lít H2SO4 và 3,34 lít nước cất.
+        \n\nB. 7,00 lít H2SO4 và 3,00 lít nước cất.
+        \n\nC. 6,65 lít H2SO4 và 3,35 lít nước cất.
+        \n\nD. 6,67 lít H2SO4 và 3,33 lít nước cất.
+
+
+    </string>
+    <string name="c6_4_result">
+        *Bài 1 ( Trang 149 SGK Hóa 8 ):
+        \n\nGọi m là khối lượng dung dịch ban đầu
+        \n\nKhối lượng dung dịch sau khi làm bay hơi nước bằng (m-60)g.
+        \n\nKhối lượng chất tan trước và sau là không đổi. Ta có:
+        \n\n m_ct = 15.m / 100 = 18(m-60) / 100
+        \n\n⇔ 15.m = 18(m – 60)
+        \n\n⇔ 15m = 18m – 1080
+        \n\n⇔ 3m = 1080 m = 360 (g)
+        \n\nVậy khối lượng dung dịch trước khi bay hơi là 360 gam.
+
+        \n\n\n*Bài 2 ( Trang 149 SGK Hóa 8 ):
+        \n\n C% = 3,6/20 . 100% = 18%
+
+         \n\n\n*Bài 3 ( Trang 149 SGK Hóa 8 ):
+        \n\nNồng độ % của dung dịch Na2CO3.
+        \n\nM_dd = V.d = 200 x 1,05 = 210g dung dịch Na2CO3.
+        \n\n C%_Na2CO3 = 10,6/210 . 100% = 5,05%
+        \n\nNồng độ mol/l của dung dịch.
+        \n\n200ml = 0,2l.
+        \n\n n_Na2CO3 = 10,6/106 = 0,1 (mol)
+        \n\n C_M = 0,1/0,2 = 0,5 M
+
+        \n\n\n*Bài 4 ( Trang 149 SGK Hóa 8 ):
+        \n\n - Dung dịch NaCl:
+        \n\n m_dd = 30 + 170 = 200g
+        \n\n V = m/D = 200/1,1 = 182ml = 0,182 (l)
+        \n\n C% = 15%
+        \n\n n_NaCl = 30/58,5 = 0,51 (mol)
+        \n\n => C_m = 0,51/0,182 = 2,8M
+        \n\n - Dung dịch Ca(OH)2 .
+        \n\n m_dd = 200g
+        \n\n m_H2O = m_dd - m_ct = 199,85 (g)
+        \n\n C% = 0,074%
+        \n\n n_Ca(OH)2 = 0,148/74 = 0,002 (mol)
+        \n\n V = 200 (ml) = 0,2 (;)
+        \n\n => C_m = 0,01M
+        \n\n - Dung dịch BaCl2.
+        \n\n m_ct = (m_dd . C%)/100% = (150.20%)/100% = 30 (g)
+        \n\n m_H2O = 150 - 30 = 120 (g)
+        \n\n V_dd = m/D = 150/1,2 = 125 (ml) = 0,125 (l)
+        \n\n n_BaCl2 = m/M = 30/208 = 0,144 (mol)
+        \n\n => C_m = 0,144/0,125 = 1,152M
+        \n\n - Dung dịch KOH.
+        \n\n n_KOH = C_M. V = 2,5 . 0,3 = 0,75 mol ⇒ m_ct = 56. 0,75 = 42g;
+        \n\n m_dd = V.d = 300.1,04 = 312g; m_H2O = 312 - 42 = 270g; C% = 13,46%.
+        \n\n - Dung dịch CuSO4.
+        \n\n m_dd = 20 (g)
+        \n\n m_H2O = 17 (g)
+        \n\n V_dd = m/D = 17,39 (ml) 0,01739 (l)
+        \n\n n_CuSO4 = 3/160 = 0,01875 (mol)
+        \n\n => C_M = 1,078M
+
+        \n\n\n*Bài 5 ( Trang 149 SGK Hóa 8 ):
+        \n\nm_dd = 86,26 – 60,26 = 26(g)
+        \n\nm_ct = 66,26 – 60,26 = 6 (g) ⇒ m_H2O = 26 - 6 = 20g
+        \n\nĐộ tan của muối ở 20°C là:
+        \n\n S = 6.100 / 20 = 30 (g)
+        \n\nVậy độ tan của muối ở 20°C là 30 gam
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: A
+        \n\n (-) Bài 2: B
+        \n\n (-) Bài 3: D
+        \n\n (-) Bài 4: D
+        \n\n (-) Bài 5:
+        \n\nKhối lượng 10 lít dung dịch sau khi pha là:
+        \n\n m_dd sau = V.d =  10.1,28 = 12,8 (kg)
+        \n\nGọi thể tích cần thiết là x lít. Suy ra khối lượng nước là x (kg)
+        \n\nGọi thể tích dung dịch axit là y lít. Suy ra khối lượng là 1,84y kg
+        \n\n=> x + y = 10 (1)
+        \n\nx + 1,84y = 12,8 (2)
+        \n\ntừ (1) và (2) => x = 6,67 (lít) và y = 3,33 (lít)
+        \n\nĐáp án cần chọn là: D
+
+    </string>
+
+    <string name="c6_5_question">
+        *Bài 1 ( Trang 151 SGK Hóa 8 ): Các kí hiệu sau cho chúng ta biết những điều gì?
+        \n\na) S_KNO3 =31,6g; S_KNO3(100oC) =246g;
+        \n\nS_CuSO4 = 20,7g; S_CuSO4(100oC) =75,4g.
+        \n\nb)S_CO2(20oC,1atm) =1,73g; S_CO2(60oC,1 atm) = 0,07g
+
+
+        \n\n\n*Bài 2 ( Trang 151 SGK Hóa 8 ): Bạn em đã pha loãng axit bằng cách rót từ từ 20g dung dịch H2SO4 50% vào nước và sau đó thu được 50g dung dịch H2SO4.
+        \n\na) Tính nồng độ phần trăm của dung dịch H2SO4 sau khi pha loãng.
+        \n\nb) Tính nồng độ mol của dung dịch H2SO4 sau khi pha loãng biết rằng dung dịch này có khối lượng riêng là 1,1g/cm3.
+
+        \n\n\n*Bài 3 ( Trang 151 SGK Hóa 8 ): Biết SK2SO4 = 11,1g. Hãy tính nồng độ phần trăm của dung dịch K2SO4 bão hòa ở nhiệt độ này.
+
+        \n\n\n*Bài 4 ( Trang 151 SGK Hóa 8 ):  Trong 800ml của một dung dịch có chứa 8g NaOH.
+        \n\na) Tính nồng độ mol của dung dịch này.
+        \n\nb) Phải thêm bao nhiêu ml nước vào 200ml dung dịch này để được dung dịch NaOH 0,1M?
+
+        \n\n\n*Bài 5 ( Trang 151 SGK Hóa 8 ):  Hãy trình bày cách pha chế:
+        \n\n400g dung dịch CuSO4 4%.
+        \n\n300ml dung dịch NaCl 3M.
+
+        \n\n\n*Bài 6 ( Trang 151 SGK Hóa 8 ): Hãy trình bày cách pha chế:
+        \n\na) 150 g dung dịch CuSO4 2% từ dung dịch CuSO4 20%
+        \n\nb) 250 ml dung dịch NaOH 0,5 M từ dung dịch NaOH 2M
+
+
+
+
+    </string>
+    <string name="c6_5_result">
+        *Bài 1 ( Trang 151 SGK Hóa 8 ):
+        \n\nCác kí hiệu cho biết:
+        \n\na)- Độ tan của KNO3 ở 20oC là 31,6g, ở 100oC là 246g.
+        \n\n- Độ tan của CuSO4 ở 20°C là 20,7g, ở 100°C là 75,4g
+        \n\nb) Độ tan của khí CO2 ở 20oC 1atm là 1,73g ở 60oC 1atm là 0,07g.
+
+        \n\n\n*Bài 2 ( Trang 151 SGK Hóa 8 ):
+        \n\n a)
+        \n\n m_H2SO4 = 10.50 / 100 = 10 (g)
+        \n\n C% = 10.100 / 50 = 20%
+        \n\n b)
+        \n\n n_H2SO4 = 10/98 = 0,102 (mol)
+        \n\n V_H2SO4 = 45,55 (ml) = 0,0455 (l)
+        \n\n C_M H2SO4 = 0,102/0,0455 = 2,24M
+
+        \n\n\n*Bài 3 ( Trang 151 SGK Hóa 8 ):
+        \n\nm_dd K2SO4 = (100 + 11,1)g = 111,1g
+        \n\nC%_K2SO4 = 11,1.100% / 111,1 = 9,99%
+
+         \n\n\n*Bài 4 ( Trang 151 SGK Hóa 8 ): (GỢI Ý)
+        \n\n a) C_M = 0,25 (mol/l)
+        \n\n b) V_H2O cần dùng để pha loãng 200ml dung dịch NaOH 0,25M để dung dịch NaOH 0,1M.
+        \n\nV_H2O = 500 - 200 = 300ml H2O.
+
+        \n\n\n*Bài 5 ( Trang 151 SGK Hóa 8 ):
+        \n\nCách pha chế:
+        \n\n m_CuSO4 = 4.400 / 100 = 16 (g)
+        \n\nm_H2O = 400 - 16 = 384g.
+        \n\nCho 16g CuSO4 vào cốc, cho thêm 384 nước vào cốc và khuấy đều cho CuSO4 tan hết, ta được 400g dung dịch CuSO4 4%.
+        \n\nn_NaCl trong 300ml (= 0,3 lít) dung dịch:
+        \n\nn = C_M.V = 3.0,3 = 0,9 mol, m_NaCl = 0,9 .58,5 = 52.65g.
+        \n\nCho 52,65g NaCl vào cốc thêm nước vừa cho đủ 300ml dung dịch ta được 300ml dung dịch NaCl 3M.
+
+        \n\n\n*Bài 6 ( Trang 151 SGK Hóa 8 ):
+        \n\na) Khối lượng chất tan cần để pha 150 g dung dịch CuSO4 2%: m = 2.150 / 100 = 3(g)
+        \n\nKhối lượng dung dịch CuSO4 20% ban đầu có chứa 3 g CuSO4: m_dd = 100.3/20 = 15(g)
+        \n\nKhối lượng nước cần pha chế là: m_nước = 150 – 15 = 135 g.
+        \n\nPha chế: lấy 15 g dung dịch CuSO4 20% vào cốc thêm 135 g H2O vào và khuấy đều, được 150g dung dịch CuSO4 2%.
+        \n\nb) Số mol chất tan trong 250 ml dung dịch NaOH 0,5M.
+        \n\n n_NaOH = 0,5.250/100 = 0,125 (mol)
+        \n\nThể tích dung dịch NaOH 2M có chứa 0,125 mol NaOH là:
+        \n\n V_NaOH = 0,125 / 2 = 0,0625 (ml) = 62,5 9l)
+        \n\nPha chế: Đong lấy 62,5 ml dung dịch NaOH 2M cho vào cốc chia độ có dung tích 500ml. Thêm từ  nước cất vào cốc đến vạch 250 ml và khuấy đều ta được 250 ml dung dịch 0,5M.
+
+    </string>
 
 
 </resources>

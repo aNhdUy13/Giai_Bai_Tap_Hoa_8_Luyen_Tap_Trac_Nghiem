@@ -64,8 +64,47 @@ public class ShowTask_Result extends AppCompatActivity {
         chuong3();
         chuong4();
         chuong5();
+        chuong6();
 
     }
+    private void chuong6() {
+        if (chuongDetailSignal.equals("c6_1"))
+        {
+            question = getResources().getString(R.string.c6_1_question);
+            result = getResources().getString(R.string.c6_1_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c6_2"))
+        {
+            question = getResources().getString(R.string.c6_2_question);
+            result = getResources().getString(R.string.c6_2_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c6_3"))
+        {
+            question = getResources().getString(R.string.c6_3_question);
+            result = getResources().getString(R.string.c6_3_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c6_4"))
+        {
+            question = getResources().getString(R.string.c6_4_question);
+            result = getResources().getString(R.string.c6_4_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c6_5"))
+        {
+            question = getResources().getString(R.string.c6_5_question);
+            result = getResources().getString(R.string.c6_5_result);
+            showQuesResult(question, result);
+        }
+
+    }
+
     private void chuong5() {
         if (chuongDetailSignal.equals("c5_1"))
         {
