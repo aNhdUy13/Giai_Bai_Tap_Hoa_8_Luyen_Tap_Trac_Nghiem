@@ -2103,4 +2103,1499 @@
         \n\nd_CH4/kk = m_CH4 / 29 = 16,29 = 0,55
         \n\nVậy khí metan nhẹ hơn không khí 0,55.
     </string>
+
+
+    <!--
+        Chương 4
+    -->
+    <string name="c4_1_question">
+        *Bài 1 (  Trang 84 SGK Hóa 8 ): Dùng từ thích hợp trong khung để điền vào chỗ trống trong các câu sau:
+        \n\nKim loại, phi kim, rất hoạt động, phi kim rất hoạt động, hợp chất.
+        \n\nKhí oxi là một đơn chất ..……….. Oxi có thể phản ứng với nhiều ……………., ……………, ……………..
+
+        \n\n\n*Bài 2 (  Trang 84 SGK Hóa 8 ): Nêu các thí dụ chứng minh rằng oxi là một đơn chất rất hoạt động (đặc biệt ở nhiệt độ cao)
+
+        \n\n\n*Bài 3 ( Trang 84 SGK Hóa 8 ): Butan có công thức C4H10 khi cháy tạo ra khí cacbonic và hơi nước, đồng thời tỏa nhiều nhiệt. Viết phương trình hóa học biểu diễn sự cháy của butan.
+
+        \n\n\n*Bài 4 ( Trang 84 SGK Hóa 8 ): Đốt cháy 12,4g photpho trong bình chứa 17g khí oxi tạo thành điphotpho pentaoxit P2O5 (là chất rắn, trắng).
+        \n\na) Photpho hay oxi chất nào còn thừa và số mol chất còn thừa là bao nhiêu?
+        \n\nb) Chất nào được tạo thành? Khối lượng là bao nhiêu?
+
+        \n\n\n*Bài 5 ( Trang 84 SGK Hóa 8 ): Đốt cháy hoàn toàn 24kg than đá có chứa 0,5% tạp chất lưu huỳnh và 1,5% tạp chất khác không cháy được. Tính thể tích khí CO2 và SO2 tạo thành (ở điều kiện tiêu chuẩn).
+
+        \n\n\n*Bài 6 ( Trang 84 SGK Hóa 8 ): Giải thích tại sao:
+        \n\na) Khi nhốt một con dế mèn (hoặc con châu chấu) vào một lọ nhỏ rồi đậy nút kín, sau một thời gian con vật sẽ chết.
+        \n\nb) Người ta phải bơm sục không khí vào các bể nuôi cá cảnh hoặc các chậu, bể chứa cá sống ở các cửa hàng bán cá.
+
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Đốt cháy m1 gam kẽm bằng khí oxi vừa đủ, thu được 12,15 gam ZnO. Hòa tan toàn bộ lượng ZnO ở trên vào dung dịch chứa m2 gam HCl vừa đủ thu được sản phẩm là ZnCl2 và nước. Tính m1 + m2
+        \n\nA. 20,7 gam.
+        \n\nB. 10,95 gam.
+        \n\nC. 9,75 gam.
+        \n\nD. 10,35 gam
+        \n\n (-) Bài 2: Đốt cháy hoàn toàn 32 gam khí metan (CH4) cần V lít khí oxi (đktc), thu được khí CO2 và H2O. Giá trị của V là
+        \n\nA. 22,4 lít.
+        \n\nB. 89,6 lít.
+        \n\nC. 44,8 lít.
+        \n\nD. 67,2 lít.
+        \n\n (-) Bài 3: Đốt cháy hoàn toàn m1 gam khí etilen (C2H4) cần 7,392 lít khí oxi (đktc), thu được m2 gam khí CO2 và m3 gam H2O. Tính m1 + m2 + m3
+        \n\nA. 19,36 gam.
+        \n\nB. 10,59 gam.
+        \n\nC. 10,12 gam.
+        \n\nD. 16,72 gam.
+        \n\n (-) Bài 4: Đốt cháy 7,8 gam khí axetilen (C2H2) trong khí oxi, thu được 11,2 lít khí CO2 (đktc) và m2 gam H2O. Giá trị m2 là
+        \n\n (-) Bài 5: Khí được con người sử dụng để hô hấp là:
+        \n\nA. H2.
+        \n\nB. O2.
+        \n\nC. N2.
+        \n\nD. CO2.
+
+
+
+    </string>
+    <string name="c4_1_result">
+        *Bài 1 ( Trang 84 SGK Hóa 8 ):
+        \n\nKhí oxi là một đơn chất phi kim rất hoạt động. Oxi có thể phản ứng với nhiều phi kim, kim loại, hợp chất.
+
+
+        \n\n\n*Bài 2 ( Trang 84 SGK Hóa 8 ):
+        \n\nOxi là một đơn chất rất hoạt động (đặc biệt ở nhiệt độ cao), ví dụ:
+        \n\n3Fe + 2O2 → Fe3O4.
+        \n\nS + O2 → SO2.
+
+        \n\n\n*Bài 3 ( Trang 84 SGK Hóa 8 ):
+        \n\nPhương trình hóa học:
+        \n\n2C4H10 + 13O2 (t0)-> 8CO2 + 10H2O
+
+        \n\n\n*Bài 4 ( Trang 84 SGK Hóa 8 ):
+        \n\na)
+        \n\n n_q = 12,4 / 31 = 0,4 (mol); n_O2 =  17/32 = 0,53 (mol)
+        \n\n4P + 5O2 -> 2P2O5
+        \n\nPt: 4 mol    5 mol
+        \n\nĐB: 0,4 mol  0,53 mol
+        \n\n Xét tỉ lệ số mol đề bài với số mol phương trình của P và O2 ta có: 0,4/4 BÉ HƠN 0,53/5
+        \n\n Học sinh tiếp tục tính sẽ được : n_O2 dư = 0,53 - 0,5 = 0,03  (mol)
+        \n\nb) Chất tạo thành: đi photpho pentaoxit P2O5
+        \n\nTheo phương trình n_P2O5 = 1/2.n_P = 0,4/2 = 0,2 (mol)
+        \n\nm_P2O5 = n.M = 0,2.(31.2 + 16.5) = 28,4 (g)
+
+        \n\n\n*Bài 5 ( Trang 84 SGK Hóa 8 ): (GỢI Ý)
+        \n\nĐổi: 24kg = 24000g
+        \n\n24kg than đá có chứa 0,5% tạp chất lưu huỳnh và 1,5% tạp chất khác không cháy được
+        \n\n=> Than đá chưa 98% carbon
+        \n\n⇒ n_S = 120 / 32 = 3,75 mol
+        \n\nn V_SO2 = 3,75.22,4 = 84 (l)
+
+        \n\n\n*Bài 6 ( Trang 84 SGK Hóa 8 ):
+        \n\na) Con dế mèn sẽ chết vì thiếu khí oxi. Khí oxi duy trì sự sống.
+        \n\nb) Phải bơm sục không khí vào các bể nuôi cá để cung cấp oxi cho cá (vì oxi tan một phần trong nước).
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: A
+        \n\n (-) Bài 2: B
+        \n\n (-) Bài 3: D
+        \n\n (-) Bài 4: C
+        \n\n (-) Bài 5: B
+
+
+
+    </string>
+
+    <string name="c4_2_question">
+        *Bài 1 ( Trang 87 SGK Hóa 8 ): Dùng từ thích hợp trong khung để điền vào chỗ trống trong các câu sau:
+        \n\nMột chất mới, sự oxi hóa, đốt nhiên liệu, sự hô hấp, chất ban đầu
+        \n\na) Sự tác dụng của oxi với một chất là ....
+        \n\nb) Phản ứng hóa hợp là phản ứng hóa học trong đó chỉ có .... được tạo thành từ hai hay nhiều ....
+        \n\nc) Khí oxi cần cho .... của người động vật và cần để .... trong đời sống và sản xuất.
+
+        \n\n\n*Bài 2 ( Trang 87 SGK Hóa 8 ): Lập phương trình hóa học biểu diễn phản ứng hóa hợp của lưu huỳnh với các kim loại magie Mg , kẽm Zn, sắt Fe, nhôm Al, biết rằng công thức hóa học các hợp chất tạo thành là MgS, ZnS, FeS, Al2S3.
+
+        \n\n\n*Bài 3 ( Trang 87 SGK Hóa 8 ): Tính thể tích khí oxi cần thiết để đốt cháy hoàn toàn lượng khí metan CH4 có trong 1m3 khi chứa 2% tạp chất không cháy. Các thể tích đo ở đktc.
+
+        \n\n\n*Bài 4 ( Trang 87 SGK Hóa 8 ): a) Hãy dự đoán hiện tượng xảy ra và giải thích hiện tượng đó khi cho một cây nến đang cháy vào một lọ thủy tinh rồi đậy nút kín.
+        \n\nb) Vì sao khi tắt đèn cồn người ta đậy nắp đèn lại?
+
+        \n\n\n*Bài 5 ( Trang 87 SGK Hóa 8 ): Hãy giải thích vì sao:
+        \n\na) Khi càng lên cao thì tỉ lệ lượng oxi trong không khí càng giảm?
+        \n\nb) Phản ứng cháy của các chất trong bình chứa oxi lại mãnh liệt hơn trong không khí?
+        \n\nc) Vì sao nhiều bệnh nhân bị khó thở và những người thợ lặn làm việc lâu dưới nước ... đều phải thở bằng khí oxi nén trong bình đặc biệt?
+
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Tục ngữ có câu “Nước chảy đá mòn”. Câu nói đó nếu xét theo khía cạnh hoá học thì được mô tả theo phương trình hoá học sau: CaCO3 + CO2 + H2O  -> Ca(HCO3)2 Phản ứng trên thuộc loại:
+        \n\nA. Phản ứng hoá hợp.
+        \n\nB. Phản ứng phân huỷ.
+        \n\nC. Phản ứng thế.
+        \n\nD. Phản ứng trao đổi.
+        \n\n (-) Bài 2: Quá trình nào dưới đây không làm giảm lượng oxi trong không khí?
+        \n\nA. Sự quang hợp của cây xanh
+        \n\nB. Sự cháy của than, củi, bếp ga
+        \n\nC. Sự gỉ của các vật dụng bằng sắt
+        \n\nD. Sự hô hấp của động vật
+        \n\n (-) Bài 3: Phản ứng nào dưới đây là phản ứng hoá hợp?
+        \n\nA. CuO + H2 → Cu + H2O
+        \n\nB. CaO + H2O → Ca(OH)2
+        \n\nC. 2KMnO4 → K2MnO4 + MnO2 + O2
+        \n\nD. CO2 + Ca(OH)2 → CaCO3 + H2O
+        \n\n (-) Bài 4: Phản ứng nào dưới đây không phải là phản ứng hoá hợp:
+        \n\nA. 3Fe + 3O2→ Fe3O4
+        \n\nB. S + O2 → SO2
+        \n\nC. CuO + H2→ Cu + H2O
+        \n\nD. 4P + 5O2 → 2P2O5
+        \n\n (-) Bài 5: Mỗi giờ một người lớn hít vào trung bình 0,5m3 không khí, có thể giữ lại 1/3 lượng khí oxi có trong không khí đó. Như vậy thực tế mỗi người trong một ngày đêm cần trung bình thể tích khí oxi là bao nhiêu?
+        \n\nA. 4m3.
+        \n\nB. 5m3.
+        \n\nC. 6m3.
+        \n\nD. 7m3.
+
+
+
+
+
+
+    </string>
+    <string name="c4_2_result">
+        *Bài 1 ( Trang 87 SGK Hóa 8 ):
+        \n\na) Sự tác dụng của oxi với một chất là sự oxi hóa.
+        \n\nb) Phản ứng hóa hợp là phản ứng hóa học trong đó chỉ có một chất mới được tạo thành từ một hay nhiều chất ban đầu.
+        \n\nc) Khí oxi cần cho sự hô hấp của người và động vật cần để đốt nhiên liệu trong đời sống và sản xuất.
+
+        \n\n\n*Bài 2 ( Trang 87 SGK Hóa 8 ):
+        \n\nPhương trình hóa học:
+        \n\nMg + S → MgS
+        \n\nFe + S → FeS
+        \n\nZn + S → ZnS
+        \n\n2Al + 3S → Al2S3
+
+        \n\n\n*Bài 3 ( Trang 87 SGK Hóa 8 ):
+        \n\nTa có: 1 m3 = 1000 dm3 = 1000 lít
+        \n\nTrong 1 m3 có chứa 2% tạp chất nên lượng khí CH4 nguyên chất là:
+        \n\n (1000(100  - 2)) / 100 = 980 (l)
+        \n\n => n_CH4 = 980/22,4 = 43,75 (mol)
+        \n\nPhương trình phản ứng:
+        \n\nCH4 + 2O2 (t0)-> CO2 + 2H2O
+        \n\nTừ phương trình ta có: nO2 = 2nCH4 = 2.43,75 = 87,5 mol
+        \n\n⇒ V_O2 = 87,5.22,4= 1960 lít
+
+
+        \n\n\n*Bài 4 ( Trang 87 SGK Hóa 8 ):
+        \n\na) Khi cho cây nến đang cháy vào một lọ thủy tinh và đậy nắp kín, ngọn lửa cây nến sẽ yếu dần rồi tắt, đó là vì khi nến cháy lượng oxi trong lọ sẽ bị giảm dần rồi hết, lúc đó nến sẽ bị tắt.
+        \n\nb) Khi tắt đèn cồn người ta đậy nắp đèn lại vì để ngăn không khí tiếp xúc với ngọn lửa đèn cồn nghĩa là không có oxi tiếp xúc cồn không cháy được nữa.
+
+        \n\n\n*Bài 5 ( Trang 87 SGK Hóa 8 ):
+        \n\na) Khi càng lên cao tỉ lệ lượng khí oxi trong không khí càng giảm là vì khí oxi năng hơn không khí.
+        \n\nb) Phản ứng cháy của các chất trong bình chứa oxi mãnh liệt hơn trong không khí là vì ở trong khí oxi, bề mặt tiếp xúc của chất cháy với oxi lớn hơn nhiều lần trong không khí.
+        \n\nc) Bệnh nhân khó thở và người thợ lặn làm việc lâu dưới nước phải thở bằng khí oxi vì khi oxi cần cho sự hô hấp để oxi hóa chất dinh dưỡng trong cơ thể người sinh ra năng lượng để duy trì sự sống của cơ thể.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nCaCO3 + CO2 + H2O →→ Ca(HCO3)2
+        \n\nPhản ứng trên từ 3 chất tham gia phản ứng sinh ra 1 chất sản phẩm →→ thuộc phản ứng hóa hợp.
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 2:
+        \n\nQuá trình không làm giảm lượng oxi trong không khí là: Sự quang hợp của cây xanh.
+        \n\nVì sự quang hợp của cây xanh là quá trình sản sinh ra khí oxi
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 3:
+        \n\nPhản ứng hóa hợp là: CaO + H2O → Ca(OH)2 vì có 2 chất tham gia tạo thành 1 chất sản phẩm
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 4:
+        \n\nPhản ứng không phải phản ứng hóa hợp là: CuO + H2 → Cu + H2O
+        \n\nVì phản ứng hóa hợp chỉ tạo 1 chất sản phẩm
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 5:
+        \n\n1 ngày đêm = 24 giờ
+        \n\n1 ngày đêm người đó hít vào số m3 không khí là: 24. 0,5 = 12 m3
+        \n\nVì cơ thể chỉ giữ lại 1/3 lượng khí oxi có trong không khí => thực tế người đó cần trung bình thể tích khí oxi là: V = 12/3 = 4 m3
+        \n\nĐáp án cần chọn là: A
+    </string>
+
+    <string name="c4_3_question">
+        *Bài 1 ( Trang 91 SGK Hóa 8 ): Chọn từ thích hợp trong khung, điền vào ô trống trong các câu sau đây:
+        \n\nNguyên tố, oxi, hợp chất, oxit, hai
+        \n\nOxit là .... của .... nguyên tố, trong đó có một .... là .... Tên của oxit là tên .... cộng với từ ....
+
+
+        \n\n\n*Bài 2 ( Trang 91 SGK Hóa 8 ):
+        \n\na) Lập công thức hóa học của một loại oxit của photpho, biết rằng hóa trị của photpho là V.
+        \n\nb) Lập công thức hóa học của crom(III) oxit.
+
+        \n\n\n*Bài 3 ( Trang 91 SGK Hóa 8 ):
+        \n\na) Hãy viết công thức hóa học của hai oxit axit và hai oxit bazơ.
+        \n\nb) Nhận xét về thành phần trong công thức của các oxit đó.
+        \n\nc) Chỉ ra cách gọi tên mỗi oxit đó.
+
+        \n\n\n*Bài 4 ( Trang 91 SGK Hóa 8 ): Cho các oxit có công thức hóa học như sau:
+        \n\na) SO2.
+        \n\nb) N2O5.
+        \n\nc) CO2.
+        \n\nd) Fe2O3.
+        \n\ne) CuO.
+        \n\ng) CaO.
+        \n\nNhững chất nào thuộc nào oxit bazơ chất nào thuộc oxit axit.
+
+        \n\n\n*Bài 5 ( Trang 91 SGK Hóa 8 ): Có một số công thức hóa học được viết như sau:
+        \n\nNa2O, NaO, CaCO3, Ca(OH)2, HCl, CaO, Ca2O, FeO.
+        \n\nHãy chỉ ra các công thức hóa học viết sai.
+
+        \n\n\nBài tập tự luyện
+        \n\n (-) Bài 1: Cách đọc tên nào sau đây sai?
+        \n\nA. CO2: cacbon (II) oxit
+        \n\nB. CuO: đồng (II) oxit
+        \n\nC. FeO: sắt (II) oxit
+        \n\nD. CaO: canxi oxit
+        \n\n (-) Bài 2: Tên gọi của P2O5 là
+        \n\nA. Điphotpho trioxit
+        \n\nB. Photpho oxit
+        \n\nC. Điphotpho oxit
+        \n\nD. Điphotpho pentaoxit
+        \n\n (-) Bài 3: Oxit của nguyên tố R có hóa trị III chứa 70% về khối lượng nguyên tố R. Xác định R và cho biết oxit trên thuộc loại oxit axit hay oxit bazơ.
+        \n\nA. C, oxit axit.
+        \n\nB. Fe, oxit bazơ.
+        \n\nC. Mg, oxit bazơ.
+        \n\nD. Fe, oxit axit.
+        \n\n (-) Bài 4: Một hợp chất oxit chứa 50% về khối lượng của S. Xác định CTHH của oxit.
+        \n\nA. SO3.
+        \n\nB. SO4.
+        \n\nC. SO2.
+        \n\nD. SO.
+        \n\n (-) Bài 5: Công thức hóa học của một loại sắt oxit có tỉ lệ khối lượng mFe : mO = 7 : 2. Xác định CTHH của oxit.
+        \n\nA. FeO.
+        \n\nB. Fe2O3.
+        \n\nC. FeO2.
+        \n\nD. Fe2O4.
+
+    </string>
+    <string name="c4_3_result">
+        *Bài 1 ( Trang 91 SGK Hóa 8 ):
+        \n\nOxit là hợp chất của hai nguyên tố, trong đó có một nguyên tố là oxi. Tên của oxit là tên nguyên tố cộng với từ oxit.
+
+        \n\n\n*Bài 2 ( Trang 91 SGK Hóa 8 ):
+        \n\na) CTHH là : P2O5
+        \n\nb) CTHH là : Cr2O3
+
+         \n\n\n*Bài 3 ( Trang 91 SGK Hóa 8 ):
+        \n\na) Hai oxit axit:
+        \n\nP2O5: điphotpho pentaoxit.
+        \n\nSO3: lưu huỳnh trioxit.
+        \n\nHai oxit bazơ:
+        \n\nCaO: canxi oxit.
+        \n\nAl2O3: nhôm oxit.
+        \n\nb) Thành phần của oxit:
+        \n\nOxit bazo là hợp chất của 1 nguyên tố kim loại với oxi
+        \n\nOxit axit là hợp chất của 1 nguyên tố phi kim với oxi
+        \n\nc) Cách gọi tên:
+        \n\nTên oxit: Tên nguyên tố + oxit
+        \n\n- Nếu kim loại có nhiều hóa trị:
+        \n\nTên gọi: tên kim loại (kèm theo hóa trị) + oxit
+        \n\n- Nếu phi kim có nhiều hóa trị:
+        \n\nTên gọi: Tên phi kim (có tiền tố chỉ số nguyên tử phi kim) + oxit (có tiền tố chỉ số nguyên tử oxi).
+
+        \n\n\n*Bài 4 ( Trang 91 SGK Hóa 8 ):
+        \n\nOxit axit: a), b), c).
+        \n\nOxit bazơ: d), e), g).
+
+        \n\n\n*Bài 5 ( Trang 91 SGK Hóa 8 ):
+        \n\nCông thức hóa học viết sai: NaO, Ca2O
+        \n\nSửa lại: Na2O, CaO.
+
+        \n\n\nBài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nTên oxit axit = Tiền tố chỉ số nguyên tửphi kim + tên phi kim + tiền tố chỉ số nguyên tử oxi + oxit
+        \n\nCO2 là oxit axit => cacbon đioxit
+        \n\nCuO, FeO, CaO là oxit bazơ
+        \n\nTên oxit bazơ = Tên kim loại (kèm theo hoá trị nếu kim loại có nhiều hóa trị) + oxit
+        \n\nCuO : đồng (II) oxit
+        \n\nFeO: sắt (II) oxit
+        \n\nCaO: canxi oxit
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 2:
+        \n\nP là oxit axit => Tên oxit axit = Tiền tố chỉ số nguyên tửphi kim + tên phi kim + tiền tố chỉ số nguyên tử oxi + oxit
+        \n\n=> P2O5 : Điphotpho pentaoxit
+        \n\nĐáp án cần chọn là: D
+        \n\n (-) Bài 3: B
+        \n\n (-) Bài 4: C
+        \n\n (-) Bài 5: A
+    </string>
+
+    <string name="c4_4_question">
+        *Bài 1 ( Trang 94 SGK Hóa 8 ): Những chất nào trong số các chất sau được dùng để điều chế oxi trong phòng thí nghiệm?
+        \n\na) Fe3O4.
+        \n\nb) KClO3.
+        \n\nc) KMnO4.
+        \n\nd) CaCO3.
+        \n\ne) Không khí.
+        \n\ng) H2O.
+
+        \n\n\n*Bài 2 ( Trang 94 SGK Hóa 8 ): Sự khác nhau về cách điều chế oxi trong phòng thí nghiệm và trong công nghiệp về nguyên liệu, sản lượng và giá thành?
+
+        \n\n\n*Bài 3 ( Trang 94 SGK Hóa 8 ): Sự khác nhau giữa phản ứng phân hủy và phản ứng hóa hợp? Dẫn ra 2 thí dụ để minh họa.
+
+        \n\n\n*Bài 4 ( Trang 94 SGK Hóa 8 ): Tính số mol và số gam kali clorat cần thiết để điều chế được:
+        \n\na) 48g khí oxi.
+        \n\nb) 44,8 lít khí oxi (ở đktc).
+
+        \n\n\n*Bài 5 ( Trang 94 SGK Hóa 8 ): Nung đá vôi CaCO3 được vôi sống CaO và khí cacbonic CO2.
+        \n\na) Viết phương trình hóa học của phản ứng.
+        \n\nb) Phản ứng nung vôi thuộc loại phản ứng hóa học nào? Vì sao?
+
+        \n\n\n*Bài 6 ( Trang 94 SGK Hóa 8 ): Trong phòng thí nghiệm người ta điều chế oxit sắt từ Fe3O4 bằng cách dùng oxi hóa sắt ở nhiệt độ cao.
+        \n\na) Tính số gam sắt và oxi cần dùng để điều chế được 2,32g oxi sắt từ?
+        \n\nb) Tính số gam kali pemanganat KMnO4 cần dùng để có được lượng oxi dùng cho phản ứng trên, biết rằng khi nung nóng 2 mol KMnO4 thì thu được 1 mol O2.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Cho các phản ứng hóa học sau:
+        \n\n1) 2H2 + O2Bài tập về Điều chế oxi – Phản ứng thùy phân lớp 8 có lời giải 2H2O
+        \n\n2) CuO + H2 → Cu + H2O
+        \n\n3) 2KNO3 (t0)-> 2KNO2 + O2
+        \n\n4) 4P + 5O2 (t0)-> 2P2O5
+        \n\n5) 2Fe(OH)3 (t0)-> Fe2O3 + 3H2O
+        \n\n6) Fe + 2HCl → FeCl2 + H2
+        \n\n7) CaO + CO2 → CaCO3
+        \n\nSố phản ứng phân hủy và số phản ứng hóa hợp lần lượt là
+        \n\nA. 3; 2.
+        \n\nB. 2; 3.
+        \n\nC. 4; 1.
+        \n\nD. 2; 4.
+        \n\n (-) Bài 2: Nhiệt phân cùng một lượng số mol mỗi chất sau: KMnO4; KClO3; KNO3; H2O2. Chất nào thu được lượng khí oxi lớn nhất?
+        \n\nA. KMnO4
+        \n\nB. KClO3
+        \n\nC.KNO3
+        \n\nD. H2O2
+        \n\n (-) Bài 3: Lấy các mẫu chất sau có cùng khối lượng: KMnO4; KClO3; KNO3; H2O2. Chất nào điều chế được lượng khí oxi lớn nhất?
+        \n\nA. KMnO4.
+        \n\nB. KClO3
+        \n\nC. KNO3
+        \n\nD. H2O2
+        \n\n (-) Bài 4: Trong phòng thí nghiệm cần điều chế 4,48 lít O2 (đktc). Dùng chất nào sau đây để có khối lượng nhỏ nhất:
+        \n\nA. KClO3
+        \n\nB. KMnO4
+        \n\nC. KNO3
+        \n\nD. H2O2
+        \n\n (-) Bài 5: Thí nghiệm nung nóng mạnh Thuốc tím trong ống nghiệm sau đó đưa tàn đỏ que diêm vào miệng ống nghiệm có hiện tượng:
+        \n\nA. Tàn đỏ tắt.
+        \n\nB. Tàn đỏ nổ to.
+        \n\nC. Tàn đỏ giữ nguyên.
+        \n\nD. Tàn đỏ bùng sáng.
+    </string>
+    <string name="c4_4_result">
+        *Bài 1 ( Trang 94 SGK Hóa 8 ):
+        \n\nChọn đáp án: b) KClO3. c) KMnO4.
+        \n\n2KClO3 (t0)-> 2KCl + 3O2
+        \n\n2KMnO4 (t0)-> K2MnO4 + MnO2 + O2
+
+
+        \n\n\n*Bài 2 ( Trang 94 SGK Hóa 8 ):
+        \n\nSự khác nhau về cách điều chế oxi trong phòng thí nghiệm (PTN) và trong công nghiệp (CN).
+        \n\n- Nguyên liệu:
+        \n\nPTN: KClO3 hoặc KMnO4(chất giàu oxi, phản ứng thực hiện nhanh, dễ dàng)
+        \n\nCN: Không khí và nước.
+        \n\n- Sản lượng:
+        \n\nPTN: Thể tích nhỏ dùng cho thí nghiệm.
+        \n\nCN: Sản lượng lớn dùng cho công nghiệp và y tế.
+        \n\n- Giá thành:
+        \n\nPTN: Giá thành cao.
+        \n\nCN: Giá thành hạ vì nguyên liệu là không khí và nước.
+        \n\nCách điều chế trong CN và PTN cũng khác nhau, trong PTN nhiệt phân KClO3 (hoặc KMnO4) còn trong CN từ hóa lỏng không khí hay điện phân nước.
+
+        \n\n\n*Bài 3 ( Trang 94 SGK Hóa 8 ):
+        \n\nSự khác nhau giữa phản ứng phân hủy và phản ứng hóa hợp.
+        \n\nPhản ứng hóa hợp là phản ứng hóa học trong đó chỉ có một chất mới được tạo thành từ hai hay nhiều chất ban đầu.
+        \n\nThí dụ:
+        \n\nCaO + CO2 → CaCO3.
+        \n\n2Cu + O2 → 2CuO.
+        \n\nPhản ứng phân hủy là phản ứng hóa học trong đó một chất sinh ra hai hay nhiều chất mới.
+        \n\nThí dụ:
+        \n\n2HgO → 2Hg + O2↑
+        \n\n2KClO3 → 2KCl + 3O2
+
+        \n\n\n*Bài 4 ( Trang 94 SGK Hóa 8 ):
+        \n\na)
+        \n\n n_O2 = 1,5 (mol)
+        \n\n n_KCLO3 = 2/3.1,5 = 1 (mol)
+        \n\n m_KCLO3 = n.M = 1.(39+35,5+16,3) = 122,5 (g)
+        \n\nb)
+        \n\nTương tự ta sẽ được:
+        \n\n n_KCLO3 = 2/3.2 = 4/3 (mol)
+        \n\n m_KCLO3 = 163,33 (g)
+
+        \n\n\n*Bài 5 ( Trang 94 SGK Hóa 8 ):
+        \n\na) Phương trình hóa học của phản ứng:
+        \n\nCaCO3 (t0)-> CaO + CO2.
+        \n\nb) Phản ứng nung vôi thuộc loại phản ứng phân hủy vì từ một chất sinh ra hai chất mới
+
+         \n\n\n*Bài 6 ( Trang 94 SGK Hóa 8 ):
+        \n\na) Phương trình hóa học của phản ứng:
+        \n\n3Fe + 2O2 → Fe3O4.
+        \n\n n_Fe3O4 = 2,32/232 = 0,01 mol.
+        \n\n n_Fe = 3.n_Fe3O4 = 0,01 .3 = 0,03 mol.
+        \n\n n_O2 = 2.n_Fe3O4 = 0,01 .2 = 0,02 mol.
+        \n\n m_Fe = 0,03.56 = 1,68g.
+        \n\n m_O2 = 0,02.32 = 0,64g.
+        \n\nb) Phương trình phản ứng nhiệt phân KMnO4:
+        \n\n2KMnO4 → K2MnO4 + MnO2 + O2
+        \n\n n_KMnO4 = 2.nO2 = 0,02.2 = 0,04 mol.
+        \n\n m_KMnO4 = 0,04 .158 = 6,32g.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: B
+        \n\n (-) Bài 2: B
+        \n\n (-) Bài 3: D
+        \n\n (-) Bài 4: D
+        \n\n (-) Bài 5: D (Do phản ứng nhiệt phân sinh ra khí O2 vì vậy khi đưa tàn đóm đỏ que diêm vào miệng ống nghiệm có hiện tượng tàn đóm bùng sáng.)
+
+    </string>
+
+    <string name="c4_5_question">
+        *Bài 1 ( Trang 99 SGK Hóa 8 ): Chọn câu trả lời đúng trong các câu sau đây về thành phần của không khí:
+        \n\nA. 21% khí nitơ, 78% oxi, 1% các khí khác (CO2, CO, khí hiếm,…).
+        \n\nB. 21% các khí khác, 78% khí nitơ, 1% khí oxi.
+        \n\nC. 21% khí oxi, 78% khí nitơ, 1% các khí khác.
+        \n\nD. 21% khí oxi, 78% các khí khác, 1% khí nitơ.
+
+        \n\n\n*Bài 2 ( Trang 99 SGK Hóa 8 ): Không khí bị ô nhiễm có thể gây ra những tác hại gì? Phải làm gì để bảo vệ không khí trong lành?
+
+        \n\n\n*Bài 3 ( Trang 99 SGK Hóa 8 ): Giải thích vì sao sự cháy trong không khí xảy ra chậm hơn và tạo ra nhiệt độ thấp hơn so với sự cháy trong oxi.
+
+        \n\n\n*Bài 4 ( Trang 99 SGK Hóa 8 ): Điểm giống nhau và khác nhau giữa sự cháy và sự oxi hóa chậm là gì?
+
+        \n\n\n*Bài 5 ( Trang 99 SGK Hóa 8 ):  Những điều kiện cần thiết để cho một vật có thể cháy và tiếp tục cháy là gì?
+
+        \n\n\n*Bài 6 ( Trang 99 SGK Hóa 8 ):  Muốn dập tắt ngọn lửa trên người hoặc ngọn lửa do xăng dầu cháy, người ta thường trùm vải dày hoặc phủ cát lên ngọn lửa, mà không dùng nước. Giải thích vì sao?
+
+        \n\n\n*Bài 7 ( Trang 99 SGK Hóa 8 ): Mỗi giờ 1 người lớn tuổi hít vào trung bình 0,5m3 không khí cơ thể giữ lại 1/3 lượng oxi có trong không khí đó. Như vậy thực tế mỗi người trong một ngày đêm cần trung bình:
+        \n\na) Một thể tích không khí là bao nhiêu?
+        \n\nb) Một thể tích khí oxi là bao nhiêu?
+        \n\n(Giả sử các thể tích khí được đo ở đktc)
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Sự giống nhau giữa sự cháy và sự oxi hóa chậm là
+        \n\nA. Phát sáng
+        \n\nB. Cháy
+        \n\nC. Tỏa nhiệt
+        \n\nD. Sự oxi hóa xảy ra chậm
+        \n\n (-) Bài 2: Làm thế nào để dập tắt sự cháy?
+        \n\nA. Hạ nhiệt độ của chất cháy xuống dưới nhiệt độ cháy.
+        \n\nB. Cách li chất cháy với oxi.
+        \n\nC. Quạt.
+        \n\nD. A và B đều đúng.
+        \n\n (-) Bài 3: Đốt cháy 6 gam oxi và 6,2 gam P trong bình. Sau phản ứng chất nào còn dư?
+        \n\nA. Photpho
+        \n\nB. Oxi
+        \n\nC. Không xác định được
+        \n\nD. Cả hai chất đều hết
+        \n\n (-) Bài 4: Dùng hết 5 kg than (chứa 90% cacbon và 10% tạp chất không cháy) để đun nấu. Biết oxi chiếm 1/5 thể tích không khí. Hỏi thể tích không khí (ở đktc) đã dùng là bao nhiêu lít?
+        \n\nA. 40000 lít
+        \n\nB. 42000 lít
+        \n\nC.42500 lít
+        \n\nD. 45000 lít
+        \n\n (-) Bài 5: Thể tích không khí cần để oxi hóa hoàn toàn 20 lít khí NO thành NO2 là (các thể tích đo ở cùng điều kiện nhiệt độ, áp suất):
+        \n\nA. 10 lít.
+        \n\nB. 50 lít.
+        \n\nC. 60 lít.
+        \n\nD. 70 lít.
+
+
+    </string>
+    <string name="c4_5_result">
+        *Bài 1 ( Trang 99 SGK Hóa 8 ):
+        \n\nCâu trả lời đúng: C
+
+        \n\n\n*Bài 2 ( Trang 99 SGK Hóa 8 ):
+        \n\nKhông khí bị ô nhiễm, không những gây tác hại đến sức khỏe con người và đời sống thực vật mà còn phá hoại dần những công trình xây dựng như cầu cống, nhà cửa, di tích lịch sử....
+        \n\nBảo vệ không khí trong lành ta phải làm:
+        \n\nPhải xử lí khí thải các nhà máy các lò đốt, các phương tiện giao thông ... để hạn chế mức thấp nhất việc thải ra khí quyển các khí có hại như CO, CO2, bụi, khói,....
+        \n\nBảo vệ rừng trồng rừng, trồng cây xanh, là những biện pháp tích cực bảo vệ không khí trong lành.
+
+        \n\n\n*Bài 3 ( Trang 99 SGK Hóa 8 ):
+        \n\nSự cháy trong không khí xảy ra chậm hơn và tạo ra nhiệt độ thấp hơn so với sự cháy trong oxi. Đó là vì trong không khí, thể tích khí nitơ gấp 4 lần khí oxi, diện tích tiếp xúc của chất cháy với các phân tử oxi ít hơn nhiều lần nên sự cháy diễn ra chậm hơn. Một phần nhiệt tiêu hao để đốt nóng khí nitơ nên nhiệt độ đạt được thấp hơn.
+
+        \n\n\n*Bài 4 ( Trang 99 SGK Hóa 8 ):
+        \n\nĐiểm giống nhau giữa sự cháy và sự oxi hóa chậm: đều là sự oxi hóa có tỏa nhiệt.
+        \n\nĐiểm khác nhau giữa sự cháy và sự oxi hóa chậm: sự oxi hóa chậm không phát sáng còn sự cháy có phát sáng.
+
+
+         \n\n\n*Bài 5 ( Trang 99 SGK Hóa 8 ):
+        \n\nĐiều kiện cần thiết cho một vật có thể cháy được và tiếp tục cháy được: chất phải nóng đến nhiệt độ cháy, phải đủ khí oxi cho sự cháy.
+
+        \n\n\n*Bài 6 ( Trang 99 SGK Hóa 8 ):
+        \n\nKhông dùng nước là vì xăng dầu không tan trong nước, có thể làm cho đám cháy lan rộng. Thường trùm vải dày hoặc phủ lớp cát lên ngọn lửa để cách li ngọn lửa và không khí - đó là một trong hai điều kiện dập tắt đám cháy.
+
+        \n\n\n*Bài 7 ( Trang 99 SGK Hóa 8 ):
+        \n\nLượng không khí cần dùng trong 1 ngày (24 giờ) cho mỗi người là:
+        \n\nV_Không khí = 0,5m3 . 24 = 12m3.
+        \n\nDo trong không khí oxi chiếm 21% về thể tích nên thể tích khí oxi cần dùng trong 1 ngày cho một người trung bình là:
+        \n\nV_Oxi = 12.1/3.21/100 = 0,84 m3.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nSự giống nhau giữa sự cháy và sự oxi hóa chậm là đều tỏa nhiệt
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 2:
+        \n\n- Biện pháp dập tắt sự cháy
+        \n\n+ Hạ nhiệt độ của chất cháy xuống dưới nhiệt độ cháy.
+        \n\n+ Cách li chất cháy với khí oxi.
+        \n\nĐáp án cần chọn là: D
+        \n\n (-) Bài 3: A
+        \n\n (-) Bài 4: B
+        \n\n (-) Bài 5: B
+
+    </string>
+
+    <string name="c4_6_question">
+        *Bài 1 ( Trang 100 SGK Hóa 8 ): Viết các phương trình hóa học biểu diễn sự cháy trong oxi của các đơn chất: cacbon, photpho, hiđro, nhôm biết rằng sản phẩm là những hợp chất lần lượt có công thức hóa học là CO2, P2O5, H2O, Al2O3. Hãy gọi tên các chất tạo thành.
+
+        \n\n\n*Bài 2 ( Trang 100 SGK Hóa 8 ): Những biện pháp phải thực hiện để đập tắt sự cháy? Tại sao thực hiện được các biện pháp ấy thì sẽ dập tắt được sự cháy?
+
+        \n\n\n*Bài 3 ( Trang 100 SGK Hóa 8 ): Các oxit sau đây thuộc loại oxit axit hay oxit bazơ? Vì sao?
+        \n\nNa2O, MgO, CO2, Fe2O3, SO2, P2O5. Gọi tên các oxit đó.
+
+        \n\n\n*Bài 4 ( Trang 100 SGK Hóa 8 ):  Khoanh tròn ở đầu những câu phát biểu đúng:
+        \n\nOxit là hợp chất của oxi với:
+        \n\nA. Một nguyên tố kim loại.
+        \n\nB. Một nguyên tố phi kim khác.
+        \n\nC. Các nguyên tố hóa học khác.
+        \n\nD. Một nguyên tố hóa học khác.
+        \n\nE. Các nguyên tố kim loại.
+
+        \n\n\n*Bài 5 ( Trang 101 SGK Hóa 8 ): Điền chữ S(sai) vào ô trống đối với câu phát biểu sai:
+        \n\nA. Oxit được chia ra hai loại chính là : oxit axit và oxit bazơ.
+        \n\nB. Tất cả các oxit đều là oxit axit.
+        \n\nC. Tất cả các oxit đều là oxit bazơ.
+        \n\nD. Oxit axit thướng là oxit của phi kim.
+        \n\nE. Oxit axit đều là oxit của phi kim.
+        \n\nG. Oxit bazơ đều là oxit của kim loại tương ứng với bazơ.
+
+        \n\n\n*Bài 6 ( Trang 101 SGK Hóa 8 ): Hãy cho biết những phản ứng sau đây thuộc loại phản ứng hóa hợp hay phản ứng phân hủy,vì sao?
+        \n\na) 2KMnO4 → K2MnO4 + MnO2 + O2.
+        \n\nb) CaO + CO2 → CaCO3.
+        \n\nc) 2HgO → 2Hg + O2.
+        \n\nd) Cu(OH)2 → CuO + H2O.
+
+
+        \n\n\n*Bài 7 ( Trang 101 SGK Hóa 8 ):  Hãy chỉ ra những phản ứng hóa học có xảy ra sự oxi hóa trong các phản ứng cho dưới đây:
+        \n\na) 2H2 + O2 → 2H2O.
+        \n\nb) 2Cu + O2 → 2CuO.
+        \n\nc) H2O + CaO → Ca(OH)2.
+        \n\nd) 3H2O + P2O5 → 2H3PO4.
+
+        \n\n\n*Bài 8 ( Trang 101 SGK Hóa 8 ): Để chuẩn bị cho buổi thí nghiệm thực hành của lớp cần thu 20 lọ khí oxi, mỗi lọ có dung tích 100ml.
+        \n\na) Tính khối lượng kali pemanganat phải dùng, giả sử khí oxi thu được ở điều kiện tiêu chuẩn và hao hụt 10%?
+        \n\nb) Nếu dùng kali clorat có thêm một lượng nhỏ MnO2 thì lượng kali clorat cần dùng là bao nhiêu? Viết phương trình phản ứng và chỉ rõ điều kiện phản ứng.
+
+    </string>
+    <string name="c4_6_result">
+        *Bài 1 ( Trang 100 SGK Hóa 8 ):
+        \n\nC + O2 (t0)-> CO2. Cacbon đioxit.
+        \n\n4P + 5O2 (t0)-> 2P2O5. Điphotpho pentaoxit.
+        \n\n2H2 + O2 (t0)-> 2H2O. Nước.
+        \n\n4Al + 3O2 (t0)-> 2Al2O3. Nhôm oxit.
+
+        \n\n\n*Bài 2 ( Trang 100 SGK Hóa 8 ):
+        \n\nNhững biện pháp phải thực hiện để dập tắt sự cháy:
+        \n\n-Hạ nhiệt độ chất cháy xuống dưới nhiệt độ cháy.
+        \n\n-Cách li chất cháy với khí oxi.
+        \n\nCác biện pháp này phải làm đồng thời và có vậy thì sẽ dập tắt được sự cháy.
+
+        \n\n\n*Bài 3 ( Trang 100 SGK Hóa 8 ):
+        \n\nCác oxit axit: (vì là oxit của phi kim tương ứng với một axit (H2CO3, H2SO3, H3PO4)
+        \n\nCO2: Cacbon đioxit.
+        \n\nSO2: Lưu huỳnh đioxit.
+        \n\nP2O5: điphotpho pentaoxit.
+        \n\nCác oxit bazơ là:(vì là oxit của kim loại tương ứng với một bazơ(NaOH, Ca(OH)2, Fe(OH)3)
+        \n\nNa2O: Natri oxit.
+        \n\nMgO: Magie oxit.
+        \n\nFe2O3: Sắt(III) oxit.
+
+        \n\n\n*Bài 4 ( Trang 100 SGK Hóa 8 ):
+        \n\nCâu phát biểu đúng : D.
+
+
+        \n\n\n*Bài 5 ( Trang 101 SGK Hóa 8 ):
+        \n\nCâu phát biểu sai : B, C, E.
+
+
+        \n\n\n*Bài 6 ( Trang 101 SGK Hóa 8 ):
+        \n\nPhản ứng hóa hợp: b) vì một chất mới sinh ra từ hai chất ban đầu.
+        \n\nPhản ứng phân hủy: a) c) d) vì một chất sinh ra hai hay nhiều chất mới.
+
+        \n\n\n*Bài 7 ( Trang 101 SGK Hóa 8 ):
+        \n\nCác phản ứng xảy ra sự oxi hóa: a), b).
+        \n\n(sự tác dụng của oxi với 1 chất là sự oxi hóa)
+
+        \n\n\n*Bài 8 ( Trang 101 SGK Hóa 8 ): GỢI Ý
+        \n\na) Đổi 100 ml = 0,1 lít
+        \n\nThể tích khí oxi chứa trong 20 lọ là:
+        \n\nV_O2 = 0,1.20 = 2 lít
+        \n\nm_LT = 395/14 (g)
+        \n\nm_TT = 31,35 (g)
+        \n\nĐáp số: m_KMnO4 cần dùng = 31,35 (gam)
+        \n\nb) Ý b) tách biệt so với ý a), ngoài ra ở ý b) không cho lượng oxi hao hụt là bao nhiêu nên ta lấy hiệu suất phản ứng đạt 100%.
+        \n\nThể tích khí oxi thu được là: V = 0,1.20 = 2 (lít)
+        \n\n n_KCLO3 = 2/3.n_O2 = 2/3 . 2/22,4 = 4/67,2 (mol)
+        \n\n m_KCLO3 = 7,29 (g)
+    </string>
+
+    <string name="c4_7_question">
+        *Bài 1 (trang 103 SGK Hóa 8): Trình bày kết quả của thí nghiệm điều chế khí oxi, thu khí oxi và đốt cháy lưu huỳnh trong khí oxi.
+
+
+    </string>
+    <string name="c4_7_result">
+        *Bài 1 (trang 103 SGK Hóa 8):
+        \n\n -TN1 : Đun nóng KMnO4.
+        \n\n + Hiện Tượng : Chất rắn trong ống nghiệm chuyển dần thành màu đen, tàn đóm đỏ bùng cháy.
+        \n\n + PTHH: 2KMnO4 (t0)-> K2MnO4 + MnO2 + O2
+        \n\n + Giải thích:Khi đun nóng kalipemaganat bị phân hủy tạo ra khí oxi.
+        \n\nVì khí oxi duy trì sự cháy nên làm cho tàn đóm đỏ bùng cháy.
+        \n\nChất rắn màu đen là MnO2.
+        \n\n + Kết Luận: KMnO4 bị nhiệt phân hủy, giải phóng oxi.
+        \n\n\n -TN2 : Đun nóng KMnO4.
+        \n\n + Hiện Tượng : Trong không khí lưu huỳnh cháy với ngọn lửa nhỏ màu xanh nhạt.
+        \n\nTrong khí oxi lưu huỳnh cháy mãnh liệt hơn.
+        \n\nTạo ra chất khí mùi hắc là lưu huỳnh đioxit.
+        \n\n + PTHH: S + O2 (t0) -> SO2
+        \n\n + Giải thích: Vì trong lọ đựng oxi sự tiếp xúc của các phân tử lưu huỳnh với các phân tử oxi nhiều hơn trong không khí nên sự cháy xảy ra mãnh liệt hơn.
+        \n\n + Kết Luận: Ở nhiệt độ cao oxi dễ dàng phản ứng với phi kim tạo ra oxit axit.
+
+    </string>
+
+    <!--
+        Chương 5
+    -->
+    <string name="c5_1_question">
+        *Bài 1 ( Trang 109 SGK Hóa 8 ): Viết phương trình hóa học của phản ứng hiđro khử các oxit sau:
+        \n\na) Sắt (III) oxit.
+        \n\nb) Thủy ngân(II) oxit.
+        \n\nc) Chì(II) oxit.
+
+        \n\n\n*Bài 2 ( Trang 109 SGK Hóa 8 ): Hãy kể những ứng dụng của hidro mà em biết.
+
+        \n\n\n*Bài 3 ( Trang 109 SGK Hóa 8 ): Chọn cụm từ thích hợp trong khung để điền vào chỗ trống trong các câu sau:
+        \n\nTính khử; tính oxi hóa; chiếm oxi; nhường oxi; nhẹ nhất
+        \n\nTrong các chất khí, hiđro là khí .... Khí hidro có ....
+        \n\nTrong phản ứng giữa H2 và CuO, H2 có .... vì .... của chất khác; CuO có .... vì .... cho chất khác.
+
+         \n\n\n*Bài 4 ( Trang 109 SGK Hóa 8 ): Khử 48 gam đồng(II) oxit bằng khí hiđro. Hãy:
+        \n\na) Tính số gam đồng kim loại thu được.
+        \n\nb) Tính thể tích khí hiđro (đktc) cần dùng.
+
+
+         \n\n\n*Bài 5 ( Trang 109 SGK Hóa 8 ): Khử 21,7 gam thủy ngân(II) oxit bằng hiđro. Hãy:
+        \n\na) Tính số gam thủy ngân thu được.
+        \n\nb) Tính số mol và thể tích khí hiđro (đktc) cần dùng.
+
+        \n\n\n*Bài 6 ( Trang 109 SGK Hóa 8 ):  Tính số gam nước thu được khi cho 8,4 lít khí hiđro tác dụng với 2,8 lít oxi (các thể tích đo ở đktc).
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Trong những oxit sau: CuO, MgO, Al2O3, Ag2O, Na2O, PbO. Có bao nhiêu oxit phản ứng với hiđro ở nhiệt độ cao?
+        \n\nA. 4
+        \n\nB. 5
+        \n\nC. 3
+        \n\nD. 1
+        \n\n (-) Bài 2: Tính thể tích hiđro (đktc) để điều chế 5,6 (g) Fe từ FeO?
+        \n\nA. 2,24 lít.
+        \n\nB. 1,12 lít.
+        \n\nC. 3,36 lít.
+        \n\nD. 4,48 lít.
+        \n\n (-) Bài 3: Đốt cháy 2,8 lít H2 (đktc) sinh ra H2O
+        \n\nA. 1,4 lít.
+        \n\nB. 2,8 lít.
+        \n\nC. 5,6 lít.
+        \n\nD. 2,24 lít.
+        \n\n (-) Bài 4: Cho 8 gam CuO tác dụng với 1,12 lít khí H2 ở nhiệt độ cao. Sau phản ứng thấy có m gam chất rắn. Giá trị của m là
+        \n\nA. 0,64
+        \n\nB. 6,4
+        \n\nC. 0,72
+        \n\nD. 7,2
+        \n\n (-) Bài 5: Khử hoàn toàn 8 gam một oxit của kim loại R (có hoá trị II) cần vừa đủ 2,24 lít H2 (đktc). Kim loại R là:
+        \n\nA. Cu.
+        \n\nB. Mg.
+        \n\nC. Zn.
+        \n\nD. Fe.
+
+
+
+    </string>
+    <string name="c5_1_result">
+        *Bài 1 (trang 109 SGK Hóa 8):
+        \n\na) Fe2O3 + 3H2 (t0)→ 2Fe + 3H2O.
+        \n\nb) HgO + H2 (t0)→ Hg + H2O.
+        \n\nc) PbO + H2 (t0)→ Pb + H2O.
+
+         \n\n\n*Bài 2 ( Trang 109 SGK Hóa 8 ):
+        \n\nDùng làm nhiên liệu cho động cơ tên lửa, có thể làm nhiên liệu cho động cơ ô tô thay cho xăng, dùng trong đèn xì oxi - hidro để hàn cắt kim loại. Đó là vì khí hiđro cháy, sinh ra một lượng nhiệt lớn hơn nhiều lần so với cùng lượng nhiên liệu khác.
+        \n\nLà nguồn nhiên liệu trong sản xuất amoniac, axit và nhiều hợp chất hữu cơ.
+        \n\nDùng làm chất khử để điều chế một số kim loại từ oxit của chúng.
+        \n\nHiđro được dùng để bơm vào khinh khí cầu, bóng thám không vì là khí nhẹ nhất.
+
+         \n\n\n*Bài 3 ( Trang 109 SGK Hóa 8 ):
+        \n\nTrong các chất khí, hiđro là khí nhẹ nhất. Khí hiđro có tính khử.
+        \n\nTrong phản ứng giữa H2 và CuO, H2 có tính khử vì chiếm oxi của chất khác, CuO có tính oxi hoá vì nhường oxi cho chất khác.
+
+
+        \n\n\n*Bài 4 ( Trang 109 SGK Hóa 8 ):
+        \n\nn_CuO = 48/80 = 0,6 mol.
+        \n\nPhương trình hóa học của phản ứng khử CuO:
+        \n\nCuO + H2 → Cu + H2O.
+        \n\nn_Cu = 0,6mol.
+        \n\nm_Cu = 0,6 .64 = 38,4g.
+        \n\nTheo phương trình phản ứng trên:
+        \n\nn_H2 = 0,6 mol
+        \n\nV_H2 = 0,6 .22,4 = 13,44 lít.
+
+        \n\n\n*Bài 5 ( Trang 109 SGK Hóa 8 ):
+         \n\n n_HgO = 21,7/217 = 0,1 mol.
+        \n\nPhương trình hóa học của phản ứng khử HgO:
+        \n\nHgO + H2 → Hg + H2O
+        \n\n n_Hg = 0,1 mol.
+        \n\n m_Hg = 0,1 .201 = 20,1g.
+        \n\n n_H2 = 0,1 mol.
+        \n\n V_H2 = 0,1 .22,4 =2,24l.
+
+        \n\n\n*Bài 6 ( Trang 109 SGK Hóa 8 ):
+        \n\n n_H2 = 8,4/22,4 = 0,375 (mol)
+        \n\n n_O2 = 2,8 / 22,4 = 0,125 (mol)
+        \n\nPhương trình hóa học của phản ứng tạo nước:
+        \n\n2H2 + O2 → 2H2O.
+        \n\nSo sánh tỉ lệ 0,375/2 (mol) > 0,125/1 (mol) . Như vậy lượng H2 dư nên tính khối lượng nước sinh ra theo oxi.
+        \n\nTheo phương trình trên ta có:
+        \n\n n_H2O = 2. 0,125 = 0,25 mol.
+        \n\n m_H2O = 0,25 .18 = 4,5g.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\n- H2 không tác dụng với các oxit: Na2O, K2O, BaO, CaO, MgO, Al2O3
+        \n\n=> Những oxit phản ứng với hiđro ở nhiệt độ cao là: CuO, Ag2O, PbO
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 2: A
+        \n\n (-) Bài 3: A
+        \n\n (-) Bài 4: D
+         \n\n (-) Bài 5: A
+    </string>
+
+    <string name="c5_2_question">
+        *Bài 1 ( Trang 113 SGK Hóa 8 ): Hãy chép vào vở bài tập những câu đúng trong các câu sau đây:
+        \n\nA. Chất nhường oxi cho chất khác là chất khử.
+        \n\nB. Chất nhường oxi cho chất khác là chất oxi hóa.
+        \n\nC. Chất chiếm oxi của chất khác là chất khử.
+        \n\nD. Phản ứng oxi hóa – khử là phản ứng hóa học trong đó có xảy ra sự oxi hóa.
+        \n\nE. Phản ứng oxi hóa – khử là phản ứng hóa học trong đó có xảy ra đồng thời sự oxi hóa và sự khử.
+
+        \n\n\n*Bài 2 ( Trang 113 SGK Hóa 8 ): Hãy cho biết trong những phản ứng hóa học xảy ra quanh ta sau đây, phản ứng nào là phản ứng oxi hóa – khử? Lợi ích và tác hại của mỗi phản ứng?
+        \n\na) Đốt than trong lò: C + O2 → CO2.
+        \n\nb) Dùng cacbon oxit khử sắt (III) oxit trong luyện kim.
+        \n\nFe2O3 + 3CO → 2Fe + 3CO2.
+        \n\nc) Nung vôi: CaCO3 → CaO + CO2.
+        \n\nd) Sắt bị gỉ trong không khí: 4Fe + 3O2 → 2Fe2O3.
+
+         \n\n\nBài 3 ( Trang 113 SGK Hóa 8 ): Hãy lập các phương trình hóa học theo các sơ đồ sau:
+        \n\nFe2O3 + CO ---> CO2 + Fe.
+        \n\nFe3O4 + H2 -----> H2O + Fe.
+        \n\nCO2 + 2Mg -----> 2MgO + C.
+        \n\nCác phản ứng hóa học này có phải là phản ứng oxi hóa - khử không? Vì sao? Nếu là phản ứng oxi hóa – khử cho biết chất nào là chất khử, chất oxi hóa? Vì sao?
+
+        \n\n\nBài 4 ( Trang 113 SGK Hóa 8 ): Trong phòng thí nghiệm người ta đã dùng cacbon oxit CO để khử 0,2 mol Fe3O4 và dùng khí hiđro để khử 0,2 mol Fe2O3 ở nhiệt đô cao.
+        \n\na) Viết phương trình hóa học của các phản ứng đã xảy ra.
+        \n\nb) Tính số lít khí ở đktc CO và H2 cần dùng cho mỗi phản ứng.
+        \n\nc) Tính số gam sắt thu được ở mỗi phản ứng hóa học.
+
+        \n\n\nBài 5 ( Trang 113 SGK Hóa 8 ): Trong phòng thí nghiệm người ta dùng khí hiđro để khử sắt(II) oxit và thu được 11,2 g Fe.
+        \n\na) Viết phương trình hóa học của phản ứng đã xảy ra.
+        \n\nb) Tính khối lượng sắt (III) oxit đã phản ứng.
+        \n\nc) Tính thể tích khí hiđro đã tiêu thụ (đktc).
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Oxit nào bị khử bởi Hidro:
+        \n\nA. Na2O
+        \n\nB. CaO
+        \n\nC. Fe3O4
+        \n\nD. BaO
+        \n\n (-) Bài 2: Cho phản ứng: 3Fe + 2O2Bài tập về Phản ứng oxi hóa – khử lớp 8 có lời giải Fe3O4. Chất nào là chất khử?
+        \n\nA. Fe
+        \n\nB. O2
+        \n\nC. Fe3O4
+        \n\nD. Cả A và B
+        \n\n (-) Bài 3: Chọn đáp án sai:
+        \n\nA. Sự khử là sự tách oxi ra khỏi hợp chất.
+        \n\nB. Chất khử là chất chiếm oxi của chất khác.
+        \n\nC. Chất oxi hóa là chất chiếm oxi của chất khác.
+        \n\nD. Phản ứng oxi hóa – khử xảy ra đồng thời sự oxi
+        \n\n (-) Bài 4: Đốt cháy hoàn toàn 4,8 gam bột than trong không khí. Thể tích khí thu được sau phản ứng là
+        \n\nA. 8,96 lít
+        \n\nB. 4,8 lít
+        \n\nC. 0,896 lít
+        \n\nD. 0,48 lít
+        \n\n (-) Bài 5: Cho các phản ứng sau, những phản ứng nào là phản ứng oxi hóa – khử
+        \n\nS + O2  (t0)-> SO2         (1)
+        \n\nCaCO3 (t0)-> CaO + CO2     (2)
+        \n\n2H2 + O2 (t0)-> 2H2O       (3)
+        \n\nNH3 + HCl → NH4Cl          (4)
+        \n\nA. (1), (2)
+        \n\nB. (2), (3)
+        \n\nC. (1), (3)
+        \n\nD. (3), (4)
+
+
+    </string>
+    <string name="c5_2_result">
+        *Bài 1 (trang 113 SGK Hóa 8):
+        \n\nNhững câu đúng: B, C, E.
+        \n\nNhững câu sai: A,D vì những câu này hiểu sai về chất khử, chất oxi hóa và phản ứng oxi hóa - khử.
+
+         \n\n\n*Bài 2 ( Trang 113 SGK Hóa 8 ):
+        \n\nNhững phản ứng oxi hóa – khử là a), b) ,d).
+        \n\nPhản ứng a) Lợi: sinh ra nhiệt năng để sản xuất phục vụ đời sống. Tác hại: sinh ra khí CO2 làm ô nhiễm môi trường.
+        \n\nPhản ứng b) Lợi: luyện quặng sắt thành gang điều chế sắt. Tác hại: sinh ra khí CO2 làm ô nhiễm môi trường.
+
+        \n\n\nBài 3 ( Trang 113 SGK Hóa 8 ):
+        \n\nFe2O3 + 3CO → 3CO2 + 2Fe.
+        \n\nFe3O4 + 4H2 → 4H2O + 3Fe.
+        \n\nCO2 + 2Mg → 2MgO + C.
+        \n\nCả 3 phản ứng đều là phản ứng oxi hóa – khử.
+        \n\nCác chất khử là CO, H2, Mg vì đều là chất chiếm oxi.
+        \n\nCác chất oxi hóa là Fe2O3, Fe3O4, CO2 vì đều là chất nhường oxi.
+
+        \n\n\nBài 4 ( Trang 113 SGK Hóa 8 ):
+        \n\na) Phương trình hóa học của các phản ứng:
+        \n\n4CO + Fe3O4 → 3Fe + 4 CO2 (1).
+        \n\n3H2 + Fe2O3 → 2Fe + 3H2O (2).
+        \n\nb)Theo phương trình phản ứng trên ta có:
+        \n\nMuốn khử 1 mol Fe3O4 cần 4 mol CO.
+        \n\nMuốn khử 0,2 mol Fe3O4 cần x mol CO.
+        \n\nx= 0,2.4 = 0,8 mol CO.
+        \n\nV_CO = 0,8 .22,4 = 17,92 lít.
+        \n\nMuốn khử 1 mol Fe2O3 cần 3 mol H2.
+        \n\nMuốn khử 0,2 mol Fe2O3 cần y mol H2.
+        \n\ny = 0,2 .3 = 0,6 mol.
+        \n\nV_H2= 0,6 .22,4 = 13,44l.
+        \n\nc) Ở phản ứng (1) khử 1 mol Fe3O4 được 3 mol Fe.
+        \n\nVậy khử 0,2 mol Fe3O4 được 0,6 mol Fe.
+        \n\nm_Fe = 0,6 .56 = 33,6g Fe.
+        \n\nỞ phản ứng (2) khử 1 mol Fe2O3 được 2 mol Fe.
+        \n\nVậy khử 0,2 mol Fe2O3 được 0,4 mol Fe.
+        \n\nm_Fe = 0,4 .56 = 22,4g Fe.
+
+        \n\n\nBài 5 ( Trang 113 SGK Hóa 8 ):
+        \n\n n_Fe = 11,2 / 56 = 0,2 (mol)
+        \n\nPhương trình hóa học của phản ứng:
+        \n\nFe2O3 + 3H2 → 2Fe + 3H2O.
+        \n\nKhử 1 mol Fe2O3 cho 2 mol Fe.
+        \n\nx mol Fe2O3 → 0,2 mol.
+        \n\nx = 0,2 : 2 =0,1 mol.
+        \n\nm = 0,1 .160 =16g.
+        \n\nKhử 1 mol Fe2O3 cần 3 mol H2.
+        \n\nVậy khử 0,1 mol Fe2O3 cần 0,3 mol H2.
+        \n\nV= 0,3 .22.4 = 6,72l.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nH2 không khử được các oxit: Na2O, K2O, CaO, BaO, MgO, Al2O3
+        \n\n=> Oxit bị khử là Fe3O4
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 2:
+        \n\nChất khử là chất chiếm oxi của chất khác. Trong trường hợp này, chất khử là Fe vì tác dụng với oxi
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 3:
+        \n\nĐáp án sai là: Chất oxi hóa là chất chiếm oxi của chất khác.
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 4:
+        \n\nPTHH: C  + O2 (t0)→ CO2
+        \n\nTỉ lệ PT:  1mol   1mol
+        \n\nP/ứng:     0,4mol     →     0,4mol
+        \n\n=> Thể tích khí CO2 thu được là: VCO2=0,4.22,4=8,96VCO2=0,4.22,4=8,96 lít
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 5:
+        \n\nNhững phản ứng nào là phản ứng oxi hóa – khử là:
+        \n\nS + O2 (t0)-> SO2                 (1)
+        \n\n2H2 + O2 (t0)-> 2H2O           (3)
+        \n\nĐáp án cần chọn là: C
+    </string>
+
+    <string name="c5_3_question">
+        *Bài 1 ( Trang 117 SGK Hóa 8 ): Những phản ứng hóa học nào dưới đây có thể được dùng để điều chế hiđro trong phòng thi nghiệm?
+        \n\na) Zn + H2SO4 → ZnSO4 + H2.
+        \n\nb) 2H2O → 2H2 + O2.
+        \n\nc) 2Al + 6HCl → 2AlCl3 + 3H2.
+
+        \n\n\n*Bài 2 ( Trang 117 SGK Hóa 8 ): Lập phương trình hóa học của các phản ứng sau đây và cho biết chúng thuộc loại phản ứng hóa học nào?
+        \n\na) Mg + O2 → MgO.
+        \n\nb) KMnO4 to→ K2MnO4 + MnO2 + O2.
+        \n\nc) Fe + CuCl2 → FeCl2 + Cu.
+
+        \n\n\n*Bài 3 ( Trang 117 SGK Hóa 8 ): Khi thu khí oxi vào ống nghiệm bằng cách đẩy không khí phải để vị trí ống nghiệm như thế nào? Vì sao? Đối với khí hiđro, có làm thế được không? Vì sao?
+
+        \n\n\n*Bài 4 ( Trang 117 SGK Hóa 8 ): Trong phòng thí nghiệm hóa học có các kim loại kẽm và sắt, dung dịch HCl và axit H2SO4.
+        \n\na) Viết các phương trình hóa học có thể điều chế hiđro;
+        \n\nb) Phải dùng bao nhiêu gam kẽm, bao nhiêu gam sắt để điều chế được 2,24 lít khí hiđro (đktc)?
+
+        \n\n\n*Bài 5 ( Trang 117 SGK Hóa 8 ): Cho 22,4g sắt tác dụng với dung dịch loãng có chứa 24,5g axit sunfuric.
+        \n\na) Chất nào còn dư sau phản ứng và dư bao nhiêu gam?
+        \n\nb) Tính thể tích khí hiđro thu được ở đktc.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Cho một thanh sắt nặng 5,6 gam vào bình đựng dung dịch axit clohiđric loãng, dư thu được dung dịch A và khí bay lên. Cô cạn dung dịch A được m gam chất rắn. Hỏi dung dịch A là gì và tìm m
+        \n\nA. FeCl2; m = 12,7 gam
+        \n\nB. FeCl2 ; m = 17,2 gam
+        \n\nC. FeCl3; m = 55,3 gam
+        \n\nD. Không xác định được
+        \n\n (-) Bài 2: Tính khối lượng của Al khi cho phản ứng với axit sunfuric (H2SO4) thấy có 1,68 lít khí thoát ra.
+        \n\nA. 2,025 gam
+        \n\nB. 5,24 gam
+        \n\nC. 6,075 gam
+        \n\nD. 1,35 gam
+        \n\n (-) Bài 3: Cho các phản ứng hoá học sau: (coi điều kiện có đủ)
+        \n\n(1): ZnO + 2HCl  ->  ZnCl2 + H2O.
+        \n\n(2): 2Cu + O2  -> 2CuO.
+        \n\n(3): Fe + 2HCl  ->  FeCl2 + H2.
+        \n\n(4): 2KMnO4 ->  K2MnO4 + MnO2 + O2.
+        \n\n(5): 2Na + 2H2O ->  2NaOH + H2.
+        \n\n(6): Na2O + H2O  ->  2NaOH.
+        \n\nSố phản ứng thế là:
+        \n\nA. 1
+        \n\nB. 2
+        \n\nC. 3
+        \n\nD. 4
+        \n\n (-) Bài 4: Cho một lượng dư bột sắt Fe phản ứng với dung dịch axit clohiđric HCl, sau khi phản ứng xảy ra thu được các sản phẩm là:
+        \n\nA. Fe dư, FeCl2, H2.
+        \n\nB. FeCl2, H2.
+        \n\nC. Fe dư, FeCl2.
+        \n\nD. FeCl2.
+        \n\n (-) Bài 5: Trong phòng thí nghiệm có các kim loại Zn (A) và Mg (B), các dung dịch H2SO4 loãng (C) và HCl (D). Muốn điều chế được 1,12 lít khí H2 (ở đktc) từ một
+        \n\nkim loại và một dung dịch axit nhưng lượng sử dụng ít nhất thì dùng:
+        \n\nA. B và C.
+        \n\nB. B và D.
+        \n\nC. A và C.
+        \n\nD. A và D.
+
+
+
+
+    </string>
+    <string name="c5_3_result">
+        *Bài 1 ( Trang 117 SGK Hóa 8 ):
+        \n\nPhản ứng hóa học điều chế H2 trong phòng thí nghiệm là: a) và c)
+
+
+        \n\n\n*Bài 2 ( Trang 117 SGK Hóa 8 ):
+        \n\nPhản ứng a) 2Mg + O2 → 2MgO.
+        \n\n→ là phản ứng hóa hợp, ngoài ra còn là phản ứng oxi hóa – khử.
+        \n\nPhản ứng b) 2KMnO4 to→ K2MnO4 + MnO2 + O2
+        \n\n→ Là phản ứng phân hủy.
+        \n\nPhản ứng c) Fe + CuCl2 → FeCl2 + Cu
+        \n\n→ là phản ứng thế.
+
+        \n\n\n*Bài 3 ( Trang 117 SGK Hóa 8 ):
+        \n\nVì khí O2 (M =32) nặng hơn không khí (M=29) nên khi thu khí oxi ta có thể để ống nghiệm nghiêng hoặc để đứng còn khí H2 nhẹ hơn không khí nên khi thu khí phải úp ngược ống nghiệm không được để đứng ống nghiệm.
+
+        \n\n\n*Bài 4 ( Trang 117 SGK Hóa 8 ):
+        \n\nPhương trình hóa học của phản ứng:
+        \n\nFe + H2SO4 → FeSO4 + H2.
+        \n\nZn + H2SO4 → ZnSO4 + H2.
+        \n\nFe + 2HCl → FeCl2 + H2.
+        \n\nZn + 2HCl → ZnCl2 + H2.
+        \n\n n_H2 = 2,24/22,4 = 0,1 (mol)
+        \n\nTheo phương trình (3) mFe cần dùng: 56.0,1 = 5,6g.
+        \n\nTheo phương trình (4) mZn cần dùng: 65.0,1 = 6,5g.
+
+        \n\n\n*Bài 5 ( Trang 117 SGK Hóa 8 ):
+        \n\n n_Fe = 22,4/56 = 0,4 (mol)
+        \n\n n_H2SO4 = 24,5/98 = 0,25 (mol)
+        \n\nPhương trình hóa học của phản ứng:
+        \n\n Fe + H2SO4 -> FeSO4 + H2
+        \n\nSo sánh tỉ lệ 0,4/1 > 0,25/1 ⇒ Fe dư
+        \n\nTheo PT nFe (pư) = n_H2SO4 = 0,25 mol ⇒ nFe dư = 0,4 – 0,25 = 0,15 mol
+        \n\nm_Fe dư = 0,15. 56 = 8,4g.
+        \n\nDo khối lượng Fe dư nên tính thể tích khí H2 theo số mol H2SO4.
+        \n\n n_H2 = n_H2SO4 = 0,25 mol
+        \n\nV_khí = 0,25 . 22,4 = 5,6l.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nSố mol Fe phản ứng là: n_Fe= 6,5/65 =0,1 mol
+        \n\nPTHH:      Fe   +   2HCl   →   FeCl2   +   H2
+        \n\nTỉ lệ PT:  1mol         →            1mol
+        \n\nP/ứng:     0,1mol       →           0,1mol
+        \n\nCô cạn dung dịch A thu được chất rắn => chất rắn là FeCl2
+        \n\n=> Khối lượng FeCl2 thu được là: m_FeCl2=0,1.127=12,7gam
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 2: D
+        \n\n (-) Bài 3:
+        \n\n(3) và (5) là phản ứng thế
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 4:
+        \n\nFe dư + 2HCl → FeCl2 + H2↑
+        \n\n=> Sản phẩm gồm: FeCl2, H2 và Fe dư
+        \n\nĐáp án cần chọn là: A ( Chú ý : Có dư Fe sau phản ứng )
+        n\n (-) Bài 5:
+        \n\n n_H2(ĐKTC) = 1,12 /22,4 = 0,05 (mol)
+        \n\nĐiều chế cùng một lượng H2 từ một kim loại và một dung dịch axit => ta chọn dùng Mg và HCl
+        \n\nĐáp án cần chọn là: B
+
+    </string>
+
+    <string name="c5_4_question">
+        *Bài 1 ( Trang 118 SGK Hóa 8 ): Viết phương trình hóa học biểu diễn phản ứng của hiđro với các chất: O2, Fe2O3, Fe3O4, PbO ở nhiệt độ thích hợp. Ghi rõ điều kiện phản ứng. Giải thích và cho biết mỗi phản ứng trên thuộc loại phản ứng gì?
+
+        \n\n\n*Bài 2 ( Trang 118 SGK Hóa 8 ): Có 3 lọ đựng riêng biệt các chất khí sau: khí oxi, không khí, và hiđro. Bằng thí nghiệm nào có thể nhận ra chất khí trong mỗi lọ?
+
+        \n\n\n*Bài 3 ( Trang 119 SGK Hóa 8 ): Cho dung dịch axit sunfuric loãng, nhôm và các dụng cu thí nghiệm như hình vẽ. Hãy chọn câu trả lời đúng trong các câu sau:
+        \n\nA. Có thể dùng các hóa chất và dụng cụ đã cho để điều chế và thu khí oxi.
+        \n\nB. Có thể dùng các hóa chất và dụng cụ đã cho để điều chế và thu không khí.
+        \n\nC. Có thể dùng các hóa chất và dụng cụ đã cho để điều chế và thu khí hiđro.
+        \n\nD. Có thể dùng để điều chế hidro nhưng không thu được khí hiđro.
+
+        \n\n\n*Bài 4 ( Trang 119 SGK Hóa 8 ): a) Lập phương trình hóa học của các phản ứng sau:
+        \n\n- Cacbon đioxit + nước → Axit cacbonic (H2CO3).
+        \n\n- Lưu huỳnh đioxit + nước → Axit sunfurơ (H2SO3).
+        \n\n- Kẽm + axit clohiđric → Kẽm clorua + H2.
+        \n\n- Điphotpho pentaoxit + nước → Axit photphoric (H3PO4).
+        \n\n- Chì (II) oxit + hiđro → Chì (Pb) + H2O.
+        \n\nb) Mỗi phản ứng hóa học trên đây thuộc loại phản ứng nào? Vì sao?
+
+
+        \n\n\n*Bài 5 ( Trang 119 SGK Hóa 8 ):  a) Hãy viết phương trình hóa học của các phản ứng giữa hiđro với hỗn hợp đồng (II) oxit và sắt (III) oxit ở nhiệt độ thích hợp?.
+        \n\nb) Trong các phản ứng hóa học trên, chất nào là chất khử, chất nào là chất oxi hóa? Vì sao?
+        \n\nc) Nếu thu được 6,00 gam hỗn hợp hai kim loại, trong đó có 2,8g sắt thì thể tích (ở đktc) khí hiđro vừa đủ cần dùng để khử đồng (II) oxit và sắt (III) oxit là bao nhiêu?
+
+        \n\n\n*Bài 6 ( Trang 119 SGK Hóa 8 ):   Cho các kim loại kẽm, nhôm, sắt lần lượt tác dụng với dung dịch axit sunfuric loãng.
+        \n\na) Viết các phương trình phản ứng.
+        \n\nb) Cho cùng một khối lượng các kim loại trên tác dụng hết với axit sunfuric? Kim loại nào cho nhiều khi hiđro nhất?
+        \n\nc) Nếu thu được cùng một thể tích khí hiđro thì khối lượng kim loại nào nhỏ nhất?
+
+
+    </string>
+    <string name="c5_4_result">
+        *Bài 1 ( Trang 118 SGK Hóa 8 ):
+        \n\nPhương trình hóa học biểu diễn các phản ứng:
+        \n\n2H2 + O2 (t0)-> 2H2O       (pứ hóa hợp + oxi hóa khử)
+        \n\n4H2 + Fe3O4 (t0)-> 4H2O + 3Fe     (pứ thế + oxi hóa khử)
+        \n\n3H2 + Fe2O3 (t0)-> 3H2O + 2Fe    (pứ thế + oxi hóa khử)
+        \n\nH2 + PbO (t0)-> H2O + Pb         (pứ thế + oxi hóa khử)
+        \n\nCác phản ứng trên đều là phản ứng oxi – hóa khử vì đều có đồng thời sự khử và sự oxi <hóa></hóa>
+
+        \n\n\n*Bài 2 ( Trang 118 SGK Hóa 8 ):
+        \n\n- Cho que đóm còn tàn đỏ vào từng bình chứa khí
+        \n\n+ Bình làm que đóm bùng cháy mãnh liệt là bình chứa oxi
+        \n\n+ Hai bình không hiện tượng là hai bình chứa không khí và hiđro.
+        \n\n- Phân biệt hai bình chứa không khí và hiđro
+        \n\nDẫn lần lượt khí ở từng bình qua ống nghiệm đựng CuO nung nóng
+        \n\n+ Nếu CuO từ màu đen chuyển sang màu đỏ thì khí là H2
+        \n\nH2 + CuO (t0)-> Cu + H2O
+        \n\n+ Nếu không hiện tượng → không khí.
+
+
+        \n\n\n*Bài 3 ( Trang 119 SGK Hóa 8 ):
+        \n\nCâu trả lời đúng là C.
+        \n\nPT: 2Al + 3H2SO4 → Al2(SO4)3 + 3H2
+        \n\nTừ phản ứng này ⇒ có thể điều chế khí H2
+        \n\nKhí H2 nhẹ hơn không khí nên úp ngược ống nghiệm sẽ thu được khí H2
+
+         \n\n\n*Bài 4 ( Trang 119 SGK Hóa 8 ):
+        \n\na) Phương trình phản ứng:
+        \n\nCO2 + H2O → H2CO3 (1).
+        \n\nSO2 + H2O → H2SO3 (2).
+        \n\nZn + 2HCl → ZnCl2 + H2 (3).
+        \n\nP2O5 + 3H2O → 2H3PO4 (4).
+        \n\nPbO + H2 → Pb + H2O (5).
+        \n\nb) - Phản ứng (1), (2) và (4) là phản ứng kết hợp vì một chất mới tạo từ nhiều chất.
+        \n\n- Phản ứng (3) và (5) là phản ứng thế và đồng thời phản ứng (5) là phản ứng oxi hóa khử.
+
+        \n\n\n*Bài 5 ( Trang 119 SGK Hóa 8 ):
+        \n\na) Phương trình hóa học của các phản ứng:
+        \n\nH2 + CuO → Cu + H2O (1).
+         \n\n3H2 + Fe2O3 → 2Fe + 3H2O (2).
+         \n\nb) Trong phản ứng (1), (2) chất khử H2 vì chiếm oxi của chất khác, chất oxi hóa là CuO và Fe2O3 vì nhường oxi cho chất khác.
+         \n\nc) Khối lượng đồng thu được từ 6g hỗn hợp 2 kim loại thu được:
+         \n\n m_Cu = 6g - 2,8g = 3,2g, n_Cu = 3,2/64 = 0,05 mol
+         \n\n n_Fe = 2,8/56 = 0,05 (mol)
+         \n\n n_H2 (1) = n_Cu = 0,05 mol ⇒ V_H2(1) = 22,4 . 0,05 = 1,12 lít
+         \n\n n_H2 (2) = 3/2.n_Fe = 3/2.0,05 ⇒ V_H2  (2) = 22,4 . 0,075 = 1,68 lít khí H2.
+         \n\n V_H2 = V_H2(1) + V_H2(2) = 1,12 + 1,68 = 2,8(l)
+
+         \n\n\n*Bài 6 ( Trang 119 SGK Hóa 8 ):
+        \n\na) Phương trình phản ứng:
+        \n\nZn + H2SO4 → ZnSO4 + H2
+        \n\nFe + H2SO4loãng → FeSO4 + H2
+        \n\n2Al+ 3H2SO4 → Al2(SO4)3 + 3H2
+        \n\nb) Giả sử cho cùng một khối lượng là a g kim loại kẽm sắt và nhôm
+        \n\nZn + H2SO4 → ZnSO4 + H2     (1)
+        \n\nFe + H2SO4loãng → FeSO4 + H2     (2)
+        \n\n2Al+ 3H2SO4 → Al2(SO4)3 + 3H2     (3)
+        \n\n Ta Có: n_Fe = a/56; n_Zn = a/65; n_Al = a/27;
+        \n\nTheo pt nH2 (1) = n_Zn = a/65 mol
+        \n\n n_H2 (2) = n_Fe = a/56 mol
+        \n\n n_H2 (3) = 3/2.n_Al = 3/2.a/27 = a/18 mol
+        \n\nNhư vậy ta nhận thấy a/18>a/56>a/65 ⇒ n_H2 (3) > n_H2 (2) > n_H2 (1)
+        \n\nNhư vậy cho cùng một lượng kim loại tác dụng với axit H2SO4 loãng dư thì nhôm cho nhiều khí hidro hơn, sau đó đến sắt và ít nhất là kẽm
+        \n\nc) Nếu thu được cùng một lượng khí hidro thì khối lượng kim loại ít nhất là nhôm, sau đó đến sắt, cuối cùng là kẽm.
+
+
+    </string>
+
+    <string name="c5_5_question">
+        *Bài 1 (trang 120 SGK Hóa 8): Trình bày hiện tượng và viết các phương trình hóa học của 3 thí nghiệm.
+    </string>
+    <string name="c5_5_result">
+        *Bài 1 (trang 120 SGK Hóa 8):
+         \n\nThí nghiệm 1
+        \n\n- Có bọt khí thoát ra từ mặt viên kẽm, mảnh kẽm tan dần.
+        \n\n- Đốt khí thoát ra từ đầu ống thí nghiệm, khí cháy trong không khí với ngọn lửa xanh mờ (khí H2)
+        \n\nPhương trình hóa học:
+        \n\nZn + 2HCl → ZnCl2 + H2.
+        \n\n2H2 + O2 → 2H2O.
+        \n\nThí nghiệm 2
+        \n\n- Khí hiđro sinh ra theo ống dẫn khí vào đẩy không khí,đẩy nước ra và chiếm chỗ trong lọ.
+        \n\n- Đưa lọ đựng khí hiđro lại gần ngọn lửa đèn cồn: nếu hiđro tinh khiết chỉ nghe tiếng nổ nhỏ.
+        \n\nThí nghiệm 3
+        \n\n- CuO từ màu đen chuyển dần thành màu đỏ (đồng kim loại) đồng thời có hơi nước thoát ra.
+        \n\n- Phương trình hóa học:
+        \n\nCuO + H2 → Cu + H2O.
+    </string>
+
+    <string name="c5_6_question">
+        *Bài 1 ( Trang 125 SGK Hóa 8 ): Dùng từ, cụm từ trong khung để điền vào chỗ trống trong các câu sau:
+        \n\nOxit axit, oxit bazơ, nguyên tố, hiđro, oxi, kim loại
+        \n\nNước là hợp chất tạo bởi hai .... là .... và .... Nước tác dụng với một số .... ở nhiệt độ thường và một số .... tạo ra bazơ; tác dụng với nhiều .... tạo ra axit.
+
+        \n\n\n*Bài 2 ( Trang 125 SGK Hóa 8 ): Bằng những phương pháp nào có thể chứng minh được thành phần định tính và định lượng của nước? Viết các phương trình hóa học xảy ra?
+
+        \n\n\n*Bài 3 ( Trang 125 SGK Hóa 8 ): Tính thể tích khí hiđro và oxi(đktc) cần tác dụng với nhau để tạo ra được 1,8g nước.
+
+        \n\n\n*Bài 4 ( Trang 125 SGK Hóa 8 ): Tính khối lượng nước ở trạng thái lỏng sẽ thu được khí đốt cháy hoàn toàn 112l khí hiđro (đktc) với oxi?
+
+        \n\n\n*Bài 5 ( Trang 125 SGK Hóa 8 ): Viết phương trình các phản ứng hóa học tao ra bazơ và axit. Làm thế nào để nhận biết được dung dịch axit và dung dịch bazơ?
+
+        \n\n\n*Bài 6 ( Trang 125 SGK Hóa 8 ): Hãy kể tên những dẫn chứng về vai trò quan trọng của nước trong đời sống mà em nhìn thấy trực tiếp? Nêu những biện pháp chống ô nhiễm ở địa phương em?
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Hòa tan 21,3 gam P2O5 vào nước dư, thu được m gam H3PO4. Tính m
+        \n\nA. 14,7.
+        \n\nB. 29,4.
+        \n\nC. 44,1.
+        \n\nD. 19,6.
+        \n\n (-) Bài 2: Hòa tan V lít khí SO3 (đktc) gam vào nước dư, thu được 49 gam H2SO4.
+        \n\nTính V
+        \n\nA. 11,2.
+        \n\nB. 22,4.
+        \n\nC. 16,8.
+        \n\nD. 19,6.
+        \n\n (-) Bài 3: Hòa tan hỗn hợp gồm (28,4 gam P2O5 và 12 gam SO3) vào nước dư, thu được m gam hỗn hợp gồm (H3PO4 và H2SO4). Tính m
+        \n\nA. 39,2 gam.
+        \n\nB. 34,3 gam.
+        \n\nC. 35,9 gam.
+        \n\nD. 53,9 gam.
+        \n\n (-) Bài 4: Hòa tan 11,28 gam K2O vào nước dư, thu được m gam KOH. Tính m
+        \n\nA. 6,72 gam.
+        \n\nB. 13,44 gam.
+        \n\nC. 8,4 gam.
+        \n\nD. 8,96 gam
+        \n\n (-) Bài 5: Hòa tan hỗn hợp gồm (12,4 gam Na2O và 15,3 gam BaO) vào nước dư, thu được m gam hỗn hợp gồm NaOH và Ba(OH)2. Tính m
+        \n\nA. 33,1 gam.
+        \n\nB. 17,1 gam.
+        \n\nC. 49,65 gam.
+        \n\nD. 26,48 gam.
+
+    </string>
+    <string name="c5_6_result">
+        *Bài 1 ( Trang 125 SGK Hóa 8 ):
+        \n\nNước là hợp chất tạo bởi hai nguyên tố là oxi và hiđro. Nước tác dụng với một số kim loại ở nhiệt độ thường và một số oxit bazơ tạo nên bazơ; tác dụng với oxit axit tạo ra axit.
+
+        \n\n\n*Bài 2 ( Trang 125 SGK Hóa 8 ):
+        \n\nBằng phương pháp phân hủy nước bằng dòng điện hoặc tổng hợp nước (thực nghiệm) để chứng minh thành phần định tính và định lượng của nước
+        \n\nPTHH: 2H2O → 2H2 + O2
+        \n\n2H2 + O2 → 2H2O
+
+        \n\n\n*Bài 3 ( Trang 125 SGK Hóa 8 ):
+        \n\n n_H2O = 0,1 (mol)
+        \n\n n_O2 = 0,05 (mol)
+        \n\n => V_O2 = 1,1 (l)
+        \n\n n_H2 = n_H2O = 0,1 (mol)
+        \n\n V_H2O = 0,1.22,4 = 2,24 (l)
+
+         \n\n\n*Bài 4 ( Trang 125 SGK Hóa 8 ):
+        \n\n n_H2 = 5 (mol)
+        \n\nPhương trình phản ứng tổng hợp nước:
+        \n\n2H2 + O2 → 2H2O.
+        \n\nTheo pt: n_H2O = n_H2 = 5 (mol).
+        \n\nm_H2O= 5.18 = 90g.
+        \n\nKhối lượng riêng của nước là 1g/ml thể tích nước lỏng thu được là 90ml.
+
+         \n\n\n*Bài 5 ( Trang 125 SGK Hóa 8 ):
+        \n\nPhương trình các phản ứng tạo ra bazơ và axit:
+        \n\n2Na + 2H2O → 2NaOH + H2.
+        \n\nNa2O + H2O → 2NaOH.
+        \n\nSO3 + H2O → H2SO4.
+        \n\nP2O5 + 3H2O → 2H3PO4.
+        \n\n* Nhận biết dung dịch axit:
+        \n\n- Quỳ tím hóa đỏ.
+        \n\n- Tác dụng với kim loại, muối cacbonat có khí bay lên.
+        \n\n* Nhận biết dung dịch bazơ:
+        \n\n- Quỳ tím hóa xanh.
+        \n\n- Phenolphtalein không màu chuyển sang màu hồng.
+
+        \n\n\n*Bài 6 ( Trang 125 SGK Hóa 8 ):
+        \n\nVai trò: Nước hòa tan nhiều chất dinh dưỡng cần thiết cho cơ thể sống. Nước cũng tham gia vào nhiều quá trình hóa học quan trọng trong cơ thể người và động vật. Nước rất cần thiết cho đời sống hàng ngày, sản xuất nông nghiệp, công nghiệp, xây dựng, giao thông vận tải ...
+        \n\nBiện pháp chống ô nhiễm: Không xả rác ra nguồn nước. Phải xử lí nước thải sinh hoạt và nước thải công nghiệp khi cho nước thải chảy vào hồ, sông, biển...
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: B
+        \n\n (-) Bài 2: A
+        \n\n (-) Bài 3: D
+        \n\n (-) Bài 4: B
+        \n\n (-) Bài 5: A
+
+
+
+    </string>
+
+    <string name="c5_7_question">
+        *Bài 1 ( Trang 130 SGK Hóa 8 ): Hãy chép vào vở bài tập các câu sau đây và thêm vào chỗ trống những từ thích hợp
+        \n\nAxit là hợp chất mà phân tử gồm có một hay nhiều .... liên kết với .... Các nguyên tử hiđro này có thể thay thế bằng ....
+        \n\nBazơ là hợp chất mà phân tử có một .... liên kết với một hay nhiều nhóm ....
+
+        \n\n\n*Bài 2 ( Trang 130 SGK Hóa 8 ):  Hãy viết công thức hóa học của các axit có gốc axit cho dưới đây và cho biết tên của chúng:
+        \n\n-Cl, =SO3 , =SO4 , -HSO4 , =CO3 , ≡PO4 , =S, -Br, -NO3.
+
+
+        \n\n\n*Bài 3 ( Trang 130 SGK Hóa 8 ): Hãy viết công thức hóa học của những oxit axit tương ứng với những axit sau: H2SO4, H2SO3, H2CO3, HNO3, H3PO4.
+
+        \n\n\n*Bài 4 ( Trang 130 SGK Hóa 8 ):  Viết công thức hóa học của bazơ tương ứng với các oxit sau đây:
+        \n\nNa2O, Li2O, FeO, BaO, CuO, Al2O3.
+
+        \n\n\n*Bài 5 ( Trang 130 SGK Hóa 8 ):   Viết công thức hóa học của oxit tương ứng với các bazơ sau đây:
+        \n\nCa(OH)2, Mg(OH)2, Zn(OH)2, Fe(OH)2.
+
+        \n\n\n*Bài 6 ( Trang 130 SGK Hóa 8 ):    Đọc tên của những chất có công thức hóa học ghi dưới đây:
+        \n\na) HBr, H2SO3, H3PO4, H2SO4.
+        \n\nb) Mg(OH)2, Fe(OH)3, Cu(OH)2.
+        \n\nc) Ba(NO3)2, Al2(SO4)3, Na2SO3, ZnS, Na2HPO4, NaH2PO4.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1: Oxit tương ứng với axit H2SO3 là
+        \n\nA. SO2.
+        \n\nB. SO3.
+        \n\nC. SO.
+        \n\nD. CO2.
+        \n\n (-) Bài 2: Cho các chất sau: H2SO4, HCl, NaCl, CuSO4, NaOH, Mg(OH)2. Số chất thuộc loại axit là:
+        \n\nA. 1
+        \n\nB. 2
+        \n\nC. 3
+        \n\nD. 4
+        \n\n (-) Bài 3: Dãy dung dịch nào dưới đây làm đổi màu quỳ tím thành xanh?
+        \n\nA. NaOH, BaCl2, H3PO4, KOH.
+        \n\nB. NaOH, Na2SO4, KCl, KOH.
+        \n\nC. NaOH, Ba(OH)2, Ca(OH)2, KOH.
+        \n\nD. NaOH, Ca(NO3)2, KOH, H2SO4.
+        \n\n (-) Bài 4: Tên gọi của Al(OH)3 là:
+        \n\nA. Nhôm (III) hidroxit.
+        \n\nB. Nhôm hidroxit.
+        \n\nC. Nhôm (III) oxit.
+        \n\nD. Nhôm oxit.
+        \n\n (-) Bài 5: Cho 0,1 mol NaOH tác dụng với 0,2 mol HCl, sản phẩm sinh ra sau phản ứng là muối NaCl và nước. Khối lượng muối NaCl thu được là
+        \n\nA. 11,7 gam.
+        \n\nB. 5,85 gam.
+        \n\nC. 4,68 gam.
+        \n\n (-) Bài 6: Khối lượng muối thu được khi cho 9,75 gam kẽm tác dụng với 9,8 gam axit sunfuric (H2SO4) là
+        \n\nA. 24,15 gam
+        \n\nB. 19,32 gam
+        \n\nC. 16,1 gam
+        \n\nD. 17,71 gam
+
+
+
+
+    </string>
+    <string name="c5_7_result">
+        *Bài 1 ( Trang 130 SGK Hóa 8 ):
+        \n\nAxit là hợp chất mà phân tử gồm có một hay nhiều nguyên tử hiđro liên kết với gốc axit. Các nguyên tử hiđro này có thể thay thế bằng nguyên tử kim loại.
+        \n\nBazơ là hợp chất mà phân tử có một nguyên tử kim loại liên kết với 1 hay nhiều nhóm hiđroxit (-OH).
+
+        \n\n\n*Bài 2 ( Trang 130 SGK Hóa 8 ):
+        \n\nCông thức hóa học của các axit là:
+        \n\nHCl: axit clohidric.
+        \n\nH2SO4: axit sunfuric.
+        \n\nH2SO3: axit sunfurơ.
+        \n\nH2CO3: axit cacbonic.
+        \n\nH3PO4: axit photphoric.
+        \n\nH2S: axit sunfuhiđric.
+        \n\nHBr: axit bromhiđric.
+        \n\nHNO3: axit nitric.
+
+        \n\n\n*Bài 3 ( Trang 130 SGK Hóa 8 ):
+        \n\nCông thức hóa học của những oxit axit tương ứng với các axit là:
+        \n\nH2SO4 oxit axit là: SO3.
+        \n\nH2SO3 oxit axit là: SO2.
+        \n\nH2CO3 oxit axit là: CO2.
+        \n\nHNO3 oxit axit là: NO2.
+        \n\nH3PO4 oxit axit là: P2O5.
+
+        \n\n\n*Bài 4 ( Trang 130 SGK Hóa 8 ):
+        \n\nCông thức hóa học của các bazơ tương ứng với các oxit là:
+        \n\nNaOH tương ứng với Na2O.
+        \n\nLiOH tương ứng với Li2O.
+        \n\nCu(OH)2 tương ứng với CuO.
+        \n\nFe(OH)2 tương ứng với FeO.
+        \n\nBa(OH)2 tương ứng với BaO.
+        \n\nAl(OH)3 tương ứng với Al2O3.
+
+        \n\n\n*Bài 5 ( Trang 130 SGK Hóa 8 ):
+        \n\nCaO tương ứng với Ca(OH)2.
+        \n\nMgO tương ứng với Mg(OH)2.
+        \n\nZnO tương ứng với Zn(OH)2.
+        \n\nFeO tương ứng với Fe(OH)2.
+
+        \n\n\n*Bài 6 ( Trang 130 SGK Hóa 8 ):
+        \n\nĐọc tên các chất
+        \n\na) Axit bromhiđric, axit sunfurơ, axit photphoric, axit sunfuric.
+        \n\nb) Magie hiđroxit, sắt(III) hiđroxit, đồng(II) hiđroxit.
+        \n\nc) Bari nitrat, nhôm sunfat, natri sunfit, kẽm sunfua, natri hiđrophotphat, natri đihiđrophotphat.
+
+        \n\n\n*Bài tập tự luyện
+        \n\n (-) Bài 1:
+        \n\nOxit tương ứng với axit H2SO3 là SO2
+        \n\nĐáp án cần chọn là: A
+        \n\n (-) Bài 2:
+        \n\n Các chất thuộc loại axit là: H2SO4, HCl →→ có 2 chất
+        \n\n Đáp án cần chọn là: B
+        \n\n (-) Bài 3:
+        \n\nDãy dung dịch làm đổi màu quỳ tím thành xanh là dãy gồm các dung dịch bazơ: NaOH, Ba(OH)2, Ca(OH)2, KOH
+        \n\nĐáp án cần chọn là: C
+        \n\n (-) Bài 4:
+        \n\nAl(OH)3: nhôm hidroxit
+        \n\nĐáp án cần chọn là: B ( Chú ý: Không gọi là Nhôm (III) hidroxit vì nhôm chỉ có 1 hóa trị III. Cách gọi này chỉ ứng với kim loại có nhiều hóa trị (
+        \n\n (-) Bài 5: (GỢI Ý)
+        \n\n=> tính số mol NaCl theo NaOH
+        \n\nPTHH:     NaOH   +   HCl → NaCl + H2O
+        \n\nTỉ lệ PT:  1mol          1mol      1mol
+        \n\nP/ứng:      0,1mol        →         0,1mol
+        \n\n=> Khối lượng muối NaCl thu được là: mNaCl = 0,1.58,5 = 5,85 gam
+        \n\nĐáp án cần chọn là: B
+        \n\n (-) Bài 6: C
+
+    </string>
+
+    <string name="c5_8_question">
+        *Bài 1 ( Trang 131 SGK Hóa 8 ): Tương tự như natri, các kim loại kali K và canxi Ca cũng tác dụng được với nước tạo thành bazơ tan và giải phóng khí hiđro.
+        \n\na) Hãy viết các phương trình phản ứng xảy ra.
+        \n\nb) Các phản ứng hóa học trên thuộc loại phản ứng hóa học nào?
+
+        \n\n\n*Bài 2 ( Trang 132 SGK Hóa 8 ): Hãy lập phương trình hóa học của những phản ứng có sơ đồ sau đây:
+        \n\na) Na2O + H2O → NaOH.
+        \n\nK2O + H2O → KOH.
+        \n\nb) SO2 + H2O → H2SO3.
+        \n\nSO3 + H2O → H2SO4.
+        \n\nN2O5 + H2O → HNO3.
+        \n\nc) NaOH + HCl → NaCl + H2O.
+        \n\nAl(OH)3 + H2SO4 → Al2(SO4)3 + H2O.
+        \n\nd)Chỉ ra loại chất tạo thành ở a), b), c) là gì? Nguyên nhân có sự khác nhau ở a) và b)
+        \n\ne) Gọi tên các chất tạo thành.
+
+        \n\n\n*Bài 3 ( Trang 132 SGK Hóa 8 ): Viết công thức hóa học của những muối có tên gọi dưới đây:
+        \n\nĐồng (II) clorua, kẽm sunfat, sắt (III) sunfat, magie Hiđrocacbonat, canxi photphat, natri hiđrophotphat, natri đihiđrophotphat.
+
+        \n\n\n*Bài 4 ( Trang 132 SGK Hóa 8 ):  Cho biết khối lượng mol của một oxit kim loại là 160gam, thành phần về khối lượng của kim loại trong oxit đó là 70%. Lập công thức hóa học của oxit. Gọi tên oxit kim loại đó.
+
+        \n\n\n*Bài 5 ( Trang 132 SGK Hóa 8 ):   Nhôm (III) oxit tác dụng với axit sunfuric theo phương trình phản ứng sau :
+        \n\nAl2O3 + 3H2SO4 → Al2(SO4)3 + 3H2O
+        \n\nTính lượng muối nhôm sunfat được tạo thành nếu đã sử dụng 49g axit sunfuric nguyên chất tác dụng với 60g nhôm oxit. Sau phản ứng chất nào còn dư ? Lượng dư của chất đó là bao nhiêu ?
+
+
+
+
+
+
+
+
+    </string>
+    <string name="c5_8_result">
+        *Bài 1 ( Trang 131 SGK Hóa 8 ):
+        \n\na) Phương trình phản ứng xảy ra là:
+        \n\n2K + 2H2O → 2KOH + H2.
+        \n\nCa + 2H2O → Ca(OH)2 + H2.
+        \n\nb) Các phản ứng trên thuộc loại phản ứng oxi hóa – khử.
+
+        \n\n\n*Bài 2 ( Trang 132 SGK Hóa 8 ):
+        \n\nPhương trình hóa học của phản ứng
+        \n\na) Na2O + H2O→ 2NaOH. Natri hiđroxit.
+        \n\nK2O + H2O → 2KOH
+        \n\nb) SO2 + H2O → H2SO3. Axit sunfurơ.
+        \n\nSO3 + H2O → H2SO4. Axit sunfuric.
+        \n\nN2O5 + H2O → 2HNO3. Axit nitric.
+        \n\nc) NaOH + HCl → NaCl + H2O. Natri clorua.
+        \n\n2Al(OH)3 + 3H2SO4 → Al2(SO4)3 + 6H2O. Nhôm sunfat.
+        \n\nd) Loại chất tạo thành ở a) (NaOH, KOH) là bazơ
+        \n\nChất tan ở b) (H2SO4, H2SO3, HNO3) là axit
+        \n\nChất tạo ra ở c(NaCl, Al2(SO4)3 là muối.
+        \n\nNguyên nhân của sự khác biệt là ở câu a) và câu b: oxit bazơ tác dụng với nước tạo bazơ; còn oxit của phi kim tác dụng với nước tạo ra axit
+        \n\ne) Gọi tên sản phẩm
+        \n\nNaOH: natri hiđroxit
+        \n\nKOH: kali hiđroxit
+        \n\nH2SO3: axit sunfurơ
+        \n\nH2SO4: axit sunfuric
+        \n\nHNO3: axit nitric
+        \n\nNaCl: natri clorua
+        \n\nAl2(SO4)3: nhôm sunfat
+
+         \n\n\n*Bài 3 ( Trang 132 SGK Hóa 8 ):
+        \n\nCông thức hóa học của những muối:
+        \n\nCuCl2, ZnSO4, Fe2(SO4)3, Mg(HCO3)2, Ca3(PO4)2, Na2HPO4; NaH2PO4.
+
+        \n\n\n*Bài 4 ( Trang 132 SGK Hóa 8 ):
+        \n\nĐặt công thức của oxit kim loại là MxOy
+        \n\n%m_O = 100% - 70% = 30%
+        \n\n⇒ m_O = 12y = 160.30% = 48
+        \n\n⇒ y = 3
+        \n\nm_M = 160.70% = 112g = M.x (với M là phân tử khối của kim loại M)
+        \n\nÁp dụng quy tắc hóa trị ta có:
+        \n\na.x = 2.3 = 6 (với a là hóa trị của M; a = 1; 2; 3)
+        \n\n⇒ M là kim loại Sắt.
+        \n\nVậy công thức hóa học của oxit kim loại là Fe2O3 (Sắt (III) oxit).
+
+
+        \n\n\n*Bài 5 ( Trang 132 SGK Hóa 8 ): (GỢI Ý)
+        \n\nAl2O3 + 3H2SO4 → Al2(SO4)3 + 3H2O
+        \n\n n_H2SO4 = 49/98 = 0,5 (mol)
+        \n\n n_Al2O3 = 60/102 = 0,59 (mol)
+        \n\n => m_Al2O3 (dư) = 60 - 17 = 43(g).
+
+    </string>
+
+    <string name="c5_9_question">
+        *Bài 1 (trang 133 SGK Hóa 8): Nêu hiện tượng quan sát được, giải thích và viết phương trình hóa học của các phản ứng xảy ra trong ba thí nghiệm trên.
+
+
+    </string>
+    <string name="c5_9_result">
+        *Bài 1 (trang 133 SGK Hóa 8):
+        \n\n(-) Thí nghiệm 1
+        \n\n+ Hiện tượng
+        \n\nMiếng Na tan dần.
+        \n\nCó khí thoát ra.
+        \n\nMiếng giấy lọc có tẩm phenolphtalein đổi thành màu đỏ.
+        \n\n+ Phương trình hóa học: 2Na + H2O → 2NaOH + H2.
+        \n\n+ Giải thích: Do Na phản ứng rất mạnh với nước tạo dung dịch bazo làm phenol chuyển hồng, phản ứng giải phóng khí H2.
+        \n\n(-) Thí nghiệm 2
+        \n\n+ Hiện tượng: Mẩu vôi nhão ra và tan dần
+        \n\nPhản ứng tỏa nhiều nhiệt.
+        \n\nDung dịch đổi quỳ tím thành màu xanh (nếu dùng phenolphtalein thì đổi thành màu đỏ)
+        \n\n+ Phương trình hóa học: CaO + H2O → Ca(OH)2.
+        \n\n+ Giải thích: CaO tan trong nước tạo dung dịch Ca(OH)2 có tính bazo làm quỳ tím chuyển xanh (phenolphtalein chuyển hồng), phản ứng tỏa nhiệt.
+        \n\n(-) Thí nghiệm 3
+        \n\n+ Hiện tượng: Photpho cháy sáng.
+        \n\nCó khói màu trắng tạo thành.
+        \n\nSau khi lắc khói màu trắng tan hết.
+        \n\nDung dịch làm quỳ tím chuyển thành màu đỏ.
+        \n\n4P + 5O2 → 2P2O5
+        \n\nP2O5 + 3H2O → 2H3PO4.
+        \n\n+ Giải thích: Photpho đỏ phản ứng mạnh với khí Oxi tạo khói trắng là P2O5. P2O5 là oxit axit, tan trong nước tạo dung dịch axit H3PO4 là quỳ tím chuyển đỏ.
+
+    </string>
+
+
+
+
+
+
 </resources>

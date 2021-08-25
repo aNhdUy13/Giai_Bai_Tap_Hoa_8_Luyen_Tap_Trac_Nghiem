@@ -62,9 +62,126 @@ public class ShowTask_Result extends AppCompatActivity {
         chuong1();
         chuong2();
         chuong3();
+        chuong4();
+        chuong5();
+
+    }
+    private void chuong5() {
+        if (chuongDetailSignal.equals("c5_1"))
+        {
+            question = getResources().getString(R.string.c5_1_question);
+            result = getResources().getString(R.string.c5_1_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c5_2"))
+        {
+            question = getResources().getString(R.string.c5_2_question);
+            result = getResources().getString(R.string.c5_2_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c5_3"))
+        {
+            question = getResources().getString(R.string.c5_3_question);
+            result = getResources().getString(R.string.c5_3_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c5_4"))
+        {
+            question = getResources().getString(R.string.c5_4_question);
+            result = getResources().getString(R.string.c5_4_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c5_5"))
+        {
+            question = getResources().getString(R.string.c5_5_question);
+            result = getResources().getString(R.string.c5_5_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c5_6"))
+        {
+            question = getResources().getString(R.string.c5_6_question);
+            result = getResources().getString(R.string.c5_6_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c5_7"))
+        {
+            question = getResources().getString(R.string.c5_7_question);
+            result = getResources().getString(R.string.c5_7_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c5_8"))
+        {
+            question = getResources().getString(R.string.c5_8_question);
+            result = getResources().getString(R.string.c5_8_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c5_9"))
+        {
+            question = getResources().getString(R.string.c5_9_question);
+            result = getResources().getString(R.string.c5_9_result);
+            showQuesResult(question, result);
+        }
 
     }
 
+    private void chuong4()
+    {
+        if (chuongDetailSignal.equals("c4_1"))
+        {
+            question = getResources().getString(R.string.c4_1_question);
+            result = getResources().getString(R.string.c4_1_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c4_2"))
+        {
+            question = getResources().getString(R.string.c4_2_question);
+            result = getResources().getString(R.string.c4_2_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c4_3"))
+        {
+            question = getResources().getString(R.string.c4_3_question);
+            result = getResources().getString(R.string.c4_3_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c4_4"))
+        {
+            question = getResources().getString(R.string.c4_4_question);
+            result = getResources().getString(R.string.c4_4_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c4_5"))
+        {
+            question = getResources().getString(R.string.c4_5_question);
+            result = getResources().getString(R.string.c4_5_result);
+            showQuesResult(question, result);
+        }
+
+        if (chuongDetailSignal.equals("c4_6"))
+        {
+            question = getResources().getString(R.string.c4_6_question);
+            result = getResources().getString(R.string.c4_6_result);
+            showQuesResult(question, result);
+        }
+        if (chuongDetailSignal.equals("c4_7"))
+        {
+            question = getResources().getString(R.string.c4_7_question);
+            result = getResources().getString(R.string.c4_7_result);
+            showQuesResult(question, result);
+        }
+    }
     private void chuong3()
     {
         if (chuongDetailSignal.equals("c3_1"))
