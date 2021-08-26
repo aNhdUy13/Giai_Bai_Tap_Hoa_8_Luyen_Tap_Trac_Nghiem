@@ -3,7 +3,7 @@
     package="com.nda.giai_bai_tap_hoa_lop_8">
 
     <uses-permission android:name="android.permission.ACTION_MANAGE_OVERLAY_PERMISSION" />
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
@@ -14,11 +14,27 @@
         android:roundIcon="@mipmap/app_logo_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Giai_Bai_Tap_Hoa_Lop_8">
-        <activity android:name=".fn.ShowTask_Result.ShowTask_Result"
+
+        <activity android:name=".fn.TracNghiem.DoneExam.ExamFinished"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"/>
+
+        <activity android:name=".fn.TracNghiem.DetailTracNghiem.ScreenSlideActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"/>
+
+        <activity android:name=".fn.Settings.SettingsSystem"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"/>
+
+        <activity android:name=".fn.TracNghiem.TracNghiemSystem"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"/>
+
+        <activity
+            android:name=".fn.ShowTask_Result.ShowTask_Result"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+
         <activity
             android:name=".fn.DetailChuong.DetailChuong"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+
         <activity
             android:name=".MainActivity"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
@@ -29,7 +45,7 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".fn.Widget.FloatingWindowGFG"/>
+        <service android:name=".fn.Widget.FloatingWindowGFG" />
 
         <meta-data
             android:name="com.startapp.sdk.APPLICATION_ID"

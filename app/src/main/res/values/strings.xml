@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Giải Bài Tập Hóa 8</string>
-
+    <string name="share_subject">Giải Bài Tập Hóa 8</string>
+    <string name="share_using">Giải Bài Tập Hóa 8</string>
     <!--
         Chương 1
     -->
@@ -919,7 +920,6 @@
         \n\nPhân tử khối : 27.2 + (32 + 16 x 4).3 = 342 đvC
 
     </string>
-
 
 
     <!--
@@ -4110,6 +4110,7 @@
         \n\nPha chế: Đong lấy 62,5 ml dung dịch NaOH 2M cho vào cốc chia độ có dung tích 500ml. Thêm từ  nước cất vào cốc đến vạch 250 ml và khuấy đều ta được 250 ml dung dịch 0,5M.
 
     </string>
+
 
 
 </resources>

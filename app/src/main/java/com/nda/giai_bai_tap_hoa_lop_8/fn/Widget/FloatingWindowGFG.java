@@ -30,7 +30,7 @@ public class FloatingWindowGFG extends Service {
     private int LAYOUT_TYPE;
     private WindowManager.LayoutParams floatWindowLayoutParam;
     private WindowManager windowManager;
-    private ImageView img_closeWidget;
+    private ImageView img_closeWidget, img_cancelWidget;
     String title, question, result;
     Bundle bundle;
     TextView txt_title, txt_task_question, txt_task_result;
@@ -64,6 +64,7 @@ public class FloatingWindowGFG extends Service {
         floatView = (ViewGroup) inflater.inflate(R.layout.layout_floating_widget, null);
 
         img_closeWidget = floatView.findViewById(R.id.img_closeWidget);
+        img_cancelWidget = floatView.findViewById(R.id.img_cancelWidget);
         txt_title               = floatView.findViewById(R.id.txt_title);
         txt_task_question       = floatView.findViewById(R.id.txt_task_question);
         txt_task_result         = floatView.findViewById(R.id.txt_task_result);
@@ -116,6 +117,19 @@ public class FloatingWindowGFG extends Service {
         windowManager.addView(floatView, floatWindowLayoutParam);
 
 
+        // Close the widget as well as the app
+        img_cancelWidget.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // stopSelf() method is used to stop the service if
+                // it was previously started
+                stopSelf();
+
+                // The window is removed from the screen
+                windowManager.removeView(floatView);
+            }
+        });
+
         // The button that helps to maximize the app
         img_closeWidget.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -137,7 +151,7 @@ public class FloatingWindowGFG extends Service {
                 // Instead the task will be brought back to the front just like the MainActivity here
                 // 2) FLAG_ACTIVITY_CLEAR_TASK can be used in the conjunction with FLAG_ACTIVITY_NEW_TASK. This flag will
                 // kill the existing task first and then new activity is started.
-                backToHome.addFlags(Intent.FLAG_ACTIVITY_BROUGHT_TO_FRONT | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                backToHome.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(backToHome);
             }
         });

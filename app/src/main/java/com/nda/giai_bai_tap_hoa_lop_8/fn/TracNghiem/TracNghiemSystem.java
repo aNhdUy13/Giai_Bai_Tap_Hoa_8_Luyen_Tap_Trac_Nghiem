@@ -1,4 +1,4 @@
-package com.nda.giai_bai_tap_hoa_lop_8.fn.DetailChuong;
+package com.nda.giai_bai_tap_hoa_lop_8.fn.TracNghiem;
 
 import androidx.annotation.Nullable;
 import androidx.annotation.UiThread;
@@ -8,7 +8,6 @@ import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.JsonReader;
@@ -37,22 +36,19 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DetailChuong extends AppCompatActivity {
+public class TracNghiemSystem extends AppCompatActivity {
     /**
-     *  Class fn + Set data to RCV
+     * Activity fn
      */
-    RecyclerView rcv_showTopic;
     ImageView imgBack;
     TextView txt_title;
-    List<Chuong> chuongList;
-    AdapterDetailChuong mAdapterDetailChuong;
 
     /**
-     *  Get push data from main
+     * Setup RCV
      */
-    Intent intent;
-    Bundle bundle;
-    String chuongNumber, title;
+    RecyclerView rcv_showTracNghiemTopic;
+    List<TracNghiem> tracNghiemList;
+    AdapterTracNghiem mAdapterTracNghiem;
     /**
      Regarding native ads
      */
@@ -61,130 +57,79 @@ public class DetailChuong extends AppCompatActivity {
     protected AdapterWithNativeAd adapter;
     RecyclerView rcv_nativeAds;
     CardView cv_nativeAds;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail_chuong);
+        setContentView(R.layout.activity_trac_nghiem_system);
         mapting();
-        setupRecycleView();
-
         initiate();
+        setupRecycleView();
         nativeAds();
 
     }
-    private void setupRecycleView() {
-        chuongList  = new ArrayList<>();
-        mAdapterDetailChuong = new AdapterDetailChuong(this,chuongList);
-        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this,RecyclerView.VERTICAL,false);
-        rcv_showTopic.setLayoutManager(linearLayoutManager);
-        rcv_showTopic.setAdapter(mAdapterDetailChuong);
 
-    }
-    private void initiate()
-    {
-        /**
-         * Class fn
-         */
+    private void initiate() {
         imgBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                chuongList.clear();
-                startActivity(new Intent(DetailChuong.this, MainActivity.class));
+                finish();
             }
         });
-
-        /**
-         *  Receive data from main
-         */
-        intent = getIntent();
-        bundle = intent.getExtras();
-
-        if (bundle.containsKey("c1"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title, chuongNumber);
-        }
-        if (bundle.containsKey("c2"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
-        if (bundle.containsKey("c3"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
-        if (bundle.containsKey("c4"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
-        if (bundle.containsKey("c5"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
-        if (bundle.containsKey("c6"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
     }
 
-    private void readChuongDetail(String title, String chuongNumber) {
-        txt_title.setText(title);
+    private void setupRecycleView()
+    {
+        rcv_showTracNghiemTopic = (RecyclerView) findViewById(R.id.rcv_showTracNghiemTopic);
+        tracNghiemList  = new ArrayList<>();
+        mAdapterTracNghiem = new AdapterTracNghiem(this,tracNghiemList);
+        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this,RecyclerView.VERTICAL,false);
+        rcv_showTracNghiemTopic.setLayoutManager(linearLayoutManager);
+        rcv_showTracNghiemTopic.setAdapter(mAdapterTracNghiem);
 
-        InputStream inputStream = getResources().openRawResource(R.raw.task_topic);
+        readTracNghiemTopic();
+    }
+    private void readTracNghiemTopic() {
+
+        InputStream inputStream = getResources().openRawResource(R.raw.trac_nghiem_topic);
         BufferedReader bufferedReader = new BufferedReader(
                 new InputStreamReader(inputStream, Charset.forName("UTF-8"))
         );
 
-        Chuong chuong;
         String line;
         try {
             while ((line = bufferedReader.readLine()) != null)
             {
                 String[] split =  line.split(";");
-
-                if (split[0].equals(chuongNumber))
+                TracNghiem tracNghiem;
+//||
+                if (split[0].length() > 0  && split[1].length() > 0)
                 {
-                    chuong = new Chuong(split[0],split[1], split[2]);
-                    chuongList.add(chuong);
+                    tracNghiem = new TracNghiem(split[0],split[1], split[2]);
                 }
+                else
+                {
+                    tracNghiem = new TracNghiem("X","X","X");
+                }
+
+                tracNghiemList.add(tracNghiem);
+
             }
-            mAdapterDetailChuong.notifyDataSetChanged();
+            mAdapterTracNghiem.notifyDataSetChanged();
 
         } catch (Exception e)
         {
             Toast.makeText(this, "Có Lỗi Xảy Ra : Load Topic Practice !", Toast.LENGTH_SHORT).show();
         }
 
-
     }
 
-    @Override
-    public void onBackPressed() {
-        chuongList.clear();
-        startActivity(new Intent(DetailChuong.this, MainActivity.class));
-    }
+
 
     private void mapting() {
-        rcv_showTopic   = (RecyclerView) findViewById(R.id.rcv_showTopic);
-        imgBack         = (ImageView) findViewById(R.id.imgBack);
-        txt_title       = (TextView) findViewById(R.id.txt_title);
-    }
+        imgBack = (ImageView) findViewById(R.id.imgBack);
 
+
+    }
     private void nativeAds() {
         // NOTE always use test ads during development and testing
         //StartAppSDK.setTestAdsEnabled(BuildConfig.DEBUG);
@@ -193,15 +138,15 @@ public class DetailChuong extends AppCompatActivity {
 
         cv_nativeAds  = (CardView) findViewById(R.id.cv_nativeAds);
         rcv_nativeAds = (RecyclerView) findViewById(R.id.rcv_nativeAds);
-        rcv_nativeAds.setLayoutManager(new LinearLayoutManager(DetailChuong.this, RecyclerView.VERTICAL, false));
-        rcv_nativeAds.setAdapter(adapter = new AdapterWithNativeAd(DetailChuong.this));
+        rcv_nativeAds.setLayoutManager(new LinearLayoutManager(TracNghiemSystem.this, RecyclerView.VERTICAL, false));
+        rcv_nativeAds.setAdapter(adapter = new AdapterWithNativeAd(TracNghiemSystem.this));
 
         loadData();
         loadNativeAd();
     }
 
     private void loadNativeAd() {
-        final StartAppNativeAd nativeAd = new StartAppNativeAd(DetailChuong.this);
+        final StartAppNativeAd nativeAd = new StartAppNativeAd(TracNghiemSystem.this);
 
         nativeAd.loadAd(new NativeAdPreferences()
                 .setAdsNumber(1)

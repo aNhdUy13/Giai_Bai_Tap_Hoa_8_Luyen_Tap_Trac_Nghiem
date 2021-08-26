@@ -373,21 +373,112 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
-                    android:id="@+id/cv_nativeAds"
+                    android:id="@+id/ic_trac_nghiem"
                     android:layout_marginTop="20dp"
                     app:cardCornerRadius="10dp"
-                    android:visibility="gone"
                     android:backgroundTint="@color/white"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
                     android:layout_width="match_parent"
-                    android:layout_height="100dp">
+                    android:layout_height="90dp">
+
+                    <LinearLayout
+                        android:weightSum="2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.5">
+                            <ImageView
+                                android:padding="23dp"
+                                android:src="@mipmap/ic_quiz"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1.5">
+                            <TextView
+                                android:gravity="center"
+                                android:textSize="17dp"
+                                android:textStyle="bold"
+                                android:padding="10dp"
+                                android:layout_marginRight="10dp"
+
+                                android:text="Trắc Nghiệm"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"/>
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/ic_setting"
+                    android:layout_marginTop="20dp"
+                    app:cardCornerRadius="10dp"
+                    android:backgroundTint="@color/white"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="90dp">
+
+                    <LinearLayout
+                        android:weightSum="2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.5">
+                            <ImageView
+                                android:padding="23dp"
+                                android:src="@mipmap/icon_setting"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1.5">
+                            <TextView
+                                android:gravity="center"
+                                android:textSize="17dp"
+                                android:textStyle="bold"
+                                android:padding="10dp"
+                                android:layout_marginRight="10dp"
+
+                                android:text="Cài Đặt"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"/>
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cv_nativeAds"
+                    android:visibility="gone"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    app:cardCornerRadius="12dp">
 
                     <androidx.recyclerview.widget.RecyclerView
                         android:id="@+id/rcv_nativeAds"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"/>
-
                 </androidx.cardview.widget.CardView>
 
 

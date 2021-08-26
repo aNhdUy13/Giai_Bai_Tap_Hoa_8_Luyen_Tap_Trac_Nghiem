@@ -1,4 +1,4 @@
-package com.nda.giai_bai_tap_hoa_lop_8.fn.DetailChuong;
+package com.nda.giai_bai_tap_hoa_lop_8.fn.Settings;
 
 import androidx.annotation.Nullable;
 import androidx.annotation.UiThread;
@@ -8,19 +8,23 @@ import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.app.Dialog;
+import android.app.SearchManager;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.JsonReader;
 import android.util.JsonToken;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.nda.giai_bai_tap_hoa_lop_8.BuildConfig;
-import com.nda.giai_bai_tap_hoa_lop_8.MainActivity;
 import com.nda.giai_bai_tap_hoa_lop_8.R;
 import com.nda.giai_bai_tap_hoa_lop_8.fn.Ads.AdapterWithNativeAd;
 import com.startapp.sdk.ads.nativead.NativeAdPreferences;
@@ -28,31 +32,21 @@ import com.startapp.sdk.ads.nativead.StartAppNativeAd;
 import com.startapp.sdk.adsbase.Ad;
 import com.startapp.sdk.adsbase.adlisteners.AdEventListener;
 
-import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
-import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DetailChuong extends AppCompatActivity {
+public class SettingsSystem extends AppCompatActivity {
     /**
-     *  Class fn + Set data to RCV
+     * Activity fn
+     * @param savedInstanceState
      */
-    RecyclerView rcv_showTopic;
     ImageView imgBack;
-    TextView txt_title;
-    List<Chuong> chuongList;
-    AdapterDetailChuong mAdapterDetailChuong;
+    CardView cvShareApp,cvTimetable;
 
-    /**
-     *  Get push data from main
-     */
-    Intent intent;
-    Bundle bundle;
-    String chuongNumber, title;
     /**
      Regarding native ads
      */
@@ -65,124 +59,104 @@ public class DetailChuong extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail_chuong);
+        setContentView(R.layout.activity_settings_system);
         mapting();
-        setupRecycleView();
-
         initiate();
         nativeAds();
 
     }
-    private void setupRecycleView() {
-        chuongList  = new ArrayList<>();
-        mAdapterDetailChuong = new AdapterDetailChuong(this,chuongList);
-        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this,RecyclerView.VERTICAL,false);
-        rcv_showTopic.setLayoutManager(linearLayoutManager);
-        rcv_showTopic.setAdapter(mAdapterDetailChuong);
 
-    }
-    private void initiate()
-    {
-        /**
-         * Class fn
-         */
+    private void initiate() {
         imgBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                chuongList.clear();
-                startActivity(new Intent(DetailChuong.this, MainActivity.class));
+                finish();
             }
         });
-
-        /**
-         *  Receive data from main
-         */
-        intent = getIntent();
-        bundle = intent.getExtras();
-
-        if (bundle.containsKey("c1"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title, chuongNumber);
-        }
-        if (bundle.containsKey("c2"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
-        if (bundle.containsKey("c3"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
-        if (bundle.containsKey("c4"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
-        if (bundle.containsKey("c5"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
-        if (bundle.containsKey("c6"))
-        {
-            chuongNumber = intent.getStringExtra("c_number");
-
-            title =intent.getStringExtra("c_title");
-            readChuongDetail(title,chuongNumber);
-        }
-    }
-
-    private void readChuongDetail(String title, String chuongNumber) {
-        txt_title.setText(title);
-
-        InputStream inputStream = getResources().openRawResource(R.raw.task_topic);
-        BufferedReader bufferedReader = new BufferedReader(
-                new InputStreamReader(inputStream, Charset.forName("UTF-8"))
-        );
-
-        Chuong chuong;
-        String line;
-        try {
-            while ((line = bufferedReader.readLine()) != null)
-            {
-                String[] split =  line.split(";");
-
-                if (split[0].equals(chuongNumber))
-                {
-                    chuong = new Chuong(split[0],split[1], split[2]);
-                    chuongList.add(chuong);
-                }
+        shareApp();
+        cvTimetable.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                dialogTimetable();
             }
-            mAdapterDetailChuong.notifyDataSetChanged();
-
-        } catch (Exception e)
-        {
-            Toast.makeText(this, "Có Lỗi Xảy Ra : Load Topic Practice !", Toast.LENGTH_SHORT).show();
-        }
-
-
+        });
     }
 
-    @Override
-    public void onBackPressed() {
-        chuongList.clear();
-        startActivity(new Intent(DetailChuong.this, MainActivity.class));
+    private void dialogTimetable() {
+        Dialog dialog = new Dialog((SettingsSystem.this));
+        dialog.setContentView(R.layout.dialog_timetable);
+        dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
+        Button btn_searchLink_openApp      = (Button) dialog.findViewById(R.id.searchLink_openapp);
+        TextView txtLink            = (TextView) dialog.findViewById(R.id.txtLink);
+        TextView title_app_status         = (TextView) dialog.findViewById(R.id.title_app_status);
+
+
+        String packageName = "com.nda.timetable";
+        if (isPackageAvailable(packageName))
+        {
+            title_app_status.setText("Phần Mềm Tính Điểm\n(ĐÃ TẢI)");
+            btn_searchLink_openApp.setText("Mở Ứng Dụng");
+            btn_searchLink_openApp.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intentOpen = getPackageManager().getLaunchIntentForPackage(packageName);
+                    startActivity(intentOpen);
+                }
+            });
+        }
+        else
+        {
+            btn_searchLink_openApp.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intentSearch = new Intent(Intent.ACTION_WEB_SEARCH);
+                    String term = txtLink.getText().toString();
+                    intentSearch.putExtra(SearchManager.QUERY, term);
+                    startActivity(intentSearch);
+                }
+            });
+        }
+        dialog.show();
+    }
+    private boolean isPackageAvailable(String packageName)
+    {
+        boolean available = true;
+        try{
+            getPackageManager().getPackageInfo(packageName,0);
+        }catch(PackageManager.NameNotFoundException e)
+        {
+            available = false;
+        }
+        return available;
+    }
+
+    private void shareApp() {
+        Intent intent = new Intent(Intent.ACTION_SEND);
+        String shareBody = "";
+        /*The type of the content is text, obviously.*/
+        intent.setType("text/plain");
+        /*Applying information Subject and Body.*/
+        intent.putExtra(android.content.Intent.EXTRA_SUBJECT, getString(R.string.share_subject));
+        intent.putExtra(android.content.Intent.EXTRA_TEXT, shareBody);
+        cvShareApp.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try {
+                    startActivity(Intent.createChooser(intent, getString(R.string.share_using)));
+
+//                    startActivity(sendIntent);
+                } catch (Exception e)
+                { e.printStackTrace();}
+
+            }
+        });
     }
 
     private void mapting() {
-        rcv_showTopic   = (RecyclerView) findViewById(R.id.rcv_showTopic);
-        imgBack         = (ImageView) findViewById(R.id.imgBack);
-        txt_title       = (TextView) findViewById(R.id.txt_title);
+        imgBack = (ImageView) findViewById(R.id.imgBack);
+        cvShareApp  = (CardView) findViewById(R.id.cvShareApp);
+        cvTimetable  = (CardView) findViewById(R.id.cvTimetable);
+
     }
 
     private void nativeAds() {
@@ -193,15 +167,15 @@ public class DetailChuong extends AppCompatActivity {
 
         cv_nativeAds  = (CardView) findViewById(R.id.cv_nativeAds);
         rcv_nativeAds = (RecyclerView) findViewById(R.id.rcv_nativeAds);
-        rcv_nativeAds.setLayoutManager(new LinearLayoutManager(DetailChuong.this, RecyclerView.VERTICAL, false));
-        rcv_nativeAds.setAdapter(adapter = new AdapterWithNativeAd(DetailChuong.this));
+        rcv_nativeAds.setLayoutManager(new LinearLayoutManager(SettingsSystem.this, RecyclerView.VERTICAL, false));
+        rcv_nativeAds.setAdapter(adapter = new AdapterWithNativeAd(SettingsSystem.this));
 
         loadData();
         loadNativeAd();
     }
 
     private void loadNativeAd() {
-        final StartAppNativeAd nativeAd = new StartAppNativeAd(DetailChuong.this);
+        final StartAppNativeAd nativeAd = new StartAppNativeAd(SettingsSystem.this);
 
         nativeAd.loadAd(new NativeAdPreferences()
                 .setAdsNumber(1)
