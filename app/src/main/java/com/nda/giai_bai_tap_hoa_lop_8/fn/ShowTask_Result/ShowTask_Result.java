@@ -1,31 +1,42 @@
 package com.nda.giai_bai_tap_hoa_lop_8.fn.ShowTask_Result;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
+import android.app.Dialog;
 import android.content.Intent;
-import android.media.Image;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
+import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
+import android.provider.Settings;
+import android.view.Gravity;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.nda.giai_bai_tap_hoa_lop_8.R;
+import com.nda.giai_bai_tap_hoa_lop_8.fn.Widget.FloatingWindowGFG;
 
-import org.w3c.dom.Text;
-
-public class ShowTask_Result extends AppCompatActivity {
+public class ShowTask_Result extends AppCompatActivity implements View.OnClickListener {
     /**
      *  Activity fn
      */
-    TextView txt_title, txt_task_question, txt_task_result;
+    TextView txt_title, txt_task_question, txt_task_result,txt_toast;
     Intent intent;
     Bundle bundle;
     String taskTitle, chuongDetailSignal;
-    ImageView imgBack;
+    ImageView imgBack, img_ques, img_close, img_zoom;
     String question;
     String result;
+
+    private static final int SYSTEM_ALERT_WINDOW_PERMISSION = 2084;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,7 +45,11 @@ public class ShowTask_Result extends AppCompatActivity {
         initiate();
 
 
+
+
     }
+
+
 
     private void initiate() {
         imgBack.setOnClickListener(new View.OnClickListener() {
@@ -43,6 +58,20 @@ public class ShowTask_Result extends AppCompatActivity {
                 finish();
             }
         });
+
+        img_ques.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                dialogQues();
+            }
+        });
+        try {
+            img_zoom.setOnClickListener(this);
+        }
+        catch (Exception e)
+        {
+            Toast.makeText(this, "Thiết Bị Không Tương Thích VỚi Tính Năng !", Toast.LENGTH_SHORT).show();
+        }
 
         intent  = getIntent();
         bundle = intent.getExtras();
@@ -56,6 +85,10 @@ public class ShowTask_Result extends AppCompatActivity {
         }
     }
 
+    /**
+     *  Read signal and input data
+     * @param chuongDetailSignal
+     */
     @SuppressLint("SetTextI18n")
     private void readSignal(String chuongDetailSignal) {
 
@@ -391,11 +424,34 @@ public class ShowTask_Result extends AppCompatActivity {
         }
     }
 
+    private void zoomFunction() {
+    }
+
+    /**
+     *  Show Chú Ý
+     */
+    private void dialogQues() {
+        Dialog dialog = new Dialog(ShowTask_Result.this);
+        dialog.setContentView(R.layout.dialog_chu_y);
+        dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
+        img_close   = (ImageView) dialog.findViewById(R.id.img_close);
+        img_close.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                dialog.dismiss();
+            }
+        });
+        dialog.show();
+    }
+
+
+
     private void showQuesResult(String question, String result)
     {
         txt_task_question.setText(question);
         txt_task_result.setText(result);
     }
+
 
     private void mapting() {
         imgBack = (ImageView) findViewById(R.id.imgBack);
@@ -403,5 +459,64 @@ public class ShowTask_Result extends AppCompatActivity {
         txt_task_question      = (TextView) findViewById(R.id.txt_task_question);
         txt_task_result     = (TextView) findViewById(R.id.txt_task_result);
 
+        img_zoom    = (ImageView) findViewById(R.id.img_zoom);
+        img_ques    = (ImageView) findViewById(R.id.img_ques);
+
     }
+
+    @Override
+    public void onClick(View v)
+    {
+        String title,question, result;
+        title =  txt_title.getText().toString().trim();
+        question    = txt_task_question.getText().toString().trim();
+        result      = txt_task_result.getText().toString().trim();
+
+
+        Intent intentService = new Intent(ShowTask_Result.this,FloatingWindowGFG.class);
+        intentService.putExtra("title",title);
+        intentService.putExtra("question",question);
+        intentService.putExtra("result",result);
+
+        Toast toast = new Toast(this);
+        LayoutInflater layoutInflater = getLayoutInflater();
+        View view = layoutInflater.inflate(R.layout.toast_custom_widget, (ViewGroup) findViewById(R.id.toast_custom_widget));
+        toast.setGravity(Gravity.BOTTOM,0,40);
+        toast.setDuration(Toast.LENGTH_LONG);
+        txt_toast   = (TextView) view.findViewById(R.id.txt_toast);
+        toast.setView(view);
+
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M)
+        {
+            startService(intentService);
+            toast.show();
+        }
+        else if(Settings.canDrawOverlays(this))
+        {
+            startService(intentService);
+            toast.show();
+
+        }
+        else
+        {
+            txt_toast.setText("Bạn Cần cẤP QUYỀN Để Sử Dụng Tính Năng");
+            toast.show();
+            askPermission();
+
+
+        }
+
+    }
+
+    @SuppressLint("WrongConstant")
+    @RequiresApi(api = Build.VERSION_CODES.M)
+    private void askPermission() {
+        if (!Settings.canDrawOverlays(this)) {
+            Intent localIntent = new Intent("android.settings.action.MANAGE_OVERLAY_PERMISSION");
+            localIntent.setData(Uri.parse("package:" + getPackageName()));
+            localIntent.setFlags(268435456);
+            startActivity(localIntent);
+        }
+    }
+
 }
