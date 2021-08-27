@@ -132,7 +132,7 @@ public class SettingsSystem extends AppCompatActivity {
 
     private void shareApp() {
         Intent intent = new Intent(Intent.ACTION_SEND);
-        String shareBody = "";
+        String shareBody = "https://play.google.com/store/apps/details?id=com.nda.giai_bai_tap_hoa_lop_8";
         /*The type of the content is text, obviously.*/
         intent.setType("text/plain");
         /*Applying information Subject and Body.*/
