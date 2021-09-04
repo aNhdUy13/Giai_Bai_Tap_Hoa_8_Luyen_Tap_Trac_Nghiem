@@ -21,6 +21,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.ViewFlipper;
 
+import com.google.firebase.components.BuildConfig;
 import com.nda.giai_bai_tap_hoa_lop_8.fn.Ads.AdapterWithNativeAd;
 import com.nda.giai_bai_tap_hoa_lop_8.fn.DetailChuong.DetailChuong;
 import com.nda.giai_bai_tap_hoa_lop_8.fn.Settings.SettingsSystem;
