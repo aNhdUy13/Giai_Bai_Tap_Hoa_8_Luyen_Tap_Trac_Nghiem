@@ -110,11 +110,7 @@
             android:orientation="vertical"
             android:gravity="center"
             android:layout_weight="8.7">
-            <com.startapp.sdk.ads.banner.banner3d.Banner3D
 
-                android:layout_marginTop="6dp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
             <androidx.viewpager.widget.ViewPager
                 android:id="@+id/pager"
                 android:layout_marginTop="10dp"

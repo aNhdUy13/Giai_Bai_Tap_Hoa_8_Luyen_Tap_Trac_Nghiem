@@ -49,17 +49,6 @@
 
         <service android:name=".fn.Widget.FloatingWindowGFG" />
 
-        <meta-data
-            android:name="com.startapp.sdk.APPLICATION_ID"
-            android:value="207988034" />
-
-        <receiver
-            android:name="com.startapp.sdk.adsbase.remoteconfig.BootCompleteListener"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-            </intent-filter>
-        </receiver>
     </application>
 
 </manifest>

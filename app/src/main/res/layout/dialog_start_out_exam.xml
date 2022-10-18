@@ -74,10 +74,7 @@
         android:layout_width="350dp"
         android:layout_height="wrap_content"
         app:cardCornerRadius="10dp">
-        <com.startapp.sdk.ads.banner.banner3d.Banner3D
-            android:layout_gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+
     </androidx.cardview.widget.CardView>
 
 </RelativeLayout>

@@ -11,8 +11,8 @@ android {
         applicationId "com.nda.giai_bai_tap_hoa_lop_8"
         minSdkVersion 16
         targetSdkVersion 30
-        versionCode 5
-        versionName "5.0"
+        versionCode 6
+        versionName "6.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -31,7 +31,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.startapp:inapp-sdk:4.8.8'
     implementation platform('com.google.firebase:firebase-bom:28.2.1')
     implementation 'com.google.firebase:firebase-analytics'
 
